@@ -1,0 +1,3852 @@
+[
+  {
+    "city": "\u0391rxaia Olympia",
+    "name": "cyclopolis-arxaiaolympia",
+    "url": "http://api.citybik.es/cyclopolis-arxaiaolympia.json",
+    "tag": "cyclopolis-arxaiaolympia",
+    "radius": 20000,
+    "lat": 37641970,
+    "lng": 21624726,
+    "id": 0
+  },
+  {
+    "city": "K\u03b9ato",
+    "name": "cyclopolis-kiato",
+    "url": "http://api.citybik.es/cyclopolis-kiato.json",
+    "tag": "cyclopolis-kiato",
+    "radius": 20000,
+    "lat": 38013267,
+    "lng": 22749381,
+    "id": 1
+  },
+  {
+    "city": "Pau",
+    "name": "idecycle",
+    "url": "http://api.citybik.es/idecycle.json",
+    "tag": "idecycle",
+    "radius": 20000,
+    "lat": 43295100,
+    "lng": -370797,
+    "id": 2
+  },
+  {
+    "city": "Palma",
+    "name": "bicipalma",
+    "url": "http://api.citybik.es/bicipalma.json",
+    "tag": "bicipalma",
+    "radius": 20000,
+    "lat": 39571190,
+    "lng": 2646634,
+    "id": 3
+  },
+  {
+    "city": "Lille",
+    "name": "vlille",
+    "url": "http://api.citybik.es/vlille.json",
+    "tag": "vlille",
+    "radius": 20000,
+    "lat": 50629250,
+    "lng": 3057256,
+    "id": 4
+  },
+  {
+    "city": "Rhodes",
+    "name": "cyclopolis-rhodes",
+    "url": "http://api.citybik.es/cyclopolis-rhodes.json",
+    "tag": "cyclopolis-rhodes",
+    "radius": 20000,
+    "lat": 36450911,
+    "lng": 28224696,
+    "id": 5
+  },
+  {
+    "city": "\u039coschato-Tavros",
+    "name": "cyclopolis-moschatotavros",
+    "url": "http://api.citybik.es/cyclopolis-moschatotavros.json",
+    "tag": "cyclopolis-moschatotavros",
+    "radius": 20000,
+    "lat": 37953899,
+    "lng": 23682474,
+    "id": 6
+  },
+  {
+    "city": "Limnos",
+    "name": "cyclopolis-limnos",
+    "url": "http://api.citybik.es/cyclopolis-limnos.json",
+    "tag": "cyclopolis-limnos",
+    "radius": 20000,
+    "lat": 39874786,
+    "lng": 25058672,
+    "id": 7
+  },
+  {
+    "city": "Maroussi",
+    "name": "cyclopolis-nafplio",
+    "url": "http://api.citybik.es/cyclopolis-nafplio.json",
+    "tag": "cyclopolis-nafplio",
+    "radius": 20000,
+    "lat": 37563939,
+    "lng": 22809340,
+    "id": 8
+  },
+  {
+    "city": "Miami Beach, FL",
+    "name": "decobike-miami-beach",
+    "url": "http://api.citybik.es/decobike-miami-beach.json",
+    "tag": "decobike-miami-beach",
+    "radius": 20000,
+    "lat": 25790654,
+    "lng": -80130045,
+    "id": 9
+  },
+  {
+    "city": "Maroussi",
+    "name": "cyclopolis-aigialeia",
+    "url": "http://api.citybik.es/cyclopolis-aigialeia.json",
+    "tag": "cyclopolis-aigialeia",
+    "radius": 20000,
+    "lat": 38251110,
+    "lng": 22082157,
+    "id": 10
+  },
+  {
+    "city": "Marathon",
+    "name": "cyclopolis-marathon",
+    "url": "http://api.citybik.es/cyclopolis-marathon.json",
+    "tag": "cyclopolis-marathon",
+    "radius": 20000,
+    "lat": 38085568,
+    "lng": 23977638,
+    "id": 11
+  },
+  {
+    "city": "Le\u00f3n",
+    "name": "bicileon",
+    "url": "http://api.citybik.es/bicileon.json",
+    "tag": "bicileon",
+    "radius": 20000,
+    "lat": 42598726,
+    "lng": -5567095,
+    "id": 12
+  },
+  {
+    "city": "Maroussi",
+    "name": "cyclopolis-maroussi",
+    "url": "http://api.citybik.es/cyclopolis-maroussi.json",
+    "tag": "cyclopolis-maroussi",
+    "radius": 20000,
+    "lat": 38056872,
+    "lng": 23808329,
+    "id": 13
+  },
+  {
+    "city": "\u039dea Smyrni",
+    "name": "cyclopolis-neasmyrni",
+    "url": "http://api.citybik.es/cyclopolis-neasmyrni.json",
+    "tag": "cyclopolis-neasmyrni",
+    "radius": 20000,
+    "lat": 37938100,
+    "lng": 23712600,
+    "id": 14
+  },
+  {
+    "city": "Florina",
+    "name": "cyclopolis-florina",
+    "url": "http://api.citybik.es/cyclopolis-florina.json",
+    "tag": "cyclopolis-florina",
+    "radius": 20000,
+    "lat": 40801611,
+    "lng": 21424522,
+    "id": 15
+  },
+  {
+    "city": "San Diego, CA",
+    "name": "decobike-san-diego",
+    "url": "http://api.citybik.es/decobike-san-diego.json",
+    "tag": "decobike-san-diego",
+    "radius": 20000,
+    "lat": 32715738,
+    "lng": -117161083,
+    "id": 16
+  },
+  {
+    "city": "Siena",
+    "name": "bicincitta-siena",
+    "url": "http://api.citybik.es/bicincitta-siena.json",
+    "tag": "bicincitta-siena",
+    "radius": 20000,
+    "lat": 43318600,
+    "lng": 11330600,
+    "id": 17
+  },
+  {
+    "city": "Parco dei Colli di Bergamo",
+    "name": "bicincitta-parco-dei-colli-di-bergamo",
+    "url": "http://api.citybik.es/bicincitta-parco-dei-colli-di-bergamo.json",
+    "tag": "bicincitta-parco-dei-colli-di-bergamo",
+    "radius": 20000,
+    "lat": 45722956,
+    "lng": 9649230,
+    "id": 18
+  },
+  {
+    "city": "Mantova",
+    "name": "bicincitta-mantova",
+    "url": "http://api.citybik.es/bicincitta-mantova.json",
+    "tag": "bicincitta-mantova",
+    "radius": 20000,
+    "lat": 45158663,
+    "lng": 10783718,
+    "id": 19
+  },
+  {
+    "city": "Assemini",
+    "name": "bicincitta-assemini",
+    "url": "http://api.citybik.es/bicincitta-assemini.json",
+    "tag": "bicincitta-assemini",
+    "radius": 20000,
+    "lat": 39289563,
+    "lng": 9006601,
+    "id": 20
+  },
+  {
+    "city": "Tortol\u00ec",
+    "name": "bicincitta-tortoli",
+    "url": "http://api.citybik.es/bicincitta-tortoli.json",
+    "tag": "bicincitta-tortoli",
+    "radius": 20000,
+    "lat": 39926644,
+    "lng": 9654953,
+    "id": 21
+  },
+  {
+    "city": "Gaeta",
+    "name": "bicincitta-gaeta",
+    "url": "http://api.citybik.es/bicincitta-gaeta.json",
+    "tag": "bicincitta-gaeta",
+    "radius": 20000,
+    "lat": 41209620,
+    "lng": 13584335,
+    "id": 22
+  },
+  {
+    "city": "Borgarello",
+    "name": "bicincitta-borgarello",
+    "url": "http://api.citybik.es/bicincitta-borgarello.json",
+    "tag": "bicincitta-borgarello",
+    "radius": 20000,
+    "lat": 45239637,
+    "lng": 9136150,
+    "id": 23
+  },
+  {
+    "city": "Pizzighettone e Formigara",
+    "name": "bicincitta-pizzighettone-formigara",
+    "url": "http://api.citybik.es/bicincitta-pizzighettone-formigara.json",
+    "tag": "bicincitta-pizzighettone-formigara",
+    "radius": 20000,
+    "lat": 45186748,
+    "lng": 9778087,
+    "id": 24
+  },
+  {
+    "city": "Montecatini Terme",
+    "name": "bicincitta-montecatini-terme",
+    "url": "http://api.citybik.es/bicincitta-montecatini-terme.json",
+    "tag": "bicincitta-montecatini-terme",
+    "radius": 20000,
+    "lat": 43883627,
+    "lng": 10764385,
+    "id": 25
+  },
+  {
+    "city": "Carrara",
+    "name": "bicincitta-carrara",
+    "url": "http://api.citybik.es/bicincitta-carrara.json",
+    "tag": "bicincitta-carrara",
+    "radius": 20000,
+    "lat": 44077318,
+    "lng": 10097172,
+    "id": 26
+  },
+  {
+    "city": "Cernobbio",
+    "name": "bicincitta-cernobbio",
+    "url": "http://api.citybik.es/bicincitta-cernobbio.json",
+    "tag": "bicincitta-cernobbio",
+    "radius": 20000,
+    "lat": 45837459,
+    "lng": 9073591,
+    "id": 27
+  },
+  {
+    "city": "Sestri Levante - Lavagna",
+    "name": "tigullionbike",
+    "url": "http://api.citybik.es/tigullionbike.json",
+    "tag": "tigullionbike",
+    "radius": 20000,
+    "lat": 44272554,
+    "lng": 9395714,
+    "id": 28
+  },
+  {
+    "city": "Ascoli Piceno",
+    "name": "ascoli-piceno",
+    "url": "http://api.citybik.es/ascoli-piceno.json",
+    "tag": "ascoli-piceno",
+    "radius": 20000,
+    "lat": 42850000,
+    "lng": 13583333,
+    "id": 29
+  },
+  {
+    "city": "Santa Margherita Ligure - Portofino - Camogli",
+    "name": "portofino-park-and-bike",
+    "url": "http://api.citybik.es/portofino-park-and-bike.json",
+    "tag": "portofino-park-and-bike",
+    "radius": 20000,
+    "lat": 44335084,
+    "lng": 9211264,
+    "id": 30
+  },
+  {
+    "city": "Arezzo",
+    "name": "arbike",
+    "url": "http://api.citybik.es/arbike.json",
+    "tag": "arbike",
+    "radius": 20000,
+    "lat": 43473333,
+    "lng": 11870000,
+    "id": 31
+  },
+  {
+    "city": "Bergamo",
+    "name": "bigi",
+    "url": "http://api.citybik.es/bigi.json",
+    "tag": "bigi",
+    "radius": 20000,
+    "lat": 45695000,
+    "lng": 9670000,
+    "id": 32
+  },
+  {
+    "city": "Busto Arsizio",
+    "name": "bici-in-busto",
+    "url": "http://api.citybik.es/bici-in-busto.json",
+    "tag": "bici-in-busto",
+    "radius": 20000,
+    "lat": 45610555,
+    "lng": 8852062,
+    "id": 33
+  },
+  {
+    "city": "Biella",
+    "name": "biella",
+    "url": "http://api.citybik.es/biella.json",
+    "tag": "biella",
+    "radius": 20000,
+    "lat": 45577500,
+    "lng": 8051111,
+    "id": 34
+  },
+  {
+    "city": "Cernusco sul Naviglio - Pioltello - Carugate",
+    "name": "meglio-in-bici",
+    "url": "http://api.citybik.es/meglio-in-bici.json",
+    "tag": "meglio-in-bici",
+    "radius": 20000,
+    "lat": 45520541,
+    "lng": 9341984,
+    "id": 35
+  },
+  {
+    "city": "Cuneo",
+    "name": "cuneo",
+    "url": "http://api.citybik.es/cuneo.json",
+    "tag": "cuneo",
+    "radius": 20000,
+    "lat": 44384238,
+    "lng": 7541428,
+    "id": 36
+  },
+  {
+    "city": "Lecco",
+    "name": "lecco",
+    "url": "http://api.citybik.es/lecco.json",
+    "tag": "lecco",
+    "radius": 20000,
+    "lat": 45853554,
+    "lng": 9392366,
+    "id": 37
+  },
+  {
+    "city": "Frosinone",
+    "name": "free-bike-sharing",
+    "url": "http://api.citybik.es/free-bike-sharing.json",
+    "tag": "free-bike-sharing",
+    "radius": 20000,
+    "lat": 41645081,
+    "lng": 13342123,
+    "id": 38
+  },
+  {
+    "city": "Bath",
+    "name": "bike-in-bath",
+    "url": "http://api.citybik.es/bike-in-bath.json",
+    "tag": "bike-in-bath",
+    "radius": 20000,
+    "lat": 51381531,
+    "lng": -2362404,
+    "id": 39
+  },
+  {
+    "city": "Manerba del Garda",
+    "name": "manerba-in-bici",
+    "url": "http://api.citybik.es/manerba-in-bici.json",
+    "tag": "manerba-in-bici",
+    "radius": 20000,
+    "lat": 45561179,
+    "lng": 10559406,
+    "id": 40
+  },
+  {
+    "city": "Novara",
+    "name": "novara",
+    "url": "http://api.citybik.es/novara.json",
+    "tag": "novara",
+    "radius": 20000,
+    "lat": 45445740,
+    "lng": 8622165,
+    "id": 41
+  },
+  {
+    "city": "Padova",
+    "name": "goodbike",
+    "url": "http://api.citybik.es/goodbike.json",
+    "tag": "goodbike",
+    "radius": 20000,
+    "lat": 45406434,
+    "lng": 11876761,
+    "id": 42
+  },
+  {
+    "city": "Marciana Marina",
+    "name": "mar-e-bici",
+    "url": "http://api.citybik.es/mar-e-bici.json",
+    "tag": "mar-e-bici",
+    "radius": 20000,
+    "lat": 42805855,
+    "lng": 10196514,
+    "id": 43
+  },
+  {
+    "city": "Ischitella \u2013 Peschici \u2013 Rodi Garganico \u2013 Vico del Gargano",
+    "name": "parkinbici",
+    "url": "http://api.citybik.es/parkinbici.json",
+    "tag": "parkinbici",
+    "radius": 20000,
+    "lat": 41833502,
+    "lng": 16037292,
+    "id": 44
+  },
+  {
+    "city": "Parma",
+    "name": "parma",
+    "url": "http://api.citybik.es/parma.json",
+    "tag": "parma",
+    "radius": 20000,
+    "lat": 44801485,
+    "lng": 10327903,
+    "id": 45
+  },
+  {
+    "city": "Pavia",
+    "name": "pavia-in-bici",
+    "url": "http://api.citybik.es/pavia-in-bici.json",
+    "tag": "pavia-in-bici",
+    "radius": 20000,
+    "lat": 45184724,
+    "lng": 9158206,
+    "id": 46
+  },
+  {
+    "city": "Perugia",
+    "name": "bici-perugia",
+    "url": "http://api.citybik.es/bici-perugia.json",
+    "tag": "bici-perugia",
+    "radius": 20000,
+    "lat": 43110716,
+    "lng": 12390827,
+    "id": 47
+  },
+  {
+    "city": "Piacenza",
+    "name": "piacenza",
+    "url": "http://api.citybik.es/piacenza.json",
+    "tag": "piacenza",
+    "radius": 20000,
+    "lat": 45047375,
+    "lng": 9686581,
+    "id": 48
+  },
+  {
+    "city": "Reggio Emilia",
+    "name": "reggio-emilia",
+    "url": "http://api.citybik.es/reggio-emilia.json",
+    "tag": "reggio-emilia",
+    "radius": 20000,
+    "lat": 44698993,
+    "lng": 10629685,
+    "id": 49
+  },
+  {
+    "city": "Pinerolo",
+    "name": "pinerolo",
+    "url": "http://api.citybik.es/pinerolo.json",
+    "tag": "pinerolo",
+    "radius": 20000,
+    "lat": 44885025,
+    "lng": 7349995,
+    "id": 50
+  },
+  {
+    "city": "Rimini",
+    "name": "rimini",
+    "url": "http://api.citybik.es/rimini.json",
+    "tag": "rimini",
+    "radius": 20000,
+    "lat": 44057081,
+    "lng": 12564600,
+    "id": 51
+  },
+  {
+    "city": "Schio",
+    "name": "bicischio",
+    "url": "http://api.citybik.es/bicischio.json",
+    "tag": "bicischio",
+    "radius": 20000,
+    "lat": 45717051,
+    "lng": 11359770,
+    "id": 52
+  },
+  {
+    "city": "Saluzzo",
+    "name": "saluzzo",
+    "url": "http://api.citybik.es/saluzzo.json",
+    "tag": "saluzzo",
+    "radius": 20000,
+    "lat": 44644540,
+    "lng": 7492735,
+    "id": 53
+  },
+  {
+    "city": "Savigliano",
+    "name": "savigliano",
+    "url": "http://api.citybik.es/savigliano.json",
+    "tag": "savigliano",
+    "radius": 20000,
+    "lat": 44647032,
+    "lng": 7662463,
+    "id": 54
+  },
+  {
+    "city": "Terni",
+    "name": "terni",
+    "url": "http://api.citybik.es/terni.json",
+    "tag": "terni",
+    "radius": 20000,
+    "lat": 42563616,
+    "lng": 12642660,
+    "id": 55
+  },
+  {
+    "city": "Tirano",
+    "name": "tirano-in-bici",
+    "url": "http://api.citybik.es/tirano-in-bici.json",
+    "tag": "tirano-in-bici",
+    "radius": 20000,
+    "lat": 46216168,
+    "lng": 10169605,
+    "id": 56
+  },
+  {
+    "city": "Udine",
+    "name": "udine",
+    "url": "http://api.citybik.es/udine.json",
+    "tag": "udine",
+    "radius": 20000,
+    "lat": 46071066,
+    "lng": 13234579,
+    "id": 57
+  },
+  {
+    "city": "Ustica",
+    "name": "ustica",
+    "url": "http://api.citybik.es/ustica.json",
+    "tag": "ustica",
+    "radius": 20000,
+    "lat": 38703117,
+    "lng": 13168267,
+    "id": 58
+  },
+  {
+    "city": "Como",
+    "name": "bici-co",
+    "url": "http://api.citybik.es/bici-co.json",
+    "tag": "bici-co",
+    "radius": 20000,
+    "lat": 45808059,
+    "lng": 9085176,
+    "id": 59
+  },
+  {
+    "city": "Venezia",
+    "name": "venezia",
+    "url": "http://api.citybik.es/venezia.json",
+    "tag": "venezia",
+    "radius": 20000,
+    "lat": 45440847,
+    "lng": 12315515,
+    "id": 60
+  },
+  {
+    "city": "La Spezia",
+    "name": "speziainbici",
+    "url": "http://api.citybik.es/speziainbici.json",
+    "tag": "speziainbici",
+    "radius": 20000,
+    "lat": 44102450,
+    "lng": 9824082,
+    "id": 61
+  },
+  {
+    "city": "Torino",
+    "name": "to-bike",
+    "url": "http://api.citybik.es/to-bike.json",
+    "tag": "to-bike",
+    "radius": 20000,
+    "lat": 45070982,
+    "lng": 7685676,
+    "id": 62
+  },
+  {
+    "city": "Pisa",
+    "name": "ciclopi",
+    "url": "http://api.citybik.es/ciclopi.json",
+    "tag": "ciclopi",
+    "radius": 20000,
+    "lat": 43722838,
+    "lng": 10401688,
+    "id": 63
+  },
+  {
+    "city": "Cagliari",
+    "name": "cagliari",
+    "url": "http://api.citybik.es/cagliari.json",
+    "tag": "cagliari",
+    "radius": 20000,
+    "lat": 39220817,
+    "lng": 9121399,
+    "id": 64
+  },
+  {
+    "city": "Varese",
+    "name": "gimme-bike",
+    "url": "http://api.citybik.es/gimme-bike.json",
+    "tag": "gimme-bike",
+    "radius": 20000,
+    "lat": 45818390,
+    "lng": 8823913,
+    "id": 65
+  },
+  {
+    "city": "Sellero",
+    "name": "sellero",
+    "url": "http://api.citybik.es/sellero.json",
+    "tag": "sellero",
+    "radius": 20000,
+    "lat": 46063047,
+    "lng": 10353434,
+    "id": 66
+  },
+  {
+    "city": "Ugento",
+    "name": "ugento",
+    "url": "http://api.citybik.es/ugento.json",
+    "tag": "ugento",
+    "radius": 20000,
+    "lat": 39927351,
+    "lng": 18158296,
+    "id": 67
+  },
+  {
+    "city": "Civitavecchia",
+    "name": "civitavecchia",
+    "url": "http://api.citybik.es/civitavecchia.json",
+    "tag": "civitavecchia",
+    "radius": 20000,
+    "lat": 42093752,
+    "lng": 11792246,
+    "id": 68
+  },
+  {
+    "city": "Prata Camportaccio",
+    "name": "prata-camportaccio",
+    "url": "http://api.citybik.es/prata-camportaccio.json",
+    "tag": "prata-camportaccio",
+    "radius": 20000,
+    "lat": 46304214,
+    "lng": 9396491,
+    "id": 69
+  },
+  {
+    "city": "Barcellona Pozzo di Gotto",
+    "name": "longanoinbici",
+    "url": "http://api.citybik.es/longanoinbici.json",
+    "tag": "longanoinbici",
+    "radius": 20000,
+    "lat": 38149812,
+    "lng": 15212116,
+    "id": 70
+  },
+  {
+    "city": "Cassano d'Adda",
+    "name": "cassano-d-adda",
+    "url": "http://api.citybik.es/cassano-d-adda.json",
+    "tag": "cassano-d-adda",
+    "radius": 20000,
+    "lat": 45530961,
+    "lng": 9515581,
+    "id": 71
+  },
+  {
+    "city": "Rieti",
+    "name": "rietinbici",
+    "url": "http://api.citybik.es/rietinbici.json",
+    "tag": "rietinbici",
+    "radius": 20000,
+    "lat": 42402623,
+    "lng": 12860999,
+    "id": 72
+  },
+  {
+    "city": "Bianzone",
+    "name": "bianzone-in-bici",
+    "url": "http://api.citybik.es/bianzone-in-bici.json",
+    "tag": "bianzone-in-bici",
+    "radius": 20000,
+    "lat": 46188197,
+    "lng": 10109354,
+    "id": 73
+  },
+  {
+    "city": "Lecce",
+    "name": "lecce",
+    "url": "http://api.citybik.es/lecce.json",
+    "tag": "lecce",
+    "radius": 20000,
+    "lat": 40350403,
+    "lng": 18177824,
+    "id": 74
+  },
+  {
+    "city": "Castellucchio",
+    "name": "castellucchio",
+    "url": "http://api.citybik.es/castellucchio.json",
+    "tag": "castellucchio",
+    "radius": 20000,
+    "lat": 45150478,
+    "lng": 10651202,
+    "id": 75
+  },
+  {
+    "city": "Noto",
+    "name": "notoinbici",
+    "url": "http://api.citybik.es/notoinbici.json",
+    "tag": "notoinbici",
+    "radius": 20000,
+    "lat": 36889437,
+    "lng": 15074658,
+    "id": 76
+  },
+  {
+    "city": "Enna",
+    "name": "enna",
+    "url": "http://api.citybik.es/enna.json",
+    "tag": "enna",
+    "radius": 20000,
+    "lat": 37563425,
+    "lng": 14279737,
+    "id": 77
+  },
+  {
+    "city": "Carbonia",
+    "name": "carbonia",
+    "url": "http://api.citybik.es/carbonia.json",
+    "tag": "carbonia",
+    "radius": 20000,
+    "lat": 39167222,
+    "lng": 8522222,
+    "id": 78
+  },
+  {
+    "city": "Genova",
+    "name": "mobike",
+    "url": "http://api.citybik.es/mobike.json",
+    "tag": "mobike",
+    "radius": 20000,
+    "lat": 44404300,
+    "lng": 8929089,
+    "id": 79
+  },
+  {
+    "city": "Pordenone",
+    "name": "pordenone",
+    "url": "http://api.citybik.es/pordenone.json",
+    "tag": "pordenone",
+    "radius": 20000,
+    "lat": 45947901,
+    "lng": 12674491,
+    "id": 80
+  },
+  {
+    "city": "Trento",
+    "name": "e-motion-trento",
+    "url": "http://api.citybik.es/e-motion-trento.json",
+    "tag": "e-motion-trento",
+    "radius": 20000,
+    "lat": 46066432,
+    "lng": 11122145,
+    "id": 81
+  },
+  {
+    "city": "Cremona",
+    "name": "scegli-in-bici",
+    "url": "http://api.citybik.es/scegli-in-bici.json",
+    "tag": "scegli-in-bici",
+    "radius": 20000,
+    "lat": 45134914,
+    "lng": 10022264,
+    "id": 82
+  },
+  {
+    "city": "Pergine Valsugana",
+    "name": "e-motion-pergine-valsugana",
+    "url": "http://api.citybik.es/e-motion-pergine-valsugana.json",
+    "tag": "e-motion-pergine-valsugana",
+    "radius": 20000,
+    "lat": 46060504,
+    "lng": 11239041,
+    "id": 83
+  },
+  {
+    "city": "Rovereto",
+    "name": "e-motion-rovereto",
+    "url": "http://api.citybik.es/e-motion-rovereto.json",
+    "tag": "e-motion-rovereto",
+    "radius": 20000,
+    "lat": 45887106,
+    "lng": 11042242,
+    "id": 84
+  },
+  {
+    "city": "Provincia di Lodi",
+    "name": "we-love-bike",
+    "url": "http://api.citybik.es/we-love-bike.json",
+    "tag": "we-love-bike",
+    "radius": 20000,
+    "lat": 45124954,
+    "lng": 9651688,
+    "id": 85
+  },
+  {
+    "city": "Monopoli",
+    "name": "monopoli-bike",
+    "url": "http://api.citybik.es/monopoli-bike.json",
+    "tag": "monopoli-bike",
+    "radius": 20000,
+    "lat": 40945191,
+    "lng": 17311687,
+    "id": 86
+  },
+  {
+    "city": "Quartucciu",
+    "name": "bicinquartucciu",
+    "url": "http://api.citybik.es/bicinquartucciu.json",
+    "tag": "bicinquartucciu",
+    "radius": 20000,
+    "lat": 39250431,
+    "lng": 9179296,
+    "id": 87
+  },
+  {
+    "city": "Andria",
+    "name": "andria",
+    "url": "http://api.citybik.es/andria.json",
+    "tag": "andria",
+    "radius": 20000,
+    "lat": 41224346,
+    "lng": 16296983,
+    "id": 88
+  },
+  {
+    "city": "Olbia",
+    "name": "olbia-bike",
+    "url": "http://api.citybik.es/olbia-bike.json",
+    "tag": "olbia-bike",
+    "radius": 20000,
+    "lat": 40924054,
+    "lng": 9499439,
+    "id": 89
+  },
+  {
+    "city": "Bassano del Grappa",
+    "name": "bassanodelgrappa",
+    "url": "http://api.citybik.es/bassanodelgrappa.json",
+    "tag": "bassanodelgrappa",
+    "radius": 20000,
+    "lat": 45768611,
+    "lng": 11736667,
+    "id": 90
+  },
+  {
+    "city": "Savona",
+    "name": "savona",
+    "url": "http://api.citybik.es/savona.json",
+    "tag": "savona",
+    "radius": 20000,
+    "lat": 44295164,
+    "lng": 8463126,
+    "id": 91
+  },
+  {
+    "city": "Tradate",
+    "name": "tradate",
+    "url": "http://api.citybik.es/tradate.json",
+    "tag": "tradate",
+    "radius": 20000,
+    "lat": 45709385,
+    "lng": 8915993,
+    "id": 92
+  },
+  {
+    "city": "Brindisi",
+    "name": "brindisi",
+    "url": "http://api.citybik.es/brindisi.json",
+    "tag": "brindisi",
+    "radius": 20000,
+    "lat": 40637580,
+    "lng": 17940774,
+    "id": 93
+  },
+  {
+    "city": "Alba",
+    "name": "alba",
+    "url": "http://api.citybik.es/alba.json",
+    "tag": "alba",
+    "radius": 20000,
+    "lat": 44716667,
+    "lng": 8083333,
+    "id": 94
+  },
+  {
+    "city": "Bari",
+    "name": "bariinbici",
+    "url": "http://api.citybik.es/bariinbici.json",
+    "tag": "bariinbici",
+    "radius": 20000,
+    "lat": 41125278,
+    "lng": 16866667,
+    "id": 95
+  },
+  {
+    "city": "Bra",
+    "name": "bra",
+    "url": "http://api.citybik.es/bra.json",
+    "tag": "bra",
+    "radius": 20000,
+    "lat": 44694224,
+    "lng": 7854795,
+    "id": 96
+  },
+  {
+    "city": "Casalmaggiore",
+    "name": "casalmaggiore",
+    "url": "http://api.citybik.es/casalmaggiore.json",
+    "tag": "casalmaggiore",
+    "radius": 20000,
+    "lat": 44983499,
+    "lng": 10419245,
+    "id": 97
+  },
+  {
+    "city": "Cant\u00f9",
+    "name": "biciamo",
+    "url": "http://api.citybik.es/biciamo.json",
+    "tag": "biciamo",
+    "radius": 20000,
+    "lat": 45736260,
+    "lng": 9125690,
+    "id": 98
+  },
+  {
+    "city": "Chivasso",
+    "name": "chivasso",
+    "url": "http://api.citybik.es/chivasso.json",
+    "tag": "chivasso",
+    "radius": 20000,
+    "lat": 45189765,
+    "lng": 7888935,
+    "id": 99
+  },
+  {
+    "city": "Jesi",
+    "name": "jesinbici",
+    "url": "http://api.citybik.es/jesinbici.json",
+    "tag": "jesinbici",
+    "radius": 20000,
+    "lat": 43522601,
+    "lng": 13244448,
+    "id": 100
+  },
+  {
+    "city": "Santa Maria Maggiore - Malesco - Villette",
+    "name": "ossola",
+    "url": "http://api.citybik.es/ossola.json",
+    "tag": "ossola",
+    "radius": 20000,
+    "lat": 46127196,
+    "lng": 8499169,
+    "id": 101
+  },
+  {
+    "city": "Novi Ligure",
+    "name": "noviligure",
+    "url": "http://api.citybik.es/noviligure.json",
+    "tag": "noviligure",
+    "radius": 20000,
+    "lat": 44762004,
+    "lng": 8785895,
+    "id": 102
+  },
+  {
+    "city": "Pamplona",
+    "name": "nbici",
+    "url": "http://api.citybik.es/nbici.json",
+    "tag": "nbici",
+    "radius": 20000,
+    "lat": 42811663,
+    "lng": -1648265,
+    "id": 103
+  },
+  {
+    "city": "Oderzo",
+    "name": "oderzo",
+    "url": "http://api.citybik.es/oderzo.json",
+    "tag": "oderzo",
+    "radius": 20000,
+    "lat": 45779764,
+    "lng": 12497311,
+    "id": 104
+  },
+  {
+    "city": "Pistoia",
+    "name": "pistoiainbici",
+    "url": "http://api.citybik.es/pistoiainbici.json",
+    "tag": "pistoiainbici",
+    "radius": 20000,
+    "lat": 43930347,
+    "lng": 10907858,
+    "id": 105
+  },
+  {
+    "city": "Treviso",
+    "name": "treviso",
+    "url": "http://api.citybik.es/treviso.json",
+    "tag": "treviso",
+    "radius": 20000,
+    "lat": 45666901,
+    "lng": 12243039,
+    "id": 106
+  },
+  {
+    "city": "Pontedera",
+    "name": "pontedera",
+    "url": "http://api.citybik.es/pontedera.json",
+    "tag": "pontedera",
+    "radius": 20000,
+    "lat": 43662515,
+    "lng": 10636358,
+    "id": 107
+  },
+  {
+    "city": "Prato",
+    "name": "prato",
+    "url": "http://api.citybik.es/prato.json",
+    "tag": "prato",
+    "radius": 20000,
+    "lat": 43877704,
+    "lng": 11102228,
+    "id": 108
+  },
+  {
+    "city": "San Don\u00e0 di Piave",
+    "name": "sandonadipiave",
+    "url": "http://api.citybik.es/sandonadipiave.json",
+    "tag": "sandonadipiave",
+    "radius": 20000,
+    "lat": 45633185,
+    "lng": 12565429,
+    "id": 109
+  },
+  {
+    "city": "Settimo Torinese",
+    "name": "settimotorinese",
+    "url": "http://api.citybik.es/settimotorinese.json",
+    "tag": "settimotorinese",
+    "radius": 20000,
+    "lat": 45139586,
+    "lng": 7770978,
+    "id": 110
+  },
+  {
+    "city": "Siracusa",
+    "name": "gobike",
+    "url": "http://api.citybik.es/gobike.json",
+    "tag": "gobike",
+    "radius": 20000,
+    "lat": 37075473,
+    "lng": 15286586,
+    "id": 111
+  },
+  {
+    "city": "Sondrio",
+    "name": "sondrio",
+    "url": "http://api.citybik.es/sondrio.json",
+    "tag": "sondrio",
+    "radius": 20000,
+    "lat": 46169858,
+    "lng": 9878767,
+    "id": 112
+  },
+  {
+    "city": "Vercelli",
+    "name": "vercelli",
+    "url": "http://api.citybik.es/vercelli.json",
+    "tag": "vercelli",
+    "radius": 20000,
+    "lat": 45320227,
+    "lng": 8418573,
+    "id": 113
+  },
+  {
+    "city": "Villorba",
+    "name": "villorba",
+    "url": "http://api.citybik.es/villorba.json",
+    "tag": "villorba",
+    "radius": 20000,
+    "lat": 45741122,
+    "lng": 12234384,
+    "id": 114
+  },
+  {
+    "city": "Roma",
+    "name": "roma-n-bike",
+    "url": "http://api.citybik.es/roma-n-bike.json",
+    "tag": "roma-n-bike",
+    "radius": 20000,
+    "lat": 41892916,
+    "lng": 12482519,
+    "id": 115
+  },
+  {
+    "city": "Bydgoszcz",
+    "name": "bikeu-bra",
+    "url": "http://api.citybik.es/bikeu-bra.json",
+    "tag": "bikeu-bra",
+    "radius": 20000,
+    "lat": 53121930,
+    "lng": 18000380,
+    "id": 116
+  },
+  {
+    "city": "Szczecin",
+    "name": "bikes-srm",
+    "url": "http://api.citybik.es/bikes-srm.json",
+    "tag": "bikes-srm",
+    "radius": 20000,
+    "lat": 53438056,
+    "lng": 14542222,
+    "id": 117
+  },
+  {
+    "city": "Bielsko-Bia\u0142a",
+    "name": "bbbike",
+    "url": "http://api.citybik.es/bbbike.json",
+    "tag": "bbbike",
+    "radius": 20000,
+    "lat": 49822500,
+    "lng": 19044444,
+    "id": 118
+  },
+  {
+    "city": "Milano",
+    "name": "bikemi",
+    "url": "http://api.citybik.es/bikemi.json",
+    "tag": "bikemi",
+    "radius": 20000,
+    "lat": 45465454,
+    "lng": 9186516,
+    "id": 119
+  },
+  {
+    "city": "Zaragoza",
+    "name": "bizi",
+    "url": "http://api.citybik.es/bizi.json",
+    "tag": "bizi",
+    "radius": 20000,
+    "lat": 41648790,
+    "lng": -889581,
+    "id": 120
+  },
+  {
+    "city": "Antwerpen",
+    "name": "velo-antwerpen",
+    "url": "http://api.citybik.es/velo-antwerpen.json",
+    "tag": "velo-antwerpen",
+    "radius": 20000,
+    "lat": 51216667,
+    "lng": 4400000,
+    "id": 121
+  },
+  {
+    "city": "Barcelona",
+    "name": "bicing",
+    "url": "http://api.citybik.es/bicing.json",
+    "tag": "bicing",
+    "radius": 20000,
+    "lat": 41385063,
+    "lng": 2173403,
+    "id": 122
+  },
+  {
+    "city": "Cd de M\u00e9xico",
+    "name": "ecobici",
+    "url": "http://api.citybik.es/ecobici.json",
+    "tag": "ecobici",
+    "radius": 20000,
+    "lat": 19432607,
+    "lng": -99133208,
+    "id": 123
+  },
+  {
+    "city": "Leipzig",
+    "name": "nextbike-leipzig",
+    "url": "http://api.citybik.es/nextbike-leipzig.json",
+    "tag": "nextbike-leipzig",
+    "radius": 20000,
+    "lat": 51341500,
+    "lng": 12362500,
+    "id": 124
+  },
+  {
+    "city": "T\u00fcbingen",
+    "name": "nextbike-tubingen",
+    "url": "http://api.citybik.es/nextbike-tubingen.json",
+    "tag": "nextbike-tubingen",
+    "radius": 20000,
+    "lat": 48520300,
+    "lng": 9055910,
+    "id": 125
+  },
+  {
+    "city": "Luzern",
+    "name": "nextbike-luzern",
+    "url": "http://api.citybik.es/nextbike-luzern.json",
+    "tag": "nextbike-luzern",
+    "radius": 20000,
+    "lat": 47047200,
+    "lng": 8304460,
+    "id": 126
+  },
+  {
+    "city": "R\u012bga",
+    "name": "sixt-latvia-riga",
+    "url": "http://api.citybik.es/sixt-latvia-riga.json",
+    "tag": "sixt-latvia-riga",
+    "radius": 20000,
+    "lat": 56945300,
+    "lng": 24103300,
+    "id": 127
+  },
+  {
+    "city": "Dortmund",
+    "name": "metropolradruhr-germany-dortmund",
+    "url": "http://api.citybik.es/metropolradruhr-germany-dortmund.json",
+    "tag": "metropolradruhr-germany-dortmund",
+    "radius": 20000,
+    "lat": 51514100,
+    "lng": 7462550,
+    "id": 128
+  },
+  {
+    "city": "Bochum",
+    "name": "metropolradruhr-germany-bochum",
+    "url": "http://api.citybik.es/metropolradruhr-germany-bochum.json",
+    "tag": "metropolradruhr-germany-bochum",
+    "radius": 20000,
+    "lat": 51481300,
+    "lng": 7213300,
+    "id": 129
+  },
+  {
+    "city": "Essen",
+    "name": "metropolradruhr-germany-essen",
+    "url": "http://api.citybik.es/metropolradruhr-germany-essen.json",
+    "tag": "metropolradruhr-germany-essen",
+    "radius": 20000,
+    "lat": 51442500,
+    "lng": 7023010,
+    "id": 130
+  },
+  {
+    "city": "Hamm",
+    "name": "metropolradruhr-germany-hamm",
+    "url": "http://api.citybik.es/metropolradruhr-germany-hamm.json",
+    "tag": "metropolradruhr-germany-hamm",
+    "radius": 20000,
+    "lat": 51677500,
+    "lng": 7848360,
+    "id": 131
+  },
+  {
+    "city": "Bottrop",
+    "name": "metropolradruhr-germany-bottrop",
+    "url": "http://api.citybik.es/metropolradruhr-germany-bottrop.json",
+    "tag": "metropolradruhr-germany-bottrop",
+    "radius": 20000,
+    "lat": 51526300,
+    "lng": 6946110,
+    "id": 132
+  },
+  {
+    "city": "Herne",
+    "name": "metropolradruhr-germany-herne",
+    "url": "http://api.citybik.es/metropolradruhr-germany-herne.json",
+    "tag": "metropolradruhr-germany-herne",
+    "radius": 20000,
+    "lat": 51536300,
+    "lng": 7214930,
+    "id": 133
+  },
+  {
+    "city": "Gelsenkirchen",
+    "name": "metropolradruhr-germany-gelsenkirchen",
+    "url": "http://api.citybik.es/metropolradruhr-germany-gelsenkirchen.json",
+    "tag": "metropolradruhr-germany-gelsenkirchen",
+    "radius": 20000,
+    "lat": 51540400,
+    "lng": 7070390,
+    "id": 134
+  },
+  {
+    "city": "Duisburg",
+    "name": "metropolradruhr-germany-duisburg",
+    "url": "http://api.citybik.es/metropolradruhr-germany-duisburg.json",
+    "tag": "metropolradruhr-germany-duisburg",
+    "radius": 20000,
+    "lat": 51448700,
+    "lng": 6775130,
+    "id": 135
+  },
+  {
+    "city": "M\u00fclheim a.d.R.",
+    "name": "metropolradruhr-germany-mulheim-a-d-r",
+    "url": "http://api.citybik.es/metropolradruhr-germany-mulheim-a-d-r.json",
+    "tag": "metropolradruhr-germany-mulheim-a-d-r",
+    "radius": 20000,
+    "lat": 51430800,
+    "lng": 6874010,
+    "id": 136
+  },
+  {
+    "city": "Oberhausen",
+    "name": "metropolradruhr-germany-oberhausen",
+    "url": "http://api.citybik.es/metropolradruhr-germany-oberhausen.json",
+    "tag": "metropolradruhr-germany-oberhausen",
+    "radius": 20000,
+    "lat": 51493600,
+    "lng": 6851690,
+    "id": 137
+  },
+  {
+    "city": "M\u00fcnchen",
+    "name": "nextbike-munchen",
+    "url": "http://api.citybik.es/nextbike-munchen.json",
+    "tag": "nextbike-munchen",
+    "radius": 20000,
+    "lat": 48139200,
+    "lng": 11579100,
+    "id": 138
+  },
+  {
+    "city": "J\u016brmala",
+    "name": "sixt-latvia-jurmala",
+    "url": "http://api.citybik.es/sixt-latvia-jurmala.json",
+    "tag": "sixt-latvia-jurmala",
+    "radius": 20000,
+    "lat": 56973200,
+    "lng": 23822500,
+    "id": 139
+  },
+  {
+    "city": "Wachau",
+    "name": "nextbike-wachau",
+    "url": "http://api.citybik.es/nextbike-wachau.json",
+    "tag": "nextbike-wachau",
+    "radius": 20000,
+    "lat": 48318800,
+    "lng": 15416600,
+    "id": 140
+  },
+  {
+    "city": "Tulln",
+    "name": "nextbike-tulln",
+    "url": "http://api.citybik.es/nextbike-tulln.json",
+    "tag": "nextbike-tulln",
+    "radius": 20000,
+    "lat": 48326900,
+    "lng": 16056899,
+    "id": 141
+  },
+  {
+    "city": "Triestingtal",
+    "name": "nextbike-triestingtal",
+    "url": "http://api.citybik.es/nextbike-triestingtal.json",
+    "tag": "nextbike-triestingtal",
+    "radius": 20000,
+    "lat": 47983500,
+    "lng": 16081199,
+    "id": 142
+  },
+  {
+    "city": "Thermenregion",
+    "name": "nextbike-thermenregion",
+    "url": "http://api.citybik.es/nextbike-thermenregion.json",
+    "tag": "nextbike-thermenregion",
+    "radius": 20000,
+    "lat": 47989200,
+    "lng": 16264600,
+    "id": 143
+  },
+  {
+    "city": "Flensburg",
+    "name": "nextbike-flensburg",
+    "url": "http://api.citybik.es/nextbike-flensburg.json",
+    "tag": "nextbike-flensburg",
+    "radius": 20000,
+    "lat": 54780400,
+    "lng": 9435710,
+    "id": 144
+  },
+  {
+    "city": "R\u00f6merland",
+    "name": "nextbike-romerland",
+    "url": "http://api.citybik.es/nextbike-romerland.json",
+    "tag": "nextbike-romerland",
+    "radius": 20000,
+    "lat": 48090900,
+    "lng": 16853000,
+    "id": 145
+  },
+  {
+    "city": "\u00d6BB-Bahnh\u00f6fe",
+    "name": "nextbike-obb-bahnhofe",
+    "url": "http://api.citybik.es/nextbike-obb-bahnhofe.json",
+    "tag": "nextbike-obb-bahnhofe",
+    "radius": 20000,
+    "lat": 48019300,
+    "lng": 16309200,
+    "id": 146
+  },
+  {
+    "city": "Offenburg",
+    "name": "nextbike-offenburg",
+    "url": "http://api.citybik.es/nextbike-offenburg.json",
+    "tag": "nextbike-offenburg",
+    "radius": 20000,
+    "lat": 48472100,
+    "lng": 7942430,
+    "id": 147
+  },
+  {
+    "city": "Wr.Neustadt",
+    "name": "nextbike-wr-neustadt",
+    "url": "http://api.citybik.es/nextbike-wr-neustadt.json",
+    "tag": "nextbike-wr-neustadt",
+    "radius": 20000,
+    "lat": 47822100,
+    "lng": 16249800,
+    "id": 148
+  },
+  {
+    "city": "Potsdam",
+    "name": "nextbike-potsdam",
+    "url": "http://api.citybik.es/nextbike-potsdam.json",
+    "tag": "nextbike-potsdam",
+    "radius": 20000,
+    "lat": 52399700,
+    "lng": 13067600,
+    "id": 149
+  },
+  {
+    "city": "Bielefeld",
+    "name": "nextbike-bielefeld",
+    "url": "http://api.citybik.es/nextbike-bielefeld.json",
+    "tag": "nextbike-bielefeld",
+    "radius": 20000,
+    "lat": 52025700,
+    "lng": 8532860,
+    "id": 150
+  },
+  {
+    "city": "G\u00fctersloh",
+    "name": "nextbike-gutersloh",
+    "url": "http://api.citybik.es/nextbike-gutersloh.json",
+    "tag": "nextbike-gutersloh",
+    "radius": 20000,
+    "lat": 51904900,
+    "lng": 8392750,
+    "id": 151
+  },
+  {
+    "city": "Seattle, WA",
+    "name": "pronto-cycle-share",
+    "url": "http://api.citybik.es/pronto-cycle-share.json",
+    "tag": "pronto-cycle-share",
+    "radius": 20000,
+    "lat": 47606209,
+    "lng": -122332071,
+    "id": 152
+  },
+  {
+    "city": "Krems Ost",
+    "name": "nextbike-krems-ost",
+    "url": "http://api.citybik.es/nextbike-krems-ost.json",
+    "tag": "nextbike-krems-ost",
+    "radius": 20000,
+    "lat": 48418300,
+    "lng": 15690900,
+    "id": 153
+  },
+  {
+    "city": "Unteres Traisental",
+    "name": "nextbike-unteres-traisental",
+    "url": "http://api.citybik.es/nextbike-unteres-traisental.json",
+    "tag": "nextbike-unteres-traisental",
+    "radius": 20000,
+    "lat": 48334300,
+    "lng": 15687800,
+    "id": 154
+  },
+  {
+    "city": "Piestingtal",
+    "name": "nextbike-piestingtal",
+    "url": "http://api.citybik.es/nextbike-piestingtal.json",
+    "tag": "nextbike-piestingtal",
+    "radius": 20000,
+    "lat": 47884100,
+    "lng": 15946700,
+    "id": 155
+  },
+  {
+    "city": "Marchfeld",
+    "name": "nextbike-marchfeld",
+    "url": "http://api.citybik.es/nextbike-marchfeld.json",
+    "tag": "nextbike-marchfeld",
+    "radius": 20000,
+    "lat": 48274100,
+    "lng": 16711600,
+    "id": 156
+  },
+  {
+    "city": "10vorWien",
+    "name": "nextbike-10vorwien",
+    "url": "http://api.citybik.es/nextbike-10vorwien.json",
+    "tag": "nextbike-10vorwien",
+    "radius": 20000,
+    "lat": 48346200,
+    "lng": 16273499,
+    "id": 157
+  },
+  {
+    "city": "Usedom",
+    "name": "usedomrad-germany-usedom",
+    "url": "http://api.citybik.es/usedomrad-germany-usedom.json",
+    "tag": "usedomrad-germany-usedom",
+    "radius": 20000,
+    "lat": 53977900,
+    "lng": 13992500,
+    "id": 158
+  },
+  {
+    "city": "Augsburg",
+    "name": "nextbike-augsburg",
+    "url": "http://api.citybik.es/nextbike-augsburg.json",
+    "tag": "nextbike-augsburg",
+    "radius": 20000,
+    "lat": 48364700,
+    "lng": 10891600,
+    "id": 159
+  },
+  {
+    "city": "Traisen-G\u00f6lsental",
+    "name": "nextbike-traisen-golsental",
+    "url": "http://api.citybik.es/nextbike-traisen-golsental.json",
+    "tag": "nextbike-traisen-golsental",
+    "radius": 20000,
+    "lat": 47950400,
+    "lng": 15612900,
+    "id": 160
+  },
+  {
+    "city": "Konya",
+    "name": "nextbike-konya",
+    "url": "http://api.citybik.es/nextbike-konya.json",
+    "tag": "nextbike-konya",
+    "radius": 20000,
+    "lat": 37871500,
+    "lng": 32495700,
+    "id": 161
+  },
+  {
+    "city": "Norderstedt",
+    "name": "nextbike-norderstedt",
+    "url": "http://api.citybik.es/nextbike-norderstedt.json",
+    "tag": "nextbike-norderstedt",
+    "radius": 20000,
+    "lat": 53696900,
+    "lng": 10002000,
+    "id": 162
+  },
+  {
+    "city": "Laa an der Thaya",
+    "name": "nextbike-laa-an-der-thaya",
+    "url": "http://api.citybik.es/nextbike-laa-an-der-thaya.json",
+    "tag": "nextbike-laa-an-der-thaya",
+    "radius": 20000,
+    "lat": 48719600,
+    "lng": 16387799,
+    "id": 163
+  },
+  {
+    "city": "S\u00fcdheide",
+    "name": "nextbike-sudheide",
+    "url": "http://api.citybik.es/nextbike-sudheide.json",
+    "tag": "nextbike-sudheide",
+    "radius": 20000,
+    "lat": 48107700,
+    "lng": 16393699,
+    "id": 164
+  },
+  {
+    "city": "Limassol",
+    "name": "nextbike-limassol",
+    "url": "http://api.citybik.es/nextbike-limassol.json",
+    "tag": "nextbike-limassol",
+    "radius": 20000,
+    "lat": 34682300,
+    "lng": 33046400,
+    "id": 165
+  },
+  {
+    "city": "Oberes Ybbstal",
+    "name": "nextbike-oberes-ybbstal",
+    "url": "http://api.citybik.es/nextbike-oberes-ybbstal.json",
+    "tag": "nextbike-oberes-ybbstal",
+    "radius": 20000,
+    "lat": 47820500,
+    "lng": 15007300,
+    "id": 166
+  },
+  {
+    "city": "Heidelberg",
+    "name": "nextbike-heidelberg",
+    "url": "http://api.citybik.es/nextbike-heidelberg.json",
+    "tag": "nextbike-heidelberg",
+    "radius": 20000,
+    "lat": 49411300,
+    "lng": 8689330,
+    "id": 167
+  },
+  {
+    "city": "Christchurch",
+    "name": "nextbike-christchurch",
+    "url": "http://api.citybik.es/nextbike-christchurch.json",
+    "tag": "nextbike-christchurch",
+    "radius": 20000,
+    "lat": -43534100,
+    "lng": 172621000,
+    "id": 168
+  },
+  {
+    "city": "Innsbruck",
+    "name": "stadtrad-innsbruck-innsbruck",
+    "url": "http://api.citybik.es/stadtrad-innsbruck-innsbruck.json",
+    "tag": "stadtrad-innsbruck-innsbruck",
+    "radius": 20000,
+    "lat": 47263200,
+    "lng": 11396100,
+    "id": 169
+  },
+  {
+    "city": "Mannheim",
+    "name": "nextbike-mannheim",
+    "url": "http://api.citybik.es/nextbike-mannheim.json",
+    "tag": "nextbike-mannheim",
+    "radius": 20000,
+    "lat": 49462100,
+    "lng": 8490540,
+    "id": 170
+  },
+  {
+    "city": "Tullnerfeld West",
+    "name": "nextbike-tullnerfeld-west",
+    "url": "http://api.citybik.es/nextbike-tullnerfeld-west.json",
+    "tag": "nextbike-tullnerfeld-west",
+    "radius": 20000,
+    "lat": 48299400,
+    "lng": 15906500,
+    "id": 171
+  },
+  {
+    "city": "Berlin",
+    "name": "nextbike-berlin",
+    "url": "http://api.citybik.es/nextbike-berlin.json",
+    "tag": "nextbike-berlin",
+    "radius": 20000,
+    "lat": 52508700,
+    "lng": 13356300,
+    "id": 172
+  },
+  {
+    "city": "Dresden",
+    "name": "sz-bike-germany-dresden",
+    "url": "http://api.citybik.es/sz-bike-germany-dresden.json",
+    "tag": "sz-bike-germany-dresden",
+    "radius": 20000,
+    "lat": 51053500,
+    "lng": 13738700,
+    "id": 173
+  },
+  {
+    "city": "Karlsruhe",
+    "name": "facherrad-germany-karlsruhe",
+    "url": "http://api.citybik.es/facherrad-germany-karlsruhe.json",
+    "tag": "facherrad-germany-karlsruhe",
+    "radius": 20000,
+    "lat": 49010200,
+    "lng": 8418270,
+    "id": 174
+  },
+  {
+    "city": "Hollabrunn",
+    "name": "nextbike-hollabrunn",
+    "url": "http://api.citybik.es/nextbike-hollabrunn.json",
+    "tag": "nextbike-hollabrunn",
+    "radius": 20000,
+    "lat": 48562000,
+    "lng": 16078499,
+    "id": 175
+  },
+  {
+    "city": "WienerWald",
+    "name": "nextbike-wienerwald",
+    "url": "http://api.citybik.es/nextbike-wienerwald.json",
+    "tag": "nextbike-wienerwald",
+    "radius": 20000,
+    "lat": 48191700,
+    "lng": 16119700,
+    "id": 176
+  },
+  {
+    "city": "Dobrich",
+    "name": "nextbike-dobrich",
+    "url": "http://api.citybik.es/nextbike-dobrich.json",
+    "tag": "nextbike-dobrich",
+    "radius": 20000,
+    "lat": 43567000,
+    "lng": 27828500,
+    "id": 177
+  },
+  {
+    "city": "Dubai",
+    "name": "bykystations-uae-dubai",
+    "url": "http://api.citybik.es/bykystations-uae-dubai.json",
+    "tag": "bykystations-uae-dubai",
+    "radius": 20000,
+    "lat": 25243500,
+    "lng": 55272200,
+    "id": 178
+  },
+  {
+    "city": "Zagreb",
+    "name": "nextbike-zagreb",
+    "url": "http://api.citybik.es/nextbike-zagreb.json",
+    "tag": "nextbike-zagreb",
+    "radius": 20000,
+    "lat": 45798800,
+    "lng": 15964300,
+    "id": 179
+  },
+  {
+    "city": "Bietigheim-Bissingen",
+    "name": "ebikestation-stuttgart-germany-bietigheim-bissingen",
+    "url": "http://api.citybik.es/ebikestation-stuttgart-germany-bietigheim-bissingen.json",
+    "tag": "ebikestation-stuttgart-germany-bietigheim-bissingen",
+    "radius": 20000,
+    "lat": 48949500,
+    "lng": 9125180,
+    "id": 180
+  },
+  {
+    "city": "NeusiedlerSee",
+    "name": "nextbike-neusiedlersee",
+    "url": "http://api.citybik.es/nextbike-neusiedlersee.json",
+    "tag": "nextbike-neusiedlersee",
+    "radius": 20000,
+    "lat": 47839000,
+    "lng": 16761000,
+    "id": 181
+  },
+  {
+    "city": "Al Sharjah",
+    "name": "bykystations-uae-al-sharjah",
+    "url": "http://api.citybik.es/bykystations-uae-al-sharjah.json",
+    "tag": "bykystations-uae-al-sharjah",
+    "radius": 20000,
+    "lat": 25219900,
+    "lng": 55225500,
+    "id": 182
+  },
+  {
+    "city": "Bath",
+    "name": "nextbike-bath",
+    "url": "http://api.citybik.es/nextbike-bath.json",
+    "tag": "nextbike-bath",
+    "radius": 20000,
+    "lat": 51382000,
+    "lng": -2362750,
+    "id": 183
+  },
+  {
+    "city": "Belfast",
+    "name": "belfastbikes-belfast",
+    "url": "http://api.citybik.es/belfastbikes-belfast.json",
+    "tag": "belfastbikes-belfast",
+    "radius": 20000,
+    "lat": 54596900,
+    "lng": -5929180,
+    "id": 184
+  },
+  {
+    "city": "Friedrichshafen",
+    "name": "nextbike-friedrichshafen",
+    "url": "http://api.citybik.es/nextbike-friedrichshafen.json",
+    "tag": "nextbike-friedrichshafen",
+    "radius": 20000,
+    "lat": 47651900,
+    "lng": 9478370,
+    "id": 185
+  },
+  {
+    "city": "Glasgow",
+    "name": "nextbike-glasgow",
+    "url": "http://api.citybik.es/nextbike-glasgow.json",
+    "tag": "nextbike-glasgow",
+    "radius": 20000,
+    "lat": 55858900,
+    "lng": -4255490,
+    "id": 186
+  },
+  {
+    "city": "Stirling",
+    "name": "nextbike-stirling",
+    "url": "http://api.citybik.es/nextbike-stirling.json",
+    "tag": "nextbike-stirling",
+    "radius": 20000,
+    "lat": 56116500,
+    "lng": -3936900,
+    "id": 187
+  },
+  {
+    "city": "\u0160ibenik",
+    "name": "bike-point-sibenik-sibenik",
+    "url": "http://api.citybik.es/bike-point-sibenik-sibenik.json",
+    "tag": "bike-point-sibenik-sibenik",
+    "radius": 20000,
+    "lat": 43733000,
+    "lng": 15898200,
+    "id": 188
+  },
+  {
+    "city": "Seferihisar",
+    "name": "karbis-turkey-seferihisar",
+    "url": "http://api.citybik.es/karbis-turkey-seferihisar.json",
+    "tag": "karbis-turkey-seferihisar",
+    "radius": 20000,
+    "lat": 38196200,
+    "lng": 26838600,
+    "id": 189
+  },
+  {
+    "city": "Lublin",
+    "name": "lrm-lublin-poland-lublin",
+    "url": "http://api.citybik.es/lrm-lublin-poland-lublin.json",
+    "tag": "lrm-lublin-poland-lublin",
+    "radius": 20000,
+    "lat": 51259700,
+    "lng": 22565800,
+    "id": 190
+  },
+  {
+    "city": "Grodzisk Mazowiecki",
+    "name": "grm-grodzisk-poland-grodzisk-mazowiecki",
+    "url": "http://api.citybik.es/grm-grodzisk-poland-grodzisk-mazowiecki.json",
+    "tag": "grm-grodzisk-poland-grodzisk-mazowiecki",
+    "radius": 20000,
+    "lat": 52113000,
+    "lng": 20626500,
+    "id": 191
+  },
+  {
+    "city": "Pittsburgh",
+    "name": "healthy-ride-pittsburgh-pittsburgh",
+    "url": "http://api.citybik.es/healthy-ride-pittsburgh-pittsburgh.json",
+    "tag": "healthy-ride-pittsburgh-pittsburgh",
+    "radius": 20000,
+    "lat": 40445900,
+    "lng": -79994500,
+    "id": 192
+  },
+  {
+    "city": "Cambridge",
+    "name": "nextbike-cambridge",
+    "url": "http://api.citybik.es/nextbike-cambridge.json",
+    "tag": "nextbike-cambridge",
+    "radius": 20000,
+    "lat": -37891400,
+    "lng": 175472000,
+    "id": 193
+  },
+  {
+    "city": "Schwieberdingen",
+    "name": "ebikestation-stuttgart-germany-schwieberdingen",
+    "url": "http://api.citybik.es/ebikestation-stuttgart-germany-schwieberdingen.json",
+    "tag": "ebikestation-stuttgart-germany-schwieberdingen",
+    "radius": 20000,
+    "lat": 48872300,
+    "lng": 9074190,
+    "id": 194
+  },
+  {
+    "city": "Quickborn",
+    "name": "nextbike-quickborn",
+    "url": "http://api.citybik.es/nextbike-quickborn.json",
+    "tag": "nextbike-quickborn",
+    "radius": 20000,
+    "lat": 53733300,
+    "lng": 9902720,
+    "id": 195
+  },
+  {
+    "city": "Hoboken",
+    "name": "hudsonbikeshare-hoboken",
+    "url": "http://api.citybik.es/hudsonbikeshare-hoboken.json",
+    "tag": "hudsonbikeshare-hoboken",
+    "radius": 20000,
+    "lat": 40744700,
+    "lng": -74034100,
+    "id": 196
+  },
+  {
+    "city": "King Abdullah Economic City",
+    "name": "ibike-saudi-arabia-king-abdullah-economic-city",
+    "url": "http://api.citybik.es/ibike-saudi-arabia-king-abdullah-economic-city.json",
+    "tag": "ibike-saudi-arabia-king-abdullah-economic-city",
+    "radius": 20000,
+    "lat": 22311300,
+    "lng": 39103100,
+    "id": 197
+  },
+  {
+    "city": "Speyer",
+    "name": "nextbike-speyer",
+    "url": "http://api.citybik.es/nextbike-speyer.json",
+    "tag": "nextbike-speyer",
+    "radius": 20000,
+    "lat": 49312600,
+    "lng": 8452950,
+    "id": 198
+  },
+  {
+    "city": "W\u00fcrzburg",
+    "name": "nextbike-wurzburg",
+    "url": "http://api.citybik.es/nextbike-wurzburg.json",
+    "tag": "nextbike-wurzburg",
+    "radius": 20000,
+    "lat": 49800000,
+    "lng": 9933330,
+    "id": 199
+  },
+  {
+    "city": "Ludwigshafen",
+    "name": "nextbike-ludwigshafen",
+    "url": "http://api.citybik.es/nextbike-ludwigshafen.json",
+    "tag": "nextbike-ludwigshafen",
+    "radius": 20000,
+    "lat": 49474100,
+    "lng": 8432870,
+    "id": 200
+  },
+  {
+    "city": "Waiblingen",
+    "name": "ebikestation-stuttgart-germany-waiblingen",
+    "url": "http://api.citybik.es/ebikestation-stuttgart-germany-waiblingen.json",
+    "tag": "ebikestation-stuttgart-germany-waiblingen",
+    "radius": 20000,
+    "lat": 48833300,
+    "lng": 9316670,
+    "id": 201
+  },
+  {
+    "city": "Vaihingen an der Enz",
+    "name": "ebikestation-stuttgart-germany-vaihingen-an-der-enz",
+    "url": "http://api.citybik.es/ebikestation-stuttgart-germany-vaihingen-an-der-enz.json",
+    "tag": "ebikestation-stuttgart-germany-vaihingen-an-der-enz",
+    "radius": 20000,
+    "lat": 48933400,
+    "lng": 8961210,
+    "id": 202
+  },
+  {
+    "city": "West Palm Beach Florida",
+    "name": "skybike-west-palm-beach-west-palm-beach-florida",
+    "url": "http://api.citybik.es/skybike-west-palm-beach-west-palm-beach-florida.json",
+    "tag": "skybike-west-palm-beach-west-palm-beach-florida",
+    "radius": 20000,
+    "lat": 26712500,
+    "lng": -80082100,
+    "id": 203
+  },
+  {
+    "city": "Serfaus",
+    "name": "nextbike-serfaus",
+    "url": "http://api.citybik.es/nextbike-serfaus.json",
+    "tag": "nextbike-serfaus",
+    "radius": 20000,
+    "lat": 47038700,
+    "lng": 10604800,
+    "id": 204
+  },
+  {
+    "city": "Herrenberg",
+    "name": "ebikestation-stuttgart-germany-herrenberg",
+    "url": "http://api.citybik.es/ebikestation-stuttgart-germany-herrenberg.json",
+    "tag": "ebikestation-stuttgart-germany-herrenberg",
+    "radius": 20000,
+    "lat": 48595000,
+    "lng": 8867160,
+    "id": 205
+  },
+  {
+    "city": "Gospi\u0107",
+    "name": "nextbike-gospic",
+    "url": "http://api.citybik.es/nextbike-gospic.json",
+    "tag": "nextbike-gospic",
+    "radius": 20000,
+    "lat": 44546900,
+    "lng": 15375000,
+    "id": 206
+  },
+  {
+    "city": "Kent State University",
+    "name": "flashfleet-kent-state-university",
+    "url": "http://api.citybik.es/flashfleet-kent-state-university.json",
+    "tag": "flashfleet-kent-state-university",
+    "radius": 20000,
+    "lat": 41149100,
+    "lng": -81341500,
+    "id": 207
+  },
+  {
+    "city": "Juchnowiec Ko\u015bcielny",
+    "name": "rower-gminny-poland-juchnowiec-koscielny",
+    "url": "http://api.citybik.es/rower-gminny-poland-juchnowiec-koscielny.json",
+    "tag": "rower-gminny-poland-juchnowiec-koscielny",
+    "radius": 20000,
+    "lat": 53092800,
+    "lng": 23120400,
+    "id": 208
+  },
+  {
+    "city": "Offenbach am Main",
+    "name": "nextbike-offenbach-am-main",
+    "url": "http://api.citybik.es/nextbike-offenbach-am-main.json",
+    "tag": "nextbike-offenbach-am-main",
+    "radius": 20000,
+    "lat": 50109300,
+    "lng": 8738250,
+    "id": 209
+  },
+  {
+    "city": "Karlovac",
+    "name": "nextbike-karlovac",
+    "url": "http://api.citybik.es/nextbike-karlovac.json",
+    "tag": "nextbike-karlovac",
+    "radius": 20000,
+    "lat": 45490500,
+    "lng": 15550300,
+    "id": 210
+  },
+  {
+    "city": "D\u00fcsseldorf",
+    "name": "nextbike-dusseldorf",
+    "url": "http://api.citybik.es/nextbike-dusseldorf.json",
+    "tag": "nextbike-dusseldorf",
+    "radius": 20000,
+    "lat": 51224300,
+    "lng": 6772040,
+    "id": 211
+  },
+  {
+    "city": "Magdeburg",
+    "name": "nextbike-magdeburg",
+    "url": "http://api.citybik.es/nextbike-magdeburg.json",
+    "tag": "nextbike-magdeburg",
+    "radius": 20000,
+    "lat": 52126800,
+    "lng": 11634200,
+    "id": 212
+  },
+  {
+    "city": "Hamburg",
+    "name": "nextbike-hamburg",
+    "url": "http://api.citybik.es/nextbike-hamburg.json",
+    "tag": "nextbike-hamburg",
+    "radius": 20000,
+    "lat": 53550600,
+    "lng": 9990520,
+    "id": 213
+  },
+  {
+    "city": "Auckland",
+    "name": "nextbike-auckland",
+    "url": "http://api.citybik.es/nextbike-auckland.json",
+    "tag": "nextbike-auckland",
+    "radius": 20000,
+    "lat": -36860300,
+    "lng": 174763000,
+    "id": 214
+  },
+  {
+    "city": "St.P\u00f6lten",
+    "name": "nextbike-st-polten",
+    "url": "http://api.citybik.es/nextbike-st-polten.json",
+    "tag": "nextbike-st-polten",
+    "radius": 20000,
+    "lat": 48205800,
+    "lng": 15623200,
+    "id": 215
+  },
+  {
+    "city": "M\u00f6dling",
+    "name": "nextbike-modling",
+    "url": "http://api.citybik.es/nextbike-modling.json",
+    "tag": "nextbike-modling",
+    "radius": 20000,
+    "lat": 48104700,
+    "lng": 16320200,
+    "id": 216
+  },
+  {
+    "city": "Frankfurt",
+    "name": "nextbike-frankfurt",
+    "url": "http://api.citybik.es/nextbike-frankfurt.json",
+    "tag": "nextbike-frankfurt",
+    "radius": 20000,
+    "lat": 50107200,
+    "lng": 8663750,
+    "id": 217
+  },
+  {
+    "city": "Hannover",
+    "name": "nextbike-hannover",
+    "url": "http://api.citybik.es/nextbike-hannover.json",
+    "tag": "nextbike-hannover",
+    "radius": 20000,
+    "lat": 52372100,
+    "lng": 9735690,
+    "id": 218
+  },
+  {
+    "city": "Budapest",
+    "name": "bubi",
+    "url": "http://api.citybik.es/bubi.json",
+    "tag": "bubi",
+    "radius": 20000,
+    "lat": 47497912,
+    "lng": 19040235,
+    "id": 219
+  },
+  {
+    "city": "N\u00fcrnberg",
+    "name": "norisbike-germany-nurnberg",
+    "url": "http://api.citybik.es/norisbike-germany-nurnberg.json",
+    "tag": "norisbike-germany-nurnberg",
+    "radius": 20000,
+    "lat": 49447900,
+    "lng": 11081400,
+    "id": 220
+  },
+  {
+    "city": "K\u00f6ln",
+    "name": "kvb-rad",
+    "url": "http://api.citybik.es/kvb-rad.json",
+    "tag": "kvb-rad",
+    "radius": 20000,
+    "lat": 50936400,
+    "lng": 6960530,
+    "id": 221
+  },
+  {
+    "city": "Sursee",
+    "name": "nextbike-sursee",
+    "url": "http://api.citybik.es/nextbike-sursee.json",
+    "tag": "nextbike-sursee",
+    "radius": 20000,
+    "lat": 47171300,
+    "lng": 8108770,
+    "id": 222
+  },
+  {
+    "city": "Warszawa",
+    "name": "bemowo-bike",
+    "url": "http://api.citybik.es/bemowo-bike.json",
+    "tag": "bemowo-bike",
+    "radius": 20000,
+    "lat": 52260600,
+    "lng": 20929000,
+    "id": 223
+  },
+  {
+    "city": "Wroc\u0142aw",
+    "name": "wroclawski-rower-miejski",
+    "url": "http://api.citybik.es/wroclawski-rower-miejski.json",
+    "tag": "wroclawski-rower-miejski",
+    "radius": 20000,
+    "lat": 51109700,
+    "lng": 17048500,
+    "id": 224
+  },
+  {
+    "city": "Opole",
+    "name": "opole-bike",
+    "url": "http://api.citybik.es/opole-bike.json",
+    "tag": "opole-bike",
+    "radius": 20000,
+    "lat": 50664500,
+    "lng": 17927600,
+    "id": 225
+  },
+  {
+    "city": "Tr\u00f3jmiasto",
+    "name": "rower-trojmiejski",
+    "url": "http://api.citybik.es/rower-trojmiejski.json",
+    "tag": "rower-trojmiejski",
+    "radius": 20000,
+    "lat": 54434900,
+    "lng": 18602600,
+    "id": 226
+  },
+  {
+    "city": "Pozna\u0144",
+    "name": "poznanski-rower-miejski",
+    "url": "http://api.citybik.es/poznanski-rower-miejski.json",
+    "tag": "poznanski-rower-miejski",
+    "radius": 20000,
+    "lat": 52411600,
+    "lng": 16925800,
+    "id": 227
+  },
+  {
+    "city": "Warszawa",
+    "name": "veturilo",
+    "url": "http://api.citybik.es/veturilo.json",
+    "tag": "veturilo",
+    "radius": 20000,
+    "lat": 52234500,
+    "lng": 21002400,
+    "id": 228
+  },
+  {
+    "city": "Krak\u00f3w",
+    "name": "kmk-bike",
+    "url": "http://api.citybik.es/kmk-bike.json",
+    "tag": "kmk-bike",
+    "radius": 20000,
+    "lat": 50039500,
+    "lng": 19937400,
+    "id": 229
+  },
+  {
+    "city": "Bia\u0142ystok",
+    "name": "biker-bialystok",
+    "url": "http://api.citybik.es/biker-bialystok.json",
+    "tag": "biker-bialystok",
+    "radius": 20000,
+    "lat": 53129900,
+    "lng": 23156400,
+    "id": 230
+  },
+  {
+    "city": "Konstancin",
+    "name": "konstancinski-rower-miejski",
+    "url": "http://api.citybik.es/konstancinski-rower-miejski.json",
+    "tag": "konstancinski-rower-miejski",
+    "radius": 20000,
+    "lat": 52087900,
+    "lng": 21107500,
+    "id": 231
+  },
+  {
+    "city": "Katowice",
+    "name": "city-by-bike",
+    "url": "http://api.citybik.es/city-by-bike.json",
+    "tag": "city-by-bike",
+    "radius": 20000,
+    "lat": 50253400,
+    "lng": 19026600,
+    "id": 232
+  },
+  {
+    "city": "Montreal, QC",
+    "name": "bixi-montreal",
+    "url": "http://api.citybik.es/bixi-montreal.json",
+    "tag": "bixi-montreal",
+    "radius": 20000,
+    "lat": 45508669,
+    "lng": -73553992,
+    "id": 233
+  },
+  {
+    "city": "London",
+    "name": "barclays-cycle-hire",
+    "url": "http://api.citybik.es/barclays-cycle-hire.json",
+    "tag": "barclays-cycle-hire",
+    "radius": 20000,
+    "lat": 51511213,
+    "lng": -119824,
+    "id": 234
+  },
+  {
+    "city": "Washington, DC",
+    "name": "capital-bikeshare",
+    "url": "http://api.citybik.es/capital-bikeshare.json",
+    "tag": "capital-bikeshare",
+    "radius": 20000,
+    "lat": 38896758,
+    "lng": -77037016,
+    "id": 235
+  },
+  {
+    "city": "Chattanooga, TN",
+    "name": "bike-chattanooga",
+    "url": "http://api.citybik.es/bike-chattanooga.json",
+    "tag": "bike-chattanooga",
+    "radius": 20000,
+    "lat": 35045629,
+    "lng": -85309680,
+    "id": 236
+  },
+  {
+    "city": "Minneapolis, MN",
+    "name": "nice-ride",
+    "url": "http://api.citybik.es/nice-ride.json",
+    "tag": "nice-ride",
+    "radius": 20000,
+    "lat": 44983334,
+    "lng": -93266669,
+    "id": 237
+  },
+  {
+    "city": "Toronto, ON",
+    "name": "bixi-toronto",
+    "url": "http://api.citybik.es/bixi-toronto.json",
+    "tag": "bixi-toronto",
+    "radius": 20000,
+    "lat": 43653226,
+    "lng": -79383184,
+    "id": 238
+  },
+  {
+    "city": "Melbourne",
+    "name": "melbourne-bike-share",
+    "url": "http://api.citybik.es/melbourne-bike-share.json",
+    "tag": "melbourne-bike-share",
+    "radius": 20000,
+    "lat": -37814107,
+    "lng": 144963280,
+    "id": 239
+  },
+  {
+    "city": "New York, NY",
+    "name": "citi-bike-nyc",
+    "url": "http://api.citybik.es/citi-bike-nyc.json",
+    "tag": "citi-bike-nyc",
+    "radius": 20000,
+    "lat": 40714352,
+    "lng": -74005973,
+    "id": 240
+  },
+  {
+    "city": "San Francisco Bay Area, CA",
+    "name": "bay-area-bike-share",
+    "url": "http://api.citybik.es/bay-area-bike-share.json",
+    "tag": "bay-area-bike-share",
+    "radius": 20000,
+    "lat": 37714145,
+    "lng": -122250000,
+    "id": 241
+  },
+  {
+    "city": "Chicago, IL",
+    "name": "divvy",
+    "url": "http://api.citybik.es/divvy.json",
+    "tag": "divvy",
+    "radius": 20000,
+    "lat": 41878113,
+    "lng": -87629798,
+    "id": 242
+  },
+  {
+    "city": "Boston, MA",
+    "name": "hubway",
+    "url": "http://api.citybik.es/hubway.json",
+    "tag": "hubway",
+    "radius": 20000,
+    "lat": 42358430,
+    "lng": -71059773,
+    "id": 243
+  },
+  {
+    "city": "Aspen, CO",
+    "name": "we-cycle",
+    "url": "http://api.citybik.es/we-cycle.json",
+    "tag": "we-cycle",
+    "radius": 20000,
+    "lat": 39194951,
+    "lng": -106837002,
+    "id": 244
+  },
+  {
+    "city": "Wien",
+    "name": "citybike-wien",
+    "url": "http://api.citybik.es/citybike-wien.json",
+    "tag": "citybike-wien",
+    "radius": 20000,
+    "lat": 48208174,
+    "lng": 16373818,
+    "id": 245
+  },
+  {
+    "city": "Columbus, OH",
+    "name": "cogo",
+    "url": "http://api.citybik.es/cogo.json",
+    "tag": "cogo",
+    "radius": 20000,
+    "lat": 39983333,
+    "lng": -82983333,
+    "id": 246
+  },
+  {
+    "city": "Girona",
+    "name": "girocleta",
+    "url": "http://api.citybik.es/girocleta.json",
+    "tag": "girocleta",
+    "radius": 20000,
+    "lat": 41979400,
+    "lng": 2821426,
+    "id": 247
+  },
+  {
+    "city": "Kassel",
+    "name": "konrad",
+    "url": "http://api.citybik.es/konrad.json",
+    "tag": "konrad",
+    "radius": 20000,
+    "lat": 51314886,
+    "lng": 9460614,
+    "id": 248
+  },
+  {
+    "city": "Darmstadt",
+    "name": "callabike-darmstadt",
+    "url": "http://api.citybik.es/callabike-darmstadt.json",
+    "tag": "callabike-darmstadt",
+    "radius": 20000,
+    "lat": 49870713,
+    "lng": 8652729,
+    "id": 249
+  },
+  {
+    "city": "Berlin",
+    "name": "callabike-berlin",
+    "url": "http://api.citybik.es/callabike-berlin.json",
+    "tag": "callabike-berlin",
+    "radius": 20000,
+    "lat": 52507541,
+    "lng": 13425136,
+    "id": 250
+  },
+  {
+    "city": "Frankfurt am Main",
+    "name": "callabike-frankfurt",
+    "url": "http://api.citybik.es/callabike-frankfurt.json",
+    "tag": "callabike-frankfurt",
+    "radius": 20000,
+    "lat": 50121212,
+    "lng": 8636563,
+    "id": 251
+  },
+  {
+    "city": "Hamburg",
+    "name": "stadtrad",
+    "url": "http://api.citybik.es/stadtrad.json",
+    "tag": "stadtrad",
+    "radius": 20000,
+    "lat": 53558572,
+    "lng": 9927821,
+    "id": 252
+  },
+  {
+    "city": "K\u00f6ln",
+    "name": "callabike-koln",
+    "url": "http://api.citybik.es/callabike-koln.json",
+    "tag": "callabike-koln",
+    "radius": 20000,
+    "lat": 50957244,
+    "lng": 6967322,
+    "id": 253
+  },
+  {
+    "city": "Frankfurt am Main Airport",
+    "name": "callabike-frankfurt-airport",
+    "url": "http://api.citybik.es/callabike-frankfurt-airport.json",
+    "tag": "callabike-frankfurt-airport",
+    "radius": 20000,
+    "lat": 50037933,
+    "lng": 8562152,
+    "id": 254
+  },
+  {
+    "city": "L\u00fcneburg",
+    "name": "callabike-luneburg",
+    "url": "http://api.citybik.es/callabike-luneburg.json",
+    "tag": "callabike-luneburg",
+    "radius": 20000,
+    "lat": 53239053,
+    "lng": 10422639,
+    "id": 255
+  },
+  {
+    "city": "Marburg",
+    "name": "callabike-marburg",
+    "url": "http://api.citybik.es/callabike-marburg.json",
+    "tag": "callabike-marburg",
+    "radius": 20000,
+    "lat": 50798301,
+    "lng": 8742813,
+    "id": 256
+  },
+  {
+    "city": "M\u00fcnchen",
+    "name": "callabike-munchen",
+    "url": "http://api.citybik.es/callabike-munchen.json",
+    "tag": "callabike-munchen",
+    "radius": 20000,
+    "lat": 48154910,
+    "lng": 11541835,
+    "id": 257
+  },
+  {
+    "city": "R\u00fcsselsheim",
+    "name": "callabike-russelsheim",
+    "url": "http://api.citybik.es/callabike-russelsheim.json",
+    "tag": "callabike-russelsheim",
+    "radius": 20000,
+    "lat": 49982003,
+    "lng": 8452839,
+    "id": 258
+  },
+  {
+    "city": "Stuttgart",
+    "name": "callabike-stuttgart",
+    "url": "http://api.citybik.es/callabike-stuttgart.json",
+    "tag": "callabike-stuttgart",
+    "radius": 20000,
+    "lat": 48779209,
+    "lng": 9177215,
+    "id": 259
+  },
+  {
+    "city": "Wiesbaden",
+    "name": "callabike-wiesbaden",
+    "url": "http://api.citybik.es/callabike-wiesbaden.json",
+    "tag": "callabike-wiesbaden",
+    "radius": 20000,
+    "lat": 50072482,
+    "lng": 8248353,
+    "id": 260
+  },
+  {
+    "city": "Napoli",
+    "name": "bike-sharing-napoli",
+    "url": "http://api.citybik.es/bike-sharing-napoli.json",
+    "tag": "bike-sharing-napoli",
+    "radius": 20000,
+    "lat": 40851774,
+    "lng": 14268124,
+    "id": 261
+  },
+  {
+    "city": "Rio de Janeiro",
+    "name": "bikerio",
+    "url": "http://api.citybik.es/bikerio.json",
+    "tag": "bikerio",
+    "radius": 20000,
+    "lat": -22904315,
+    "lng": -43184776,
+    "id": 262
+  },
+  {
+    "city": "S\u00e3o Paulo",
+    "name": "bikesampa",
+    "url": "http://api.citybik.es/bikesampa.json",
+    "tag": "bikesampa",
+    "radius": 20000,
+    "lat": -23550000,
+    "lng": -46633300,
+    "id": 263
+  },
+  {
+    "city": "Belo Horizonte",
+    "name": "bikebh",
+    "url": "http://api.citybik.es/bikebh.json",
+    "tag": "bikebh",
+    "radius": 20000,
+    "lat": -19920793,
+    "lng": -43922165,
+    "id": 264
+  },
+  {
+    "city": "Santos",
+    "name": "bikesantos",
+    "url": "http://api.citybik.es/bikesantos.json",
+    "tag": "bikesantos",
+    "radius": 20000,
+    "lat": -23954052,
+    "lng": -46333345,
+    "id": 265
+  },
+  {
+    "city": "Sorocaba",
+    "name": "bikesorocaba",
+    "url": "http://api.citybik.es/bikesorocaba.json",
+    "tag": "bikesorocaba",
+    "radius": 20000,
+    "lat": -23501719,
+    "lng": -47450790,
+    "id": 266
+  },
+  {
+    "city": "Petrolina",
+    "name": "bikepetrolina",
+    "url": "http://api.citybik.es/bikepetrolina.json",
+    "tag": "bikepetrolina",
+    "radius": 20000,
+    "lat": -9389049,
+    "lng": -40502751,
+    "id": 267
+  },
+  {
+    "city": "Recife",
+    "name": "bikerecife",
+    "url": "http://api.citybik.es/bikerecife.json",
+    "tag": "bikerecife",
+    "radius": 20000,
+    "lat": -8047129,
+    "lng": -34873437,
+    "id": 268
+  },
+  {
+    "city": "Salvador",
+    "name": "bikesalvador",
+    "url": "http://api.citybik.es/bikesalvador.json",
+    "tag": "bikesalvador",
+    "radius": 20000,
+    "lat": -12973959,
+    "lng": -38508171,
+    "id": 269
+  },
+  {
+    "city": "Bras\u00edlia",
+    "name": "bikebrasilia",
+    "url": "http://api.citybik.es/bikebrasilia.json",
+    "tag": "bikebrasilia",
+    "radius": 20000,
+    "lat": -15795115,
+    "lng": -47887424,
+    "id": 270
+  },
+  {
+    "city": "Porto Alegre",
+    "name": "bikepoa",
+    "url": "http://api.citybik.es/bikepoa.json",
+    "tag": "bikepoa",
+    "radius": 20000,
+    "lat": -30033079,
+    "lng": -51236540,
+    "id": 271
+  },
+  {
+    "city": "Fortaleza",
+    "name": "bicicletar",
+    "url": "http://api.citybik.es/bicicletar.json",
+    "tag": "bicicletar",
+    "radius": 20000,
+    "lat": -3732194,
+    "lng": -38510347,
+    "id": 272
+  },
+  {
+    "city": "Aracaj\u00fa",
+    "name": "cajubike",
+    "url": "http://api.citybik.es/cajubike.json",
+    "tag": "cajubike",
+    "radius": 20000,
+    "lat": -10987263,
+    "lng": -37051898,
+    "id": 273
+  },
+  {
+    "city": "Boulder, CO",
+    "name": "boulder",
+    "url": "http://api.citybik.es/boulder.json",
+    "tag": "boulder",
+    "radius": 20000,
+    "lat": 40014985,
+    "lng": -105270545,
+    "id": 274
+  },
+  {
+    "city": "Broward, FL",
+    "name": "broward",
+    "url": "http://api.citybik.es/broward.json",
+    "tag": "broward",
+    "radius": 20000,
+    "lat": 26122308,
+    "lng": -80143378,
+    "id": 275
+  },
+  {
+    "city": "Charlotte, NC",
+    "name": "charlotte",
+    "url": "http://api.citybik.es/charlotte.json",
+    "tag": "charlotte",
+    "radius": 20000,
+    "lat": 35227086,
+    "lng": -80843126,
+    "id": 276
+  },
+  {
+    "city": "Denver, CO",
+    "name": "denver",
+    "url": "http://api.citybik.es/denver.json",
+    "tag": "denver",
+    "radius": 20000,
+    "lat": 39737567,
+    "lng": -104984717,
+    "id": 277
+  },
+  {
+    "city": "Des Moines, IA",
+    "name": "desmoines",
+    "url": "http://api.citybik.es/desmoines.json",
+    "tag": "desmoines",
+    "radius": 20000,
+    "lat": 41600544,
+    "lng": -93609106,
+    "id": 278
+  },
+  {
+    "city": "Fort Worth, TX",
+    "name": "fortworth",
+    "url": "http://api.citybik.es/fortworth.json",
+    "tag": "fortworth",
+    "radius": 20000,
+    "lat": 32725409,
+    "lng": -97320849,
+    "id": 279
+  },
+  {
+    "city": "Salt Lake City, UT",
+    "name": "greenbikeslc",
+    "url": "http://api.citybik.es/greenbikeslc.json",
+    "tag": "greenbikeslc",
+    "radius": 20000,
+    "lat": 40760779,
+    "lng": -111891047,
+    "id": 280
+  },
+  {
+    "city": "Greenville, SC",
+    "name": "greenville",
+    "url": "http://api.citybik.es/greenville.json",
+    "tag": "greenville",
+    "radius": 20000,
+    "lat": 34852617,
+    "lng": -82394010,
+    "id": 281
+  },
+  {
+    "city": "Houston, TX",
+    "name": "houston",
+    "url": "http://api.citybik.es/houston.json",
+    "tag": "houston",
+    "radius": 20000,
+    "lat": 29760192,
+    "lng": -95369389,
+    "id": 282
+  },
+  {
+    "city": "Kansas City, MO",
+    "name": "kansascity",
+    "url": "http://api.citybik.es/kansascity.json",
+    "tag": "kansascity",
+    "radius": 20000,
+    "lat": 39099726,
+    "lng": -94578566,
+    "id": 283
+  },
+  {
+    "city": "Madison, WI",
+    "name": "madison",
+    "url": "http://api.citybik.es/madison.json",
+    "tag": "madison",
+    "radius": 20000,
+    "lat": 43073051,
+    "lng": -89401230,
+    "id": 284
+  },
+  {
+    "city": "Nashville, TN",
+    "name": "nashville",
+    "url": "http://api.citybik.es/nashville.json",
+    "tag": "nashville",
+    "radius": 20000,
+    "lat": 36166666,
+    "lng": -86783333,
+    "id": 285
+  },
+  {
+    "city": "Omaha, NE",
+    "name": "omaha",
+    "url": "http://api.citybik.es/omaha.json",
+    "tag": "omaha",
+    "radius": 20000,
+    "lat": 41252363,
+    "lng": -95997988,
+    "id": 286
+  },
+  {
+    "city": "San Antonio, TX",
+    "name": "sanantonio",
+    "url": "http://api.citybik.es/sanantonio.json",
+    "tag": "sanantonio",
+    "radius": 20000,
+    "lat": 29424121,
+    "lng": -98493628,
+    "id": 287
+  },
+  {
+    "city": "Spartanburg, SC",
+    "name": "spartanburg",
+    "url": "http://api.citybik.es/spartanburg.json",
+    "tag": "spartanburg",
+    "radius": 20000,
+    "lat": 34949567,
+    "lng": -81932048,
+    "id": 288
+  },
+  {
+    "city": "Austin, TX",
+    "name": "austin",
+    "url": "http://api.citybik.es/austin.json",
+    "tag": "austin",
+    "radius": 20000,
+    "lat": 30267153,
+    "lng": -97743060,
+    "id": 289
+  },
+  {
+    "city": "Indianapolis, IN",
+    "name": "indiana-pacers-bikeshare",
+    "url": "http://api.citybik.es/indiana-pacers-bikeshare.json",
+    "tag": "indiana-pacers-bikeshare",
+    "radius": 20000,
+    "lat": 39791000,
+    "lng": -86148000,
+    "id": 290
+  },
+  {
+    "city": "Santiago",
+    "name": "santiago",
+    "url": "http://api.citybik.es/santiago.json",
+    "tag": "santiago",
+    "radius": 20000,
+    "lat": -33457000,
+    "lng": -70648000,
+    "id": 291
+  },
+  {
+    "city": "Evans, GA",
+    "name": "columbia-county",
+    "url": "http://api.citybik.es/columbia-county.json",
+    "tag": "columbia-county",
+    "radius": 20000,
+    "lat": 33537500,
+    "lng": -82127778,
+    "id": 292
+  },
+  {
+    "city": "Milwaukee, WI",
+    "name": "bublr-bikes",
+    "url": "http://api.citybik.es/bublr-bikes.json",
+    "tag": "bublr-bikes",
+    "radius": 20000,
+    "lat": 43050000,
+    "lng": -87950000,
+    "id": 293
+  },
+  {
+    "city": "Savannah, GA",
+    "name": "catbike",
+    "url": "http://api.citybik.es/catbike.json",
+    "tag": "catbike",
+    "radius": 20000,
+    "lat": 32016667,
+    "lng": -81116667,
+    "id": 294
+  },
+  {
+    "city": "Rapid City, SD",
+    "name": "rapid-city",
+    "url": "http://api.citybik.es/rapid-city.json",
+    "tag": "rapid-city",
+    "radius": 20000,
+    "lat": 44076000,
+    "lng": -103228000,
+    "id": 295
+  },
+  {
+    "city": "Didymoteicho",
+    "name": "easybike-didymoteicho",
+    "url": "http://api.citybik.es/easybike-didymoteicho.json",
+    "tag": "easybike-didymoteicho",
+    "radius": 20000,
+    "lat": 41350000,
+    "lng": 26500000,
+    "id": 296
+  },
+  {
+    "city": "Ioannina",
+    "name": "easybike-ioannina",
+    "url": "http://api.citybik.es/easybike-ioannina.json",
+    "tag": "easybike-ioannina",
+    "radius": 20000,
+    "lat": 39663981,
+    "lng": 20852278,
+    "id": 297
+  },
+  {
+    "city": "Karditsa",
+    "name": "easybike-karditsa",
+    "url": "http://api.citybik.es/easybike-karditsa.json",
+    "tag": "easybike-karditsa",
+    "radius": 20000,
+    "lat": 39363460,
+    "lng": 21921119,
+    "id": 298
+  },
+  {
+    "city": "Kavala",
+    "name": "easybike-kavala",
+    "url": "http://api.citybik.es/easybike-kavala.json",
+    "tag": "easybike-kavala",
+    "radius": 20000,
+    "lat": 40936906,
+    "lng": 24412216,
+    "id": 299
+  },
+  {
+    "city": "Drapetsona",
+    "name": "easybike-drapetsona",
+    "url": "http://api.citybik.es/easybike-drapetsona.json",
+    "tag": "easybike-drapetsona",
+    "radius": 20000,
+    "lat": 37949092,
+    "lng": 23628259,
+    "id": 300
+  },
+  {
+    "city": "Komotini",
+    "name": "easybike-komotini",
+    "url": "http://api.citybik.es/easybike-komotini.json",
+    "tag": "easybike-komotini",
+    "radius": 20000,
+    "lat": 41117833,
+    "lng": 25404130,
+    "id": 301
+  },
+  {
+    "city": "Nafpaktos",
+    "name": "easybike-nafpaktos",
+    "url": "http://api.citybik.es/easybike-nafpaktos.json",
+    "tag": "easybike-nafpaktos",
+    "radius": 20000,
+    "lat": 38392595,
+    "lng": 21828763,
+    "id": 302
+  },
+  {
+    "city": "Nicosia",
+    "name": "easybike-nicosia",
+    "url": "http://api.citybik.es/easybike-nicosia.json",
+    "tag": "easybike-nicosia",
+    "radius": 20000,
+    "lat": 35173930,
+    "lng": 33364725,
+    "id": 303
+  },
+  {
+    "city": "Mani",
+    "name": "easybike-mani",
+    "url": "http://api.citybik.es/easybike-mani.json",
+    "tag": "easybike-mani",
+    "radius": 20000,
+    "lat": 41409747,
+    "lng": 26402495,
+    "id": 304
+  },
+  {
+    "city": "Medellin",
+    "name": "encicla",
+    "url": "http://api.citybik.es/encicla.json",
+    "tag": "encicla",
+    "radius": 20000,
+    "lat": 6254942,
+    "lng": -75567982,
+    "id": 305
+  },
+  {
+    "city": "Thessaloniki",
+    "name": "thessbike",
+    "url": "http://api.citybik.es/thessbike.json",
+    "tag": "thessbike",
+    "radius": 20000,
+    "lat": 40640316,
+    "lng": 22935271,
+    "id": 306
+  },
+  {
+    "city": "Rouen",
+    "name": "cyclic",
+    "url": "http://api.citybik.es/cyclic.json",
+    "tag": "cyclic",
+    "radius": 20000,
+    "lat": 49443231,
+    "lng": 1099971,
+    "id": 307
+  },
+  {
+    "city": "Irakleio",
+    "name": "easybike-irakleio",
+    "url": "http://api.citybik.es/easybike-irakleio.json",
+    "tag": "easybike-irakleio",
+    "radius": 20000,
+    "lat": 35338735,
+    "lng": 25144213,
+    "id": 308
+  },
+  {
+    "city": "Paris",
+    "name": "velib",
+    "url": "http://api.citybik.es/velib.json",
+    "tag": "velib",
+    "radius": 20000,
+    "lat": 48856614,
+    "lng": 2352221,
+    "id": 309
+  },
+  {
+    "city": "Dublin",
+    "name": "dublinbikes",
+    "url": "http://api.citybik.es/dublinbikes.json",
+    "tag": "dublinbikes",
+    "radius": 20000,
+    "lat": 53349805,
+    "lng": -6260309,
+    "id": 310
+  },
+  {
+    "city": "Brisbane",
+    "name": "citycycle",
+    "url": "http://api.citybik.es/citycycle.json",
+    "tag": "citycycle",
+    "radius": 20000,
+    "lat": -27471010,
+    "lng": 153023448,
+    "id": 311
+  },
+  {
+    "city": "Luxembourg",
+    "name": "veloh",
+    "url": "http://api.citybik.es/veloh.json",
+    "tag": "veloh",
+    "radius": 20000,
+    "lat": 49630102,
+    "lng": 6152018,
+    "id": 312
+  },
+  {
+    "city": "Toulouse",
+    "name": "velo",
+    "url": "http://api.citybik.es/velo.json",
+    "tag": "velo",
+    "radius": 20000,
+    "lat": 43604652,
+    "lng": 1444209,
+    "id": 313
+  },
+  {
+    "city": "Valencia",
+    "name": "valenbisi",
+    "url": "http://api.citybik.es/valenbisi.json",
+    "tag": "valenbisi",
+    "radius": 20000,
+    "lat": 39469907,
+    "lng": -376288,
+    "id": 314
+  },
+  {
+    "city": "Stockholm",
+    "name": "stockholm-cyclocity",
+    "url": "http://api.citybik.es/stockholm-cyclocity.json",
+    "tag": "stockholm-cyclocity",
+    "radius": 20000,
+    "lat": 59328930,
+    "lng": 18064910,
+    "id": 315
+  },
+  {
+    "city": "G\u00f6teborg",
+    "name": "goeteborg",
+    "url": "http://api.citybik.es/goeteborg.json",
+    "tag": "goeteborg",
+    "radius": 20000,
+    "lat": 57708870,
+    "lng": 11974560,
+    "id": 316
+  },
+  {
+    "city": "Lillestr\u00f8m",
+    "name": "bysykkel-lillestrom",
+    "url": "http://api.citybik.es/bysykkel-lillestrom.json",
+    "tag": "bysykkel-lillestrom",
+    "radius": 20000,
+    "lat": 59955969,
+    "lng": 11050378,
+    "id": 317
+  },
+  {
+    "city": "Amiens",
+    "name": "velam",
+    "url": "http://api.citybik.es/velam.json",
+    "tag": "velam",
+    "radius": 20000,
+    "lat": 49894067,
+    "lng": 2295753,
+    "id": 318
+  },
+  {
+    "city": "Santander",
+    "name": "tusbic",
+    "url": "http://api.citybik.es/tusbic.json",
+    "tag": "tusbic",
+    "radius": 20000,
+    "lat": 43462305,
+    "lng": -3809980,
+    "id": 319
+  },
+  {
+    "city": "Lyon",
+    "name": "velov",
+    "url": "http://api.citybik.es/velov.json",
+    "tag": "velov",
+    "radius": 20000,
+    "lat": 45764043,
+    "lng": 4835659,
+    "id": 320
+  },
+  {
+    "city": "Mulhouse",
+    "name": "velocite-mulhouse",
+    "url": "http://api.citybik.es/velocite-mulhouse.json",
+    "tag": "velocite-mulhouse",
+    "radius": 20000,
+    "lat": 47750839,
+    "lng": 7335888,
+    "id": 321
+  },
+  {
+    "city": "Ljubljana",
+    "name": "bicikelj",
+    "url": "http://api.citybik.es/bicikelj.json",
+    "tag": "bicikelj",
+    "radius": 20000,
+    "lat": 46056450,
+    "lng": 14508070,
+    "id": 322
+  },
+  {
+    "city": "Sevilla",
+    "name": "sevici",
+    "url": "http://api.citybik.es/sevici.json",
+    "tag": "sevici",
+    "radius": 20000,
+    "lat": 37388096,
+    "lng": -5982329,
+    "id": 323
+  },
+  {
+    "city": "Namur",
+    "name": "li-bia-velo",
+    "url": "http://api.citybik.es/li-bia-velo.json",
+    "tag": "li-bia-velo",
+    "radius": 20000,
+    "lat": 50465328,
+    "lng": 4867665,
+    "id": 324
+  },
+  {
+    "city": "Nancy",
+    "name": "velostanlib",
+    "url": "http://api.citybik.es/velostanlib.json",
+    "tag": "velostanlib",
+    "radius": 20000,
+    "lat": 48692054,
+    "lng": 6184417,
+    "id": 325
+  },
+  {
+    "city": "Cr\u00e9teil",
+    "name": "cristolib",
+    "url": "http://api.citybik.es/cristolib.json",
+    "tag": "cristolib",
+    "radius": 20000,
+    "lat": 48790367,
+    "lng": 2455572,
+    "id": 326
+  },
+  {
+    "city": "Bruxelles",
+    "name": "villo",
+    "url": "http://api.citybik.es/villo.json",
+    "tag": "villo",
+    "radius": 20000,
+    "lat": 50850339,
+    "lng": 4351710,
+    "id": 327
+  },
+  {
+    "city": "Cergy",
+    "name": "velo2",
+    "url": "http://api.citybik.es/velo2.json",
+    "tag": "velo2",
+    "radius": 20000,
+    "lat": 49035616,
+    "lng": 2060325,
+    "id": 328
+  },
+  {
+    "city": "Vilnius",
+    "name": "vilnius-cyclocity",
+    "url": "http://api.citybik.es/vilnius-cyclocity.json",
+    "tag": "vilnius-cyclocity",
+    "radius": 20000,
+    "lat": 54687155,
+    "lng": 25279651,
+    "id": 329
+  },
+  {
+    "city": "\u5bcc\u5c71\u5e02",
+    "name": "toyama-cyclocity",
+    "url": "http://api.citybik.es/toyama-cyclocity.json",
+    "tag": "toyama-cyclocity",
+    "radius": 20000,
+    "lat": 36695951,
+    "lng": 137213676,
+    "id": 330
+  },
+  {
+    "city": "\u041a\u0430\u0437\u0430\u043d\u044c",
+    "name": "velik",
+    "url": "http://api.citybik.es/velik.json",
+    "tag": "velik",
+    "radius": 20000,
+    "lat": 55794941,
+    "lng": 49105044,
+    "id": 331
+  },
+  {
+    "city": "Marseille",
+    "name": "le-velo",
+    "url": "http://api.citybik.es/le-velo.json",
+    "tag": "le-velo",
+    "radius": 20000,
+    "lat": 43296482,
+    "lng": 5369780,
+    "id": 332
+  },
+  {
+    "city": "Nantes",
+    "name": "bicloo",
+    "url": "http://api.citybik.es/bicloo.json",
+    "tag": "bicloo",
+    "radius": 20000,
+    "lat": 47218371,
+    "lng": -1553621,
+    "id": 333
+  },
+  {
+    "city": "Buenos Aires",
+    "name": "ecobici-buenos-aires",
+    "url": "http://api.citybik.es/ecobici-buenos-aires.json",
+    "tag": "ecobici-buenos-aires",
+    "radius": 20000,
+    "lat": -34630665,
+    "lng": -58411560,
+    "id": 334
+  },
+  {
+    "city": "Besan\u00e7on",
+    "name": "velocite-besancon",
+    "url": "http://api.citybik.es/velocite-besancon.json",
+    "tag": "velocite-besancon",
+    "radius": 20000,
+    "lat": 47237829,
+    "lng": 6024053,
+    "id": 335
+  },
+  {
+    "city": "Nice",
+    "name": "velobleu",
+    "url": "http://api.citybik.es/velobleu.json",
+    "tag": "velobleu",
+    "radius": 20000,
+    "lat": 43695949,
+    "lng": 7271413,
+    "id": 336
+  },
+  {
+    "city": "Dunkerque",
+    "name": "dkvelo",
+    "url": "http://api.citybik.es/dkvelo.json",
+    "tag": "dkvelo",
+    "radius": 20000,
+    "lat": 51038300,
+    "lng": 2377500,
+    "id": 337
+  },
+  {
+    "city": "Calais",
+    "name": "vel-in",
+    "url": "http://api.citybik.es/vel-in.json",
+    "tag": "vel-in",
+    "radius": 20000,
+    "lat": 50950000,
+    "lng": 1850000,
+    "id": 338
+  },
+  {
+    "city": "Vannes",
+    "name": "velocea",
+    "url": "http://api.citybik.es/velocea.json",
+    "tag": "velocea",
+    "radius": 20000,
+    "lat": 47655900,
+    "lng": -2760300,
+    "id": 339
+  },
+  {
+    "city": "A R\u00faa",
+    "name": "onroll-a-rua",
+    "url": "http://api.citybik.es/onroll-a-rua.json",
+    "tag": "onroll-a-rua",
+    "radius": 20000,
+    "lat": 42392049,
+    "lng": -7114634,
+    "id": 340
+  },
+  {
+    "city": "Albacete",
+    "name": "onroll-albacete",
+    "url": "http://api.citybik.es/onroll-albacete.json",
+    "tag": "onroll-albacete",
+    "radius": 20000,
+    "lat": 38989130,
+    "lng": -1858485,
+    "id": 341
+  },
+  {
+    "city": "S\u00e3o Paulo",
+    "name": "ciclosampa",
+    "url": "http://api.citybik.es/ciclosampa.json",
+    "tag": "ciclosampa",
+    "radius": 20000,
+    "lat": -23550000,
+    "lng": -46633300,
+    "id": 342
+  },
+  {
+    "city": "Almu\u00f1\u00e9car",
+    "name": "onroll-almunecar",
+    "url": "http://api.citybik.es/onroll-almunecar.json",
+    "tag": "onroll-almunecar",
+    "radius": 20000,
+    "lat": 36735789,
+    "lng": -3688828,
+    "id": 343
+  },
+  {
+    "city": "Aranjuez",
+    "name": "onroll-aranjuez",
+    "url": "http://api.citybik.es/onroll-aranjuez.json",
+    "tag": "onroll-aranjuez",
+    "radius": 20000,
+    "lat": 40030970,
+    "lng": -3605742,
+    "id": 344
+  },
+  {
+    "city": "Antequera",
+    "name": "onroll-antequera",
+    "url": "http://api.citybik.es/onroll-antequera.json",
+    "tag": "onroll-antequera",
+    "radius": 20000,
+    "lat": 37018427,
+    "lng": -4563775,
+    "id": 345
+  },
+  {
+    "city": "Alhama de Murcia",
+    "name": "onroll-alhama-de-murcia",
+    "url": "http://api.citybik.es/onroll-alhama-de-murcia.json",
+    "tag": "onroll-alhama-de-murcia",
+    "radius": 20000,
+    "lat": 37849831,
+    "lng": -1424891,
+    "id": 346
+  },
+  {
+    "city": "Aranda de Duero",
+    "name": "onroll-aranda-de-duero",
+    "url": "http://api.citybik.es/onroll-aranda-de-duero.json",
+    "tag": "onroll-aranda-de-duero",
+    "radius": 20000,
+    "lat": 41667601,
+    "lng": -3689526,
+    "id": 347
+  },
+  {
+    "city": "Badajoz",
+    "name": "onroll-badajoz",
+    "url": "http://api.citybik.es/onroll-badajoz.json",
+    "tag": "onroll-badajoz",
+    "radius": 20000,
+    "lat": 38873627,
+    "lng": -6994510,
+    "id": 348
+  },
+  {
+    "city": "Benidorm",
+    "name": "onroll-benidorm",
+    "url": "http://api.citybik.es/onroll-benidorm.json",
+    "tag": "onroll-benidorm",
+    "radius": 20000,
+    "lat": 38541251,
+    "lng": -126808,
+    "id": 349
+  },
+  {
+    "city": "Baeza",
+    "name": "onroll-baeza",
+    "url": "http://api.citybik.es/onroll-baeza.json",
+    "tag": "onroll-baeza",
+    "radius": 20000,
+    "lat": 37995370,
+    "lng": -3468248,
+    "id": 350
+  },
+  {
+    "city": "Blanca",
+    "name": "onroll-blanca",
+    "url": "http://api.citybik.es/onroll-blanca.json",
+    "tag": "onroll-blanca",
+    "radius": 20000,
+    "lat": 38178195,
+    "lng": -1372402,
+    "id": 351
+  },
+  {
+    "city": "Cieza",
+    "name": "onroll-cieza",
+    "url": "http://api.citybik.es/onroll-cieza.json",
+    "tag": "onroll-cieza",
+    "radius": 20000,
+    "lat": 38239139,
+    "lng": -1417262,
+    "id": 352
+  },
+  {
+    "city": "Ciudad Real",
+    "name": "onroll-ciudad-real",
+    "url": "http://api.citybik.es/onroll-ciudad-real.json",
+    "tag": "onroll-ciudad-real",
+    "radius": 20000,
+    "lat": 38982864,
+    "lng": -3927068,
+    "id": 353
+  },
+  {
+    "city": "Elche",
+    "name": "onroll-elche",
+    "url": "http://api.citybik.es/onroll-elche.json",
+    "tag": "onroll-elche",
+    "radius": 20000,
+    "lat": 38266800,
+    "lng": -696217,
+    "id": 354
+  },
+  {
+    "city": "Don Benito - Villanueva",
+    "name": "onroll-don-benito-villanueva",
+    "url": "http://api.citybik.es/onroll-don-benito-villanueva.json",
+    "tag": "onroll-don-benito-villanueva",
+    "radius": 20000,
+    "lat": 38964699,
+    "lng": -5829693,
+    "id": 355
+  },
+  {
+    "city": "El Campello",
+    "name": "onroll-el-campello",
+    "url": "http://api.citybik.es/onroll-el-campello.json",
+    "tag": "onroll-el-campello",
+    "radius": 20000,
+    "lat": 38419616,
+    "lng": -398388,
+    "id": 356
+  },
+  {
+    "city": "Guadalajara",
+    "name": "onroll-guadalajara",
+    "url": "http://api.citybik.es/onroll-guadalajara.json",
+    "tag": "onroll-guadalajara",
+    "radius": 20000,
+    "lat": 40633021,
+    "lng": -3166097,
+    "id": 357
+  },
+  {
+    "city": "Ja\u00e9n",
+    "name": "onroll-jaen",
+    "url": "http://api.citybik.es/onroll-jaen.json",
+    "tag": "onroll-jaen",
+    "radius": 20000,
+    "lat": 37777738,
+    "lng": -3790758,
+    "id": 358
+  },
+  {
+    "city": "Lal\u00edn",
+    "name": "onroll-lalin",
+    "url": "http://api.citybik.es/onroll-lalin.json",
+    "tag": "onroll-lalin",
+    "radius": 20000,
+    "lat": 42658626,
+    "lng": -8114976,
+    "id": 359
+  },
+  {
+    "city": "Las Palmas de Gran Canaria",
+    "name": "onroll-las-palmas",
+    "url": "http://api.citybik.es/onroll-las-palmas.json",
+    "tag": "onroll-las-palmas",
+    "radius": 20000,
+    "lat": 28124302,
+    "lng": -15425994,
+    "id": 360
+  },
+  {
+    "city": "O Barco",
+    "name": "onroll-o-barco",
+    "url": "http://api.citybik.es/onroll-o-barco.json",
+    "tag": "onroll-o-barco",
+    "radius": 20000,
+    "lat": 42413993,
+    "lng": -6982913,
+    "id": 361
+  },
+  {
+    "city": "Montilla",
+    "name": "onroll-montilla",
+    "url": "http://api.citybik.es/onroll-montilla.json",
+    "tag": "onroll-montilla",
+    "radius": 20000,
+    "lat": 37584151,
+    "lng": -4641359,
+    "id": 362
+  },
+  {
+    "city": "Paiporta",
+    "name": "onroll-paiporta",
+    "url": "http://api.citybik.es/onroll-paiporta.json",
+    "tag": "onroll-paiporta",
+    "radius": 20000,
+    "lat": 39427609,
+    "lng": -416876,
+    "id": 363
+  },
+  {
+    "city": "Mula",
+    "name": "onroll-mula",
+    "url": "http://api.citybik.es/onroll-mula.json",
+    "tag": "onroll-mula",
+    "radius": 20000,
+    "lat": 38040805,
+    "lng": -1497451,
+    "id": 364
+  },
+  {
+    "city": "Novelda",
+    "name": "onroll-novelda",
+    "url": "http://api.citybik.es/onroll-novelda.json",
+    "tag": "onroll-novelda",
+    "radius": 20000,
+    "lat": 38386447,
+    "lng": -767134,
+    "id": 365
+  },
+  {
+    "city": "Priego de C\u00f3rdoba",
+    "name": "onroll-priego-de-cordoba",
+    "url": "http://api.citybik.es/onroll-priego-de-cordoba.json",
+    "tag": "onroll-priego-de-cordoba",
+    "radius": 20000,
+    "lat": 37440517,
+    "lng": -4201188,
+    "id": 366
+  },
+  {
+    "city": "Palencia",
+    "name": "onroll-palencia",
+    "url": "http://api.citybik.es/onroll-palencia.json",
+    "tag": "onroll-palencia",
+    "radius": 20000,
+    "lat": 42005639,
+    "lng": -4527022,
+    "id": 367
+  },
+  {
+    "city": "Puertollano",
+    "name": "onroll-puertollano",
+    "url": "http://api.citybik.es/onroll-puertollano.json",
+    "tag": "onroll-puertollano",
+    "radius": 20000,
+    "lat": 38691396,
+    "lng": -4107794,
+    "id": 368
+  },
+  {
+    "city": "Pinto",
+    "name": "onroll-pinto",
+    "url": "http://api.citybik.es/onroll-pinto.json",
+    "tag": "onroll-pinto",
+    "radius": 20000,
+    "lat": 40245741,
+    "lng": -3698611,
+    "id": 369
+  },
+  {
+    "city": "Puerto Lumbreras",
+    "name": "onroll-puerto-lumbreras",
+    "url": "http://api.citybik.es/onroll-puerto-lumbreras.json",
+    "tag": "onroll-puerto-lumbreras",
+    "radius": 20000,
+    "lat": 37556652,
+    "lng": -1811508,
+    "id": 370
+  },
+  {
+    "city": "Redondela",
+    "name": "onroll-redondela",
+    "url": "http://api.citybik.es/onroll-redondela.json",
+    "tag": "onroll-redondela",
+    "radius": 20000,
+    "lat": 42299964,
+    "lng": -8615428,
+    "id": 371
+  },
+  {
+    "city": "Segovia",
+    "name": "onroll-segovia",
+    "url": "http://api.citybik.es/onroll-segovia.json",
+    "tag": "onroll-segovia",
+    "radius": 20000,
+    "lat": 40941941,
+    "lng": -4112396,
+    "id": 372
+  },
+  {
+    "city": "Soria",
+    "name": "onroll-soria",
+    "url": "http://api.citybik.es/onroll-soria.json",
+    "tag": "onroll-soria",
+    "radius": 20000,
+    "lat": 41763653,
+    "lng": -2467069,
+    "id": 373
+  },
+  {
+    "city": "San Javier",
+    "name": "onroll-san-javier",
+    "url": "http://api.citybik.es/onroll-san-javier.json",
+    "tag": "onroll-san-javier",
+    "radius": 20000,
+    "lat": 37783704,
+    "lng": -808097,
+    "id": 374
+  },
+  {
+    "city": "Salamanca",
+    "name": "onroll-salamanca",
+    "url": "http://api.citybik.es/onroll-salamanca.json",
+    "tag": "onroll-salamanca",
+    "radius": 20000,
+    "lat": 40966771,
+    "lng": -5665432,
+    "id": 375
+  },
+  {
+    "city": "Universidad de Granada, Granada",
+    "name": "onroll-universidad-de-granada",
+    "url": "http://api.citybik.es/onroll-universidad-de-granada.json",
+    "tag": "onroll-universidad-de-granada",
+    "radius": 20000,
+    "lat": 37182438,
+    "lng": -3604219,
+    "id": 376
+  },
+  {
+    "city": "\u00dabeda",
+    "name": "onroll-ubeda",
+    "url": "http://api.citybik.es/onroll-ubeda.json",
+    "tag": "onroll-ubeda",
+    "radius": 20000,
+    "lat": 38011463,
+    "lng": -3373276,
+    "id": 377
+  },
+  {
+    "city": "Talavera de la Reina",
+    "name": "onroll-talavera",
+    "url": "http://api.citybik.es/onroll-talavera.json",
+    "tag": "onroll-talavera",
+    "radius": 20000,
+    "lat": 39961829,
+    "lng": -4830319,
+    "id": 378
+  },
+  {
+    "city": "San Pedro del Pinatar",
+    "name": "onroll-san-pedro",
+    "url": "http://api.citybik.es/onroll-san-pedro.json",
+    "tag": "onroll-san-pedro",
+    "radius": 20000,
+    "lat": 37827578,
+    "lng": -783944,
+    "id": 379
+  },
+  {
+    "city": "Sant Joan d'Alacant",
+    "name": "onroll-sant-joan",
+    "url": "http://api.citybik.es/onroll-sant-joan.json",
+    "tag": "onroll-sant-joan",
+    "radius": 20000,
+    "lat": 38399839,
+    "lng": -434522,
+    "id": 380
+  },
+  {
+    "city": "Vinar\u00f2s",
+    "name": "onroll-vinaros",
+    "url": "http://api.citybik.es/onroll-vinaros.json",
+    "tag": "onroll-vinaros",
+    "radius": 20000,
+    "lat": 40468258,
+    "lng": 466972,
+    "id": 381
+  },
+  {
+    "city": "Noia - Portosin - Porto do Son",
+    "name": "onroll-via-verde",
+    "url": "http://api.citybik.es/onroll-via-verde.json",
+    "tag": "onroll-via-verde",
+    "radius": 20000,
+    "lat": 42768127,
+    "lng": -8908513,
+    "id": 382
+  },
+  {
+    "city": "Villaquilambre",
+    "name": "onroll-villaquilambre",
+    "url": "http://api.citybik.es/onroll-villaquilambre.json",
+    "tag": "onroll-villaquilambre",
+    "radius": 20000,
+    "lat": 42642358,
+    "lng": -5535311,
+    "id": 383
+  },
+  {
+    "city": "El Paso, TX",
+    "name": "elpaso",
+    "url": "http://api.citybik.es/elpaso.json",
+    "tag": "elpaso",
+    "radius": 20000,
+    "lat": 31761480,
+    "lng": -106485070,
+    "id": 384
+  }
+]
