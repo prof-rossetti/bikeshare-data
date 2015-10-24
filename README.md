@@ -1,6 +1,6 @@
 # Bikeshare Data
 
-Generates related .csv files of bikeshare data.
+Generates related .csv files of bike-share data from the [CityBikes API](http://api.citybik.es/v2/).
 
 ## Prerequisites
 
@@ -21,10 +21,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-Extract bikeshare data.
+Extract bike-share data.
 
 ```` sh
-python extract_capital_bikeshare_data.py
+python extract_bikeshare_data.py
 ````
 
 ## Contributing
@@ -33,6 +33,7 @@ Issues and Pull Requests are welcome.
 
 ## Reference
 
+  + https://github.com/eskerda/PyBikes
   + http://www.capitalbikeshare.com/data/stations/bikeStations.xml
   + http://www.capitalbikeshare.com/system-data
 

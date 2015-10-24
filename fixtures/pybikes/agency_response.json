@@ -1,0 +1,15 @@
+{
+  "tag": "capital-bikeshare",
+  "meta": {
+    "city": "Washington, DC",
+    "name": "Capital BikeShare",
+    "country": "US",
+    "company": ["PBSC", "Alta Bicycle Share, Inc"],
+    "system": "Bixi",
+    "longitude": -77.03701629999999,
+    "latitude": 38.8967584
+  },
+  "method": "xml",
+  "feed_url": "http://capitalbikeshare.com/data/stations/bikeStations.xml",
+  "stations": []
+}

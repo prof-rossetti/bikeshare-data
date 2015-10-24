@@ -1,0 +1,73 @@
+{
+  "tag": "capital-bikeshare",
+  "meta": {
+    "city": "Washington, DC",
+    "name": "Capital BikeShare",
+    "country": "US",
+    "company": ["PBSC", "Alta Bicycle Share, Inc"],
+    "system": "Bixi",
+    "longitude": -77.03701629999999,
+    "latitude": 38.8967584
+  },
+  "method": "xml",
+  "feed_url": "http://capitalbikeshare.com/data/stations/bikeStations.xml",
+  "stations": [
+    {
+      "name": "31000 - 20th & Bell St",
+      "extra": {
+        "removalDate": "",
+        "locked": false,
+        "uid": 1,
+        "installDate": "0",
+        "latestUpdateTime": "1445721737999",
+        "temporary": false,
+        "installed": true,
+        "terminalName": "31000",
+        "name": "20th & Bell St"
+      },
+      "timestamp": "2015-10-24T21:28:57.935497",
+      "longitude": -77.0512,
+      "bikes": 2,
+      "free": 8,
+      "latitude": 38.8561
+    },
+    {
+      "name": "31001 - 18th & Eads St.",
+      "extra": {
+        "removalDate": "",
+        "locked": false,
+        "uid": 2,
+        "installDate": "0",
+        "latestUpdateTime": "1445721890934",
+        "temporary": false,
+        "installed": true,
+        "terminalName": "31001",
+        "name": "18th & Eads St."
+      },
+      "timestamp": "2015-10-24T21:28:57.935936",
+      "longitude": -77.05332,
+      "bikes": 3,
+      "free": 8,
+      "latitude": 38.85725
+    },
+    {
+      "name": "31712 - Oklahoma Ave & D St NE",
+      "extra": {
+        "removalDate": "",
+        "locked": false,
+        "uid": 373,
+        "installDate": "0",
+        "latestUpdateTime": "1445720808292",
+        "temporary": false,
+        "installed": true,
+        "terminalName": "31712",
+        "name": "Oklahoma Ave & D St NE"
+      },
+      "timestamp": "2015-10-24T21:28:57.990272",
+      "longitude": -76.974828,
+      "bikes": 12,
+      "free": 7,
+      "latitude": 38.894474
+    }
+  ]
+}
