@@ -58,20 +58,31 @@ with open(networks_dot_json) as json_file:
         except UnicodeEncodeError:
           city = "#UNENCODABLE"
 
+        try:
+          name = response.meta["name"].encode()
+        except UnicodeEncodeError:
+          name = "#UNENCODABLE"
+        except UnicodeDecodeError:
+          name = "#UNDECODABLE"
+
         bikeshare = {
-           'tag': response.tag.encode(),
+           'city': city,
+           'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
+           'country': response.meta["country"].encode(),
+           'longitude': response.meta["longitude"],
+           'latitude':response.meta["latitude"],
+           'name': name,
+           'tag': response.tag.encode() #,
            #'feed_url': response.feed_url,
            #'feed_method': response.method.encode(),
-           'city': city,
-           'name': response.meta["name"].encode(),
-           'country': response.meta["country"].encode(),
-           'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
            #'system': response.meta["system"],
-           'longitude': response.meta["longitude"],
-           'latitude':response.meta["latitude"]
         }
+        bikeshares_csv.writerow(bikeshare.values())
 
-        response.update()
+        if network_tag in ["bicipalma","bizi"]:
+            continue # temporary workaround for known network errors
+
+        response.update() # makes an api call for the stations...
 
         bikeshare["station_count"] = len(response.stations)
 
@@ -80,6 +91,7 @@ with open(networks_dot_json) as json_file:
         for station in response.stations:
             print station.to_json()
             print "----------------------"
+
 
 
 

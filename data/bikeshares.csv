@@ -1,0 +1,122 @@
+city,company,country,latitude,longitude,name,tag
+#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,21.6247265179,cyclopolis-arxaiaolympia,37.6419700934
+#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,22.7493819902,cyclopolis-kiato,38.0132674508
+Pau,IDECycle,FR,"[u'Keolis', u'STAP']",-0.370797,idecycle,43.2951
+Palma,Bicipalma,ES,,2.646634,bicipalma,39.57119
+Lille,V'lille,FR,Keolis,3.057256,vlille,50.62925
+Rhodes,Cyclopolis,GR,Cyclopolis Systems,28.2246966,cyclopolis-rhodes,36.4509118
+#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,23.6824746661,cyclopolis-moschatotavros,37.9538991434
+Limnos,Cyclopolis,GR,Cyclopolis Systems,25.0586722,cyclopolis-limnos,39.8747861
+Maroussi,Cyclopolis,GR,Cyclopolis Systems,22.8093402872,cyclopolis-nafplio,37.5639397319
+"Miami Beach, FL",Citi Bike Miami,US,DecoBike LLC,-80.1300455,decobike-miami-beach,25.790654
+Maroussi,Cyclopolis,GR,Cyclopolis Systems,22.0821570196,cyclopolis-aigialeia,38.2511101325
+Marathon,Cyclopolis,GR,Cyclopolis Systems,23.9776389963,cyclopolis-marathon,38.0855680022
+#UNENCODABLE,Bicileon,ES,ITCL,-5.5670959,bicileon,42.5987263
+Maroussi,Cyclopolis,GR,Cyclopolis Systems,23.8083299536,cyclopolis-maroussi,38.0568722388
+#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,23.7126,cyclopolis-neasmyrni,37.9381
+Florina,Cyclopolis,GR,Cyclopolis Systems,21.4245222,cyclopolis-florina,40.8016111
+"San Diego, CA",Decobike San Diego,US,DecoBike LLC,-117.1610838,decobike-san-diego,32.715738
+Siena,#UNDECODABLE,IT,Comunicare S.r.l.,11.3306,bicincitta-siena,43.3186
+Parco dei Colli di Bergamo,#UNDECODABLE,IT,Comunicare S.r.l.,9.649230073016383,bicincitta-parco-dei-colli-di-bergamo,45.72295637032245
+Mantova,#UNDECODABLE,IT,Comunicare S.r.l.,10.783718973016335,bicincitta-mantova,45.15866370764634
+Assemini,#UNDECODABLE,IT,Comunicare S.r.l.,9.006601555294765,bicincitta-assemini,39.28956306007679
+#UNENCODABLE,#UNDECODABLE,IT,Comunicare S.r.l.,9.654953570777934,bicincitta-tortoli,39.92664489852196
+Gaeta,#UNDECODABLE,IT,Comunicare S.r.l.,13.584335125656139,bicincitta-gaeta,41.209620965538036
+Borgarello,#UNDECODABLE,IT,Comunicare S.r.l.,9.136150475640875,bicincitta-borgarello,45.23963753440171
+Pizzighettone e Formigara,#UNDECODABLE,IT,Comunicare S.r.l.,9.778087948479424,bicincitta-pizzighettone-formigara,45.186748819167434
+Montecatini Terme,#UNDECODABLE,IT,Comunicare S.r.l.,10.764385656591799,bicincitta-montecatini-terme,43.88362791665083
+Carrara,#UNDECODABLE,IT,Comunicare S.r.l.,10.097172450401331,bicincitta-carrara,44.07731805550891
+Cernobbio,#UNDECODABLE,IT,Comunicare S.r.l.,9.073591857810925,bicincitta-cernobbio,45.83745947067494
+Sestri Levante - Lavagna,Tigullionbike,IT,Comunicare S.r.l.,9.395714,tigullionbike,44.272554
+Ascoli Piceno,Ascoli Piceno,IT,Comunicare S.r.l.,13.583333,ascoli-piceno,42.85
+Santa Margherita Ligure - Portofino - Camogli,Portofino Park and Bike,IT,Comunicare S.r.l.,9.211264,portofino-park-and-bike,44.335084
+Arezzo,ARbike,IT,Comunicare S.r.l.,11.87,arbike,43.473333
+Bergamo,BiGi,IT,Comunicare S.r.l.,9.67,bigi,45.695
+Busto Arsizio,Bici in Busto,IT,Comunicare S.r.l.,8.852062,bici-in-busto,45.610555
+Biella,Biella,IT,Comunicare S.r.l.,8.051111,biella,45.5775
+Cernusco sul Naviglio - Pioltello - Carugate,Meglio in Bici,IT,Comunicare S.r.l.,9.341984,meglio-in-bici,45.520541
+Cuneo,Cuneo,IT,Comunicare S.r.l.,7.541428,cuneo,44.384238
+Lecco,Lecco,IT,Comunicare S.r.l.,9.392366,lecco,45.853554
+Frosinone,FRee Bike sharing,IT,Comunicare S.r.l.,13.342123,free-bike-sharing,41.645081
+Bath,Bike in Bath,GB,Comunicare S.r.l.,-2.362404,bike-in-bath,51.381531
+Manerba del Garda,Manerba in Bici,IT,Comunicare S.r.l.,10.559406,manerba-in-bici,45.561179
+Novara,Novara,IT,Comunicare S.r.l.,8.622165,novara,45.44574
+Padova,GoodBike,IT,Comunicare S.r.l.,11.8767611,goodbike,45.4064349
+Marciana Marina,Mar e Bici,IT,Comunicare S.r.l.,10.196514,mar-e-bici,42.805855
+#UNENCODABLE,Parkinbici,IT,Comunicare S.r.l.,16.037292,parkinbici,41.833502
+Parma,Parma,IT,Comunicare S.r.l.,10.3279036,parma,44.801485
+Pavia,Pavia in bici,IT,Comunicare S.r.l.,9.1582069,pavia-in-bici,45.1847248
+Perugia,Bici Perugia,IT,Comunicare S.r.l.,12.3908279,bici-perugia,43.1107168
+Piacenza,Piacenza,IT,Comunicare S.r.l.,9.6865813,piacenza,45.0473754
+Reggio Emilia,Reggio Emilia,IT,Comunicare S.r.l.,10.6296859,reggio-emilia,44.6989932
+Pinerolo,Pinerolo,IT,Comunicare S.r.l.,7.3499953,pinerolo,44.8850256
+Rimini,Rimini,IT,Comunicare S.r.l.,12.5646003,rimini,44.0570817
+Schio,BiciSchio,IT,Comunicare S.r.l.,11.3597702,bicischio,45.7170517
+Saluzzo,Saluzzo,IT,Comunicare S.r.l.,7.492735499999999,saluzzo,44.6445404
+Savigliano,Savigliano,IT,Comunicare S.r.l.,7.662463499999999,savigliano,44.6470327
+Terni,Terni,IT,Comunicare S.r.l.,12.6426604,terni,42.5636168
+Tirano,Tirano in Bici,IT,Comunicare S.r.l.,10.1696056,tirano-in-bici,46.216168
+Udine,Udine,IT,Comunicare S.r.l.,13.2345794,udine,46.0710668
+Ustica,Ustica,IT,Comunicare S.r.l.,13.1682675,ustica,38.7031179
+Como,BICI&CO,IT,Comunicare S.r.l.,9.0851765,bici-co,45.8080597
+Venezia,Venezia,IT,Comunicare S.r.l.,12.3155151,venezia,45.4408474
+La Spezia,Speziainbici,IT,Comunicare S.r.l.,9.824082599999999,speziainbici,44.1024504
+Torino,[TO]BIKE,IT,Comunicare S.r.l.,7.685676,to-bike,45.07098200000001
+Pisa,Ciclopi,IT,Comunicare S.r.l.,10.4016888,ciclopi,43.7228386
+Cagliari,Cagliari,IT,Comunicare S.r.l.,9.121399,cagliari,39.220817
+Varese,Gimme Bike,IT,Comunicare S.r.l.,8.823913,gimme-bike,45.8183902
+Sellero,Sellero,IT,Comunicare S.r.l.,10.353434085845947,sellero,46.06304765446406
+Ugento,Ugento,IT,Comunicare S.r.l.,18.1582962,ugento,39.9273518
+Civitavecchia,Civitavecchia,IT,Comunicare S.r.l.,11.7922462,civitavecchia,42.0937524
+Prata Camportaccio,Prata Camportaccio,IT,Comunicare S.r.l.,9.3964914,prata-camportaccio,46.3042146
+Barcellona Pozzo di Gotto,LonganoinBici,IT,Comunicare S.r.l.,15.212116241455078,longanoinbici,38.149812517944284
+Cassano d'Adda,Cassano d'Adda,IT,Comunicare S.r.l.,9.5155813,cassano-d-adda,45.5309616
+Rieti,Rietinbici,IT,Comunicare S.r.l.,12.86099910736084,rietinbici,42.40262397383167
+Bianzone,Bianzone in Bici,IT,Comunicare S.r.l.,10.109354,bianzone-in-bici,46.188197
+Lecce,lecce,IT,Comunicare S.r.l.,18.177824020385742,lecce,40.35040350928062
+Castellucchio,Castellucchio,IT,Comunicare S.r.l.,10.651202201843262,castellucchio,45.15047821582959
+Noto,NotoinBici,IT,Comunicare S.r.l.,15.074658393859863,notoinbici,36.889437754839854
+Enna,Enna,IT,Comunicare S.r.l.,14.27973747253418,enna,37.56342572664775
+Carbonia,Carbonia,IT,Comunicare S.r.l.,8.522222,carbonia,39.167222
+Genova,MoBike,IT,Comunicare S.r.l.,8.92908986230462,mobike,44.40430089372731
+Pordenone,Pordenone,IT,Comunicare S.r.l.,12.674491020251475,pordenone,45.94790101663391
+Trento,e.motion,IT,Comunicare S.r.l.,11.122145390351879,e-motion-trento,46.06643205823519
+Cremona,Scegli in Bici,IT,Comunicare S.r.l.,10.0222648619018,scegli-in-bici,45.134914104864116
+Pergine Valsugana,e.motion,IT,Comunicare S.r.l.,11.239041694195503,e-motion-pergine-valsugana,46.06050419001399
+Rovereto,e.motion,IT,Comunicare S.r.l.,11.042242751867644,e-motion-rovereto,45.88710661061543
+Provincia di Lodi,We LOve bike,IT,Comunicare S.r.l.,9.651688106933548,we-love-bike,45.1249548189115
+Monopoli,Monopoli BIKE,IT,Comunicare S.r.l.,17.311687995336918,monopoli-bike,40.94519109440738
+Quartucciu,BicinQuartucciu,IT,Comunicare S.r.l.,9.179296426489255,bicinquartucciu,39.25043149806156
+Andria,Andria in Bici,IT,Comunicare S.r.l.,16.296983922753956,andria,41.224346932834
+Olbia,Olbia Bike,IT,Comunicare S.r.l.,9.4994397,olbia-bike,40.9240543
+Bassano del Grappa,Bassano del Grappa,IT,Comunicare S.r.l.,11.736667,bassanodelgrappa,45.768611
+Savona,Savona,IT,Comunicare S.r.l.,8.463126708984431,savona,44.29516444397244
+Tradate,Tradate,IT,Comunicare S.r.l.,8.915993391601548,tradate,45.70938576720161
+Brindisi,BrindisiByBike,IT,Comunicare S.r.l.,17.940774547082572,brindisi,40.637580319936106
+Alba,Alba,IT,Comunicare S.r.l.,8.083333,alba,44.716667
+Bari,Bari in Bici,IT,Comunicare S.r.l.,16.866667,bariinbici,41.125278
+Bra,Bra,IT,Comunicare S.r.l.,7.854795,bra,44.694224
+Casalmaggiore,Casalmaggiore,IT,Comunicare S.r.l.,10.419245,casalmaggiore,44.983499
+#UNENCODABLE,BICIamo,IT,Comunicare S.r.l.,9.12569,biciamo,45.73626
+Chivasso,Chivasso,IT,Comunicare S.r.l.,7.888935,chivasso,45.189765
+Jesi,JesinBici,IT,Comunicare S.r.l.,13.244448,jesinbici,43.522601
+Santa Maria Maggiore - Malesco - Villette,#UNENCODABLE,IT,Comunicare S.r.l.,8.499169,ossola,46.127196
+Novi Ligure,Novi Ligure,IT,Comunicare S.r.l.,8.7858956,noviligure,44.7620048
+Pamplona,nbici,ES,Comunicare S.r.l.,-1.6482653,nbici,42.8116631
+Oderzo,Oderzo,IT,Comunicare S.r.l.,12.4973111,oderzo,45.77976460000001
+Pistoia,PistoiainBici,IT,Comunicare S.r.l.,10.9078587,pistoiainbici,43.9303475
+Treviso,Treviso,IT,Comunicare S.r.l.,12.243039,treviso,45.6669011
+Pontedera,Pontedera,IT,Comunicare S.r.l.,10.6363586,pontedera,43.6625156
+Prato,Prato,IT,Comunicare S.r.l.,11.102228,prato,43.8777049
+#UNENCODABLE,#UNENCODABLE,IT,Comunicare S.r.l.,12.5654299,sandonadipiave,45.633185
+Settimo Torinese,Settimo Torinese,IT,Comunicare S.r.l.,7.770978400000001,settimotorinese,45.139586
+Siracusa,GoBike,IT,Comunicare S.r.l.,15.2865861,gobike,37.0754739
+Sondrio,Sondrio,IT,Comunicare S.r.l.,9.8787674,sondrio,46.1698583
+Vercelli,Vercelli,IT,Comunicare S.r.l.,8.418573499999999,vercelli,45.32022720000001
+Villorba,Villorba,IT,Comunicare S.r.l.,12.2343848,villorba,45.7411227
+Roma,Roma'n'Bike,IT,Comunicare S.r.l.,12.4825199,roma-n-bike,41.8929163
+Bydgoszcz,Bydgoski rower aglomeracyjny,PL,Bike U Sp. z o.o.,18.00038,bikeu-bra,53.12193
+Szczecin,#UNENCODABLE,PL,Bike U Sp. z o.o.,14.542222,bikes-srm,53.438056
+#UNENCODABLE,BBBike,PL,Bike U Sp. z o.o.,19.044444,bbbike,49.8225
+Milano,BikeMi,IT,ClearChannel,9.186516,bikemi,45.4654542
+Zaragoza,Bizi,ES,ClearChannel,-0.8895811,bizi,41.6487908
