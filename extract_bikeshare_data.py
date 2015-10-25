@@ -7,30 +7,49 @@ import pybikes
 import json
 import csv
 
-networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
-networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
+#def pryBinding():
+#    code.interact(local=locals())
 
+networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 print "JSON FILE EXISTS" if os.path.isfile(networks_dot_json) else "OOPS"
+
+
+
+
+
+networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
+networks_csv = csv.writer(open(networks_dot_csv, "w"))
+
 with open(networks_dot_json) as json_file:
     networks = json.load(json_file)
     for network in networks:
-        #pprint(network)
-        #try:
-        #  city_name = network["city"].encode()
-        #except UnicodeEncodeError:
-        #  city_name = "idk"
+
+        try:
+          city_name = network["city"].encode()
+        except UnicodeEncodeError:
+          city_name = "idk"
+
         n = {
           'id': network["id"],
           'tag': network["tag"].encode(),
           'name': network["name"].encode(),
           'url': network["url"].encode(),
-          'city': network["city"], # city_name,
+          'city': city_name,
           'lat': network["lat"],
           'lng': network["lng"],
           'radius': network["radius"]
         }
-        pprint(n) #todo: write to .csv
+        pprint(n)
+        networks_csv.writerow(n.values())
+        #with open(networks_dot_csv, "w") as f:
+            #writer = csv.writer(f, delimiter=',')
+            #code.interact(local=locals())
+            #writer.writerow(n.values())
+
+
+
+
 
 
 
