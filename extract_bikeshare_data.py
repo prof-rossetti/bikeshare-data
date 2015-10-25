@@ -1,22 +1,54 @@
 # extract_bikeshare_data.py
 
 import code # to debug: `code.interact(local=locals())`
+import os
+from pprint import pprint
+
 import pybikes
 import json
+import csv
+
+networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
+print "JSON FILE EXISTS" if os.path.isfile(networks_dot_json) else "OOPS"
+
+networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
+print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
+
+with open(networks_dot_json) as json_file:
+    networks = json.load(json_file)
+    for network in networks:
+        pprint(network)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
 #
-# REQUEST A LIST OF ALL KNOWN BIKESHARES
-#
-
-print "----------------------"
-print "GETTING BIKESHARES..."
-print "----------------------"
-
-# todo
-
-#
-# REQUEST AND PRINT INFO ABOUT EACH BIKESHARE
+# REQUEST AND PRINT INFO ABOUT EACH BIKESHARE "NETWORK"
 #
 
 response = pybikes.get('capital-bikeshare')
@@ -54,3 +86,4 @@ response.update()
 for station in response.stations:
     print station.to_json()
     print "----------------------"
+'''

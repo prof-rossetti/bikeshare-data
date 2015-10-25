@@ -34,6 +34,7 @@ Issues and Pull Requests are welcome.
 ## Reference
 
   + https://github.com/eskerda/PyBikes
+  + http://developer.motivateco.com/
   + http://www.capitalbikeshare.com/data/stations/bikeStations.xml
   + http://www.capitalbikeshare.com/system-data
 
