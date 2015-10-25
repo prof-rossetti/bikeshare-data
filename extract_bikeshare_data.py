@@ -17,7 +17,13 @@ bikeshares_dot_csv = os.path.join(os.path.dirname(__file__), "data/bikeshares.cs
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": bikeshares_dot_csv}
 os.remove(bikeshares_dot_csv) if os.path.isfile(bikeshares_dot_csv) else "NO CSV FILE DETECTED"
 bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator=os.linesep)
-bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_method","system_type"])
+bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
+
+stations_dot_csv = os.path.join(os.path.dirname(__file__), "data/stations.csv")
+print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": stations_dot_csv}
+os.remove(stations_dot_csv) if os.path.isfile(stations_dot_csv) else "NO CSV FILE DETECTED"
+stations_csv = csv.writer(open(stations_dot_csv, "w"), lineterminator=os.linesep)
+stations_csv.writerow(["name","latitude","longitude","bikes","free","timestamp","extra"])
 
 '''
 def list_of_encoded_strings(array_of_unicode_strings):
@@ -66,12 +72,12 @@ with open(networks_dot_json) as json_file:
           feed_url = None # "#UNKNOWN"
 
         try:
-          feed_method = response.method.encode()
+          feed_format = response.method.encode()
         except:
-          feed_method = None #"#UNKNOWN"
+          feed_format = None #"#UNKNOWN"
 
         try:
-          system_type = response.meta["system"]
+          system_type = response.meta["system"].encode()
         except:
           system_type = None #"#UNKNOWN"
 
@@ -84,30 +90,50 @@ with open(networks_dot_json) as json_file:
            'longitude': response.meta["longitude"],
            'latitude':response.meta["latitude"],
            'feed_url': feed_url,
-           'feed_method': feed_method,
+           'feed_format': feed_format,
            'system_type': system_type,
         }
         pprint(bikeshare)
-        bikeshares_csv.writerow([ # bikeshare.values()
-            bikeshare["tag"], bikeshare["name"], bikeshare["city"], bikeshare["country"],
-            bikeshare["company"], bikeshare["longitude"], bikeshare["latitude"],
-            bikeshare["feed_url"], bikeshare["feed_method"], bikeshare["system_type"]
-        ])
+        bikeshares_csv.writerow([
+            bikeshare["tag"],
+            bikeshare["name"],
+            bikeshare["city"],
+            bikeshare["country"],
+            bikeshare["company"],
+            bikeshare["longitude"],
+            bikeshare["latitude"],
+            bikeshare["feed_url"],
+            bikeshare["feed_format"],
+            bikeshare["system_type"]
+        ]) # bikeshare.values()
 
         #
         # CALL API FOR STATIONS
         #
-'''
-        if network_tag in ["bicipalma","bizi"]:
-            continue # temporary workaround for expected network errors
 
-        response.update()
-        bikeshare["station_count"] = len(response.stations)
-
-
+        try:
+          response.update()
+        except:
+            continue # skip problematic calls for: ["bicipalma", et al]
 
         for station in response.stations:
-            print station.to_json()
-            print "----------------------"
+            pprint(station.to_json())
+            timestamp = station.timestamp.strftime('%Y-%m-%d %H:%M:%S')
 
-'''
+            try:
+              station_name = station.name.encode()
+            except:
+                station_name = None
+
+            try:
+              stations_csv.writerow([
+                  station_name,
+                  station.latitude,
+                  station.longitude,
+                  station.bikes,
+                  station.free,
+                  timestamp,
+                  station.extra
+              ]) # station.values()
+            except:
+                code.interact(local=locals())
