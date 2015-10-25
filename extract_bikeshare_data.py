@@ -13,17 +13,17 @@ os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FIL
 networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator=os.linesep)
 networks_csv.writerow(["id","tag"])
 
-bikeshares_dot_csv = os.path.join(os.path.dirname(__file__), "data/bikeshares.csv")
-print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": bikeshares_dot_csv}
-os.remove(bikeshares_dot_csv) if os.path.isfile(bikeshares_dot_csv) else "NO CSV FILE DETECTED"
-bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator=os.linesep)
-bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
+open_networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/open_networks.csv")
+print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": open_networks_dot_csv}
+os.remove(open_networks_dot_csv) if os.path.isfile(open_networks_dot_csv) else "NO CSV FILE DETECTED"
+open_networks_csv = csv.writer(open(open_networks_dot_csv, "w"), lineterminator=os.linesep)
+open_networks_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
 
 stations_dot_csv = os.path.join(os.path.dirname(__file__), "data/stations.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": stations_dot_csv}
 os.remove(stations_dot_csv) if os.path.isfile(stations_dot_csv) else "NO CSV FILE DETECTED"
 stations_csv = csv.writer(open(stations_dot_csv, "w"), lineterminator=os.linesep)
-stations_csv.writerow(["name","latitude","longitude","bikes","free","timestamp","extra"])
+stations_csv.writerow(["network_tag","name","latitude","longitude","bikes","free","timestamp","extra"])
 
 '''
 def list_of_encoded_strings(array_of_unicode_strings):
@@ -81,7 +81,7 @@ with open(networks_dot_json) as json_file:
         except:
           system_type = None #"#UNKNOWN"
 
-        bikeshare = {
+        open_network = {
            'tag': response.tag.encode(),
            'name': name,
            'city': city,
@@ -93,19 +93,19 @@ with open(networks_dot_json) as json_file:
            'feed_format': feed_format,
            'system_type': system_type,
         }
-        pprint(bikeshare)
-        bikeshares_csv.writerow([
-            bikeshare["tag"],
-            bikeshare["name"],
-            bikeshare["city"],
-            bikeshare["country"],
-            bikeshare["company"],
-            bikeshare["longitude"],
-            bikeshare["latitude"],
-            bikeshare["feed_url"],
-            bikeshare["feed_format"],
-            bikeshare["system_type"]
-        ]) # bikeshare.values()
+        pprint(open_network)
+        open_networks_csv.writerow([
+            open_network["tag"],
+            open_network["name"],
+            open_network["city"],
+            open_network["country"],
+            open_network["company"],
+            open_network["longitude"],
+            open_network["latitude"],
+            open_network["feed_url"],
+            open_network["feed_format"],
+            open_network["system_type"]
+        ]) # open_network.values()
 
         #
         # CALL API FOR STATIONS
@@ -127,6 +127,7 @@ with open(networks_dot_json) as json_file:
 
             try:
               stations_csv.writerow([
+                  network_tag,
                   station_name,
                   station.latitude,
                   station.longitude,
