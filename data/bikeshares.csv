@@ -1,361 +1,361 @@
-city,company,country,latitude,longitude,name,tag
-#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,21.6247265179,cyclopolis-arxaiaolympia,37.6419700934
-#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,22.7493819902,cyclopolis-kiato,38.0132674508
-Pau,IDECycle,FR,"[u'Keolis', u'STAP']",-0.370797,idecycle,43.2951
-Palma,Bicipalma,ES,,2.646634,bicipalma,39.57119
-Lille,V'lille,FR,Keolis,3.057256,vlille,50.62925
-Rhodes,Cyclopolis,GR,Cyclopolis Systems,28.2246966,cyclopolis-rhodes,36.4509118
-#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,23.6824746661,cyclopolis-moschatotavros,37.9538991434
-Limnos,Cyclopolis,GR,Cyclopolis Systems,25.0586722,cyclopolis-limnos,39.8747861
-Maroussi,Cyclopolis,GR,Cyclopolis Systems,22.8093402872,cyclopolis-nafplio,37.5639397319
-"Miami Beach, FL",Citi Bike Miami,US,DecoBike LLC,-80.1300455,decobike-miami-beach,25.790654
-Maroussi,Cyclopolis,GR,Cyclopolis Systems,22.0821570196,cyclopolis-aigialeia,38.2511101325
-Marathon,Cyclopolis,GR,Cyclopolis Systems,23.9776389963,cyclopolis-marathon,38.0855680022
-#UNENCODABLE,Bicileon,ES,ITCL,-5.5670959,bicileon,42.5987263
-Maroussi,Cyclopolis,GR,Cyclopolis Systems,23.8083299536,cyclopolis-maroussi,38.0568722388
-#UNENCODABLE,Cyclopolis,GR,Cyclopolis Systems,23.7126,cyclopolis-neasmyrni,37.9381
-Florina,Cyclopolis,GR,Cyclopolis Systems,21.4245222,cyclopolis-florina,40.8016111
-"San Diego, CA",Decobike San Diego,US,DecoBike LLC,-117.1610838,decobike-san-diego,32.715738
-Siena,#UNDECODABLE,IT,Comunicare S.r.l.,11.3306,bicincitta-siena,43.3186
-Parco dei Colli di Bergamo,#UNDECODABLE,IT,Comunicare S.r.l.,9.649230073016383,bicincitta-parco-dei-colli-di-bergamo,45.72295637032245
-Mantova,#UNDECODABLE,IT,Comunicare S.r.l.,10.783718973016335,bicincitta-mantova,45.15866370764634
-Assemini,#UNDECODABLE,IT,Comunicare S.r.l.,9.006601555294765,bicincitta-assemini,39.28956306007679
-#UNENCODABLE,#UNDECODABLE,IT,Comunicare S.r.l.,9.654953570777934,bicincitta-tortoli,39.92664489852196
-Gaeta,#UNDECODABLE,IT,Comunicare S.r.l.,13.584335125656139,bicincitta-gaeta,41.209620965538036
-Borgarello,#UNDECODABLE,IT,Comunicare S.r.l.,9.136150475640875,bicincitta-borgarello,45.23963753440171
-Pizzighettone e Formigara,#UNDECODABLE,IT,Comunicare S.r.l.,9.778087948479424,bicincitta-pizzighettone-formigara,45.186748819167434
-Montecatini Terme,#UNDECODABLE,IT,Comunicare S.r.l.,10.764385656591799,bicincitta-montecatini-terme,43.88362791665083
-Carrara,#UNDECODABLE,IT,Comunicare S.r.l.,10.097172450401331,bicincitta-carrara,44.07731805550891
-Cernobbio,#UNDECODABLE,IT,Comunicare S.r.l.,9.073591857810925,bicincitta-cernobbio,45.83745947067494
-Sestri Levante - Lavagna,Tigullionbike,IT,Comunicare S.r.l.,9.395714,tigullionbike,44.272554
-Ascoli Piceno,Ascoli Piceno,IT,Comunicare S.r.l.,13.583333,ascoli-piceno,42.85
-Santa Margherita Ligure - Portofino - Camogli,Portofino Park and Bike,IT,Comunicare S.r.l.,9.211264,portofino-park-and-bike,44.335084
-Arezzo,ARbike,IT,Comunicare S.r.l.,11.87,arbike,43.473333
-Bergamo,BiGi,IT,Comunicare S.r.l.,9.67,bigi,45.695
-Busto Arsizio,Bici in Busto,IT,Comunicare S.r.l.,8.852062,bici-in-busto,45.610555
-Biella,Biella,IT,Comunicare S.r.l.,8.051111,biella,45.5775
-Cernusco sul Naviglio - Pioltello - Carugate,Meglio in Bici,IT,Comunicare S.r.l.,9.341984,meglio-in-bici,45.520541
-Cuneo,Cuneo,IT,Comunicare S.r.l.,7.541428,cuneo,44.384238
-Lecco,Lecco,IT,Comunicare S.r.l.,9.392366,lecco,45.853554
-Frosinone,FRee Bike sharing,IT,Comunicare S.r.l.,13.342123,free-bike-sharing,41.645081
-Bath,Bike in Bath,GB,Comunicare S.r.l.,-2.362404,bike-in-bath,51.381531
-Manerba del Garda,Manerba in Bici,IT,Comunicare S.r.l.,10.559406,manerba-in-bici,45.561179
-Novara,Novara,IT,Comunicare S.r.l.,8.622165,novara,45.44574
-Padova,GoodBike,IT,Comunicare S.r.l.,11.8767611,goodbike,45.4064349
-Marciana Marina,Mar e Bici,IT,Comunicare S.r.l.,10.196514,mar-e-bici,42.805855
-#UNENCODABLE,Parkinbici,IT,Comunicare S.r.l.,16.037292,parkinbici,41.833502
-Parma,Parma,IT,Comunicare S.r.l.,10.3279036,parma,44.801485
-Pavia,Pavia in bici,IT,Comunicare S.r.l.,9.1582069,pavia-in-bici,45.1847248
-Perugia,Bici Perugia,IT,Comunicare S.r.l.,12.3908279,bici-perugia,43.1107168
-Piacenza,Piacenza,IT,Comunicare S.r.l.,9.6865813,piacenza,45.0473754
-Reggio Emilia,Reggio Emilia,IT,Comunicare S.r.l.,10.6296859,reggio-emilia,44.6989932
-Pinerolo,Pinerolo,IT,Comunicare S.r.l.,7.3499953,pinerolo,44.8850256
-Rimini,Rimini,IT,Comunicare S.r.l.,12.5646003,rimini,44.0570817
-Schio,BiciSchio,IT,Comunicare S.r.l.,11.3597702,bicischio,45.7170517
-Saluzzo,Saluzzo,IT,Comunicare S.r.l.,7.492735499999999,saluzzo,44.6445404
-Savigliano,Savigliano,IT,Comunicare S.r.l.,7.662463499999999,savigliano,44.6470327
-Terni,Terni,IT,Comunicare S.r.l.,12.6426604,terni,42.5636168
-Tirano,Tirano in Bici,IT,Comunicare S.r.l.,10.1696056,tirano-in-bici,46.216168
-Udine,Udine,IT,Comunicare S.r.l.,13.2345794,udine,46.0710668
-Ustica,Ustica,IT,Comunicare S.r.l.,13.1682675,ustica,38.7031179
-Como,BICI&CO,IT,Comunicare S.r.l.,9.0851765,bici-co,45.8080597
-Venezia,Venezia,IT,Comunicare S.r.l.,12.3155151,venezia,45.4408474
-La Spezia,Speziainbici,IT,Comunicare S.r.l.,9.824082599999999,speziainbici,44.1024504
-Torino,[TO]BIKE,IT,Comunicare S.r.l.,7.685676,to-bike,45.07098200000001
-Pisa,Ciclopi,IT,Comunicare S.r.l.,10.4016888,ciclopi,43.7228386
-Cagliari,Cagliari,IT,Comunicare S.r.l.,9.121399,cagliari,39.220817
-Varese,Gimme Bike,IT,Comunicare S.r.l.,8.823913,gimme-bike,45.8183902
-Sellero,Sellero,IT,Comunicare S.r.l.,10.353434085845947,sellero,46.06304765446406
-Ugento,Ugento,IT,Comunicare S.r.l.,18.1582962,ugento,39.9273518
-Civitavecchia,Civitavecchia,IT,Comunicare S.r.l.,11.7922462,civitavecchia,42.0937524
-Prata Camportaccio,Prata Camportaccio,IT,Comunicare S.r.l.,9.3964914,prata-camportaccio,46.3042146
-Barcellona Pozzo di Gotto,LonganoinBici,IT,Comunicare S.r.l.,15.212116241455078,longanoinbici,38.149812517944284
-Cassano d'Adda,Cassano d'Adda,IT,Comunicare S.r.l.,9.5155813,cassano-d-adda,45.5309616
-Rieti,Rietinbici,IT,Comunicare S.r.l.,12.86099910736084,rietinbici,42.40262397383167
-Bianzone,Bianzone in Bici,IT,Comunicare S.r.l.,10.109354,bianzone-in-bici,46.188197
-Lecce,lecce,IT,Comunicare S.r.l.,18.177824020385742,lecce,40.35040350928062
-Castellucchio,Castellucchio,IT,Comunicare S.r.l.,10.651202201843262,castellucchio,45.15047821582959
-Noto,NotoinBici,IT,Comunicare S.r.l.,15.074658393859863,notoinbici,36.889437754839854
-Enna,Enna,IT,Comunicare S.r.l.,14.27973747253418,enna,37.56342572664775
-Carbonia,Carbonia,IT,Comunicare S.r.l.,8.522222,carbonia,39.167222
-Genova,MoBike,IT,Comunicare S.r.l.,8.92908986230462,mobike,44.40430089372731
-Pordenone,Pordenone,IT,Comunicare S.r.l.,12.674491020251475,pordenone,45.94790101663391
-Trento,e.motion,IT,Comunicare S.r.l.,11.122145390351879,e-motion-trento,46.06643205823519
-Cremona,Scegli in Bici,IT,Comunicare S.r.l.,10.0222648619018,scegli-in-bici,45.134914104864116
-Pergine Valsugana,e.motion,IT,Comunicare S.r.l.,11.239041694195503,e-motion-pergine-valsugana,46.06050419001399
-Rovereto,e.motion,IT,Comunicare S.r.l.,11.042242751867644,e-motion-rovereto,45.88710661061543
-Provincia di Lodi,We LOve bike,IT,Comunicare S.r.l.,9.651688106933548,we-love-bike,45.1249548189115
-Monopoli,Monopoli BIKE,IT,Comunicare S.r.l.,17.311687995336918,monopoli-bike,40.94519109440738
-Quartucciu,BicinQuartucciu,IT,Comunicare S.r.l.,9.179296426489255,bicinquartucciu,39.25043149806156
-Andria,Andria in Bici,IT,Comunicare S.r.l.,16.296983922753956,andria,41.224346932834
-Olbia,Olbia Bike,IT,Comunicare S.r.l.,9.4994397,olbia-bike,40.9240543
-Bassano del Grappa,Bassano del Grappa,IT,Comunicare S.r.l.,11.736667,bassanodelgrappa,45.768611
-Savona,Savona,IT,Comunicare S.r.l.,8.463126708984431,savona,44.29516444397244
-Tradate,Tradate,IT,Comunicare S.r.l.,8.915993391601548,tradate,45.70938576720161
-Brindisi,BrindisiByBike,IT,Comunicare S.r.l.,17.940774547082572,brindisi,40.637580319936106
-Alba,Alba,IT,Comunicare S.r.l.,8.083333,alba,44.716667
-Bari,Bari in Bici,IT,Comunicare S.r.l.,16.866667,bariinbici,41.125278
-Bra,Bra,IT,Comunicare S.r.l.,7.854795,bra,44.694224
-Casalmaggiore,Casalmaggiore,IT,Comunicare S.r.l.,10.419245,casalmaggiore,44.983499
-#UNENCODABLE,BICIamo,IT,Comunicare S.r.l.,9.12569,biciamo,45.73626
-Chivasso,Chivasso,IT,Comunicare S.r.l.,7.888935,chivasso,45.189765
-Jesi,JesinBici,IT,Comunicare S.r.l.,13.244448,jesinbici,43.522601
-Santa Maria Maggiore - Malesco - Villette,#UNENCODABLE,IT,Comunicare S.r.l.,8.499169,ossola,46.127196
-Novi Ligure,Novi Ligure,IT,Comunicare S.r.l.,8.7858956,noviligure,44.7620048
-Pamplona,nbici,ES,Comunicare S.r.l.,-1.6482653,nbici,42.8116631
-Oderzo,Oderzo,IT,Comunicare S.r.l.,12.4973111,oderzo,45.77976460000001
-Pistoia,PistoiainBici,IT,Comunicare S.r.l.,10.9078587,pistoiainbici,43.9303475
-Treviso,Treviso,IT,Comunicare S.r.l.,12.243039,treviso,45.6669011
-Pontedera,Pontedera,IT,Comunicare S.r.l.,10.6363586,pontedera,43.6625156
-Prato,Prato,IT,Comunicare S.r.l.,11.102228,prato,43.8777049
-#UNENCODABLE,#UNENCODABLE,IT,Comunicare S.r.l.,12.5654299,sandonadipiave,45.633185
-Settimo Torinese,Settimo Torinese,IT,Comunicare S.r.l.,7.770978400000001,settimotorinese,45.139586
-Siracusa,GoBike,IT,Comunicare S.r.l.,15.2865861,gobike,37.0754739
-Sondrio,Sondrio,IT,Comunicare S.r.l.,9.8787674,sondrio,46.1698583
-Vercelli,Vercelli,IT,Comunicare S.r.l.,8.418573499999999,vercelli,45.32022720000001
-Villorba,Villorba,IT,Comunicare S.r.l.,12.2343848,villorba,45.7411227
-Roma,Roma'n'Bike,IT,Comunicare S.r.l.,12.4825199,roma-n-bike,41.8929163
-Bydgoszcz,Bydgoski rower aglomeracyjny,PL,Bike U Sp. z o.o.,18.00038,bikeu-bra,53.12193
-Szczecin,#UNENCODABLE,PL,Bike U Sp. z o.o.,14.542222,bikes-srm,53.438056
-#UNENCODABLE,BBBike,PL,Bike U Sp. z o.o.,19.044444,bbbike,49.8225
-Milano,BikeMi,IT,ClearChannel,9.186516,bikemi,45.4654542
-Zaragoza,Bizi,ES,ClearChannel,-0.8895811,bizi,41.6487908
-Antwerpen,Velo Antwerpen,BE,ClearChannel,4.4,velo-antwerpen,51.216667
-Barcelona,Bicing,ES,ClearChannel,2.1734035,bicing,41.3850639
-#UNENCODABLE,EcoBici,MX,ClearChannel,-99.133208,ecobici,19.4326077
-Leipzig,Nextbike,DE,Nextbike GmbH,12.3625,nextbike-leipzig,51.3415
-#UNENCODABLE,Nextbike,DE,Nextbike GmbH,9.05591,nextbike-tubingen,48.5203
-Luzern,Nextbike,CH,Nextbike GmbH,8.30446,nextbike-luzern,47.0472
-#UNENCODABLE,SiXT,LV,Nextbike GmbH,24.1033,sixt-latvia-riga,56.9453
-Dortmund,metropolradruhr,DE,Nextbike GmbH,7.46255,metropolradruhr-germany-dortmund,51.5141
-Bochum,metropolradruhr,DE,Nextbike GmbH,7.2133,metropolradruhr-germany-bochum,51.4813
-Essen,metropolradruhr,DE,Nextbike GmbH,7.02301,metropolradruhr-germany-essen,51.4425
-Hamm,metropolradruhr,DE,Nextbike GmbH,7.84836,metropolradruhr-germany-hamm,51.6775
-Bottrop,metropolradruhr,DE,Nextbike GmbH,6.94611,metropolradruhr-germany-bottrop,51.5263
-Herne,metropolradruhr,DE,Nextbike GmbH,7.21493,metropolradruhr-germany-herne,51.5363
-Gelsenkirchen,metropolradruhr,DE,Nextbike GmbH,7.07039,metropolradruhr-germany-gelsenkirchen,51.5404
-Duisburg,metropolradruhr,DE,Nextbike GmbH,6.77513,metropolradruhr-germany-duisburg,51.4487
-#UNENCODABLE,metropolradruhr,DE,Nextbike GmbH,6.87401,metropolradruhr-germany-mulheim-a-d-r,51.4308
-Oberhausen,metropolradruhr,DE,Nextbike GmbH,6.85169,metropolradruhr-germany-oberhausen,51.4936
-#UNENCODABLE,Nextbike,DE,Nextbike GmbH,11.5791,nextbike-munchen,48.1392
-#UNENCODABLE,SiXT,LV,Nextbike GmbH,23.8225,sixt-latvia-jurmala,56.9732
-Wachau,LEIHRADL,AT,Nextbike GmbH,15.4166,nextbike-wachau,48.3188
-Tulln,LEIHRADL,AT,Nextbike GmbH,16.0569,nextbike-tulln,48.3269
-Triestingtal,LEIHRADL,AT,Nextbike GmbH,16.0812,nextbike-triestingtal,47.9835
-Thermenregion,LEIHRADL,AT,Nextbike GmbH,16.2646,nextbike-thermenregion,47.9892
-Flensburg,Nextbike,DE,Nextbike GmbH,9.43571,nextbike-flensburg,54.7804
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,16.853,nextbike-romerland,48.0909
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,16.3092,nextbike-obb-bahnhofe,48.0193
-Offenburg,Nextbike,DE,Nextbike GmbH,7.94243,nextbike-offenburg,48.4721
-Wr.Neustadt,LEIHRADL,AT,Nextbike GmbH,16.2498,nextbike-wr-neustadt,47.8221
-Potsdam,Nextbike,DE,Nextbike GmbH,13.0676,nextbike-potsdam,52.3997
-Bielefeld,Nextbike,DE,Nextbike GmbH,8.53286,nextbike-bielefeld,52.0257
-#UNENCODABLE,Nextbike,DE,Nextbike GmbH,8.39275,nextbike-gutersloh,51.9049
-"Seattle, WA",Pronto Cycle Share,US,"['Pronto!', 'Alta Bicycle Share, Inc']",-122.332071,pronto-cycle-share,47.606209
-Krems Ost,LEIHRADL,AT,Nextbike GmbH,15.6909,nextbike-krems-ost,48.4183
-Unteres Traisental,LEIHRADL,AT,Nextbike GmbH,15.6878,nextbike-unteres-traisental,48.3343
-Piestingtal,LEIHRADL,AT,Nextbike GmbH,15.9467,nextbike-piestingtal,47.8841
-Marchfeld,LEIHRADL,AT,Nextbike GmbH,16.7116,nextbike-marchfeld,48.2741
-10vorWien,LEIHRADL,AT,Nextbike GmbH,16.2735,nextbike-10vorwien,48.3462
-Usedom,UsedomRad,DE,Nextbike GmbH,13.9925,usedomrad-germany-usedom,53.9779
-Augsburg,Nextbike,DE,Nextbike GmbH,10.8916,nextbike-augsburg,48.3647
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,15.6129,nextbike-traisen-golsental,47.9504
-Konya,Nextbike,TR,Nextbike GmbH,32.4957,nextbike-konya,37.8715
-Norderstedt,Nextbike,DE,Nextbike GmbH,10.002,nextbike-norderstedt,53.6969
-Laa an der Thaya,LEIHRADL,AT,Nextbike GmbH,16.3878,nextbike-laa-an-der-thaya,48.7196
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,16.3937,nextbike-sudheide,48.1077
-Limassol,Nextbike,CY,Nextbike GmbH,33.0464,nextbike-limassol,34.6823
-Oberes Ybbstal,LEIHRADL,AT,Nextbike GmbH,15.0073,nextbike-oberes-ybbstal,47.8205
-Heidelberg,VRNnextbike,DE,Nextbike GmbH,8.68933,nextbike-heidelberg,49.4113
-Christchurch,Nextbike,NZ,Nextbike GmbH,172.621,nextbike-christchurch,-43.5341
-Innsbruck,Stadtrad,AT,Nextbike GmbH,11.3961,stadtrad-innsbruck-innsbruck,47.2632
-Mannheim,VRNnextbike,DE,Nextbike GmbH,8.49054,nextbike-mannheim,49.4621
-Tullnerfeld West,LEIHRADL,AT,Nextbike GmbH,15.9065,nextbike-tullnerfeld-west,48.2994
-Berlin,Nextbike,DE,Nextbike GmbH,13.3563,nextbike-berlin,52.5087
-Dresden,SZ-bike,DE,Nextbike GmbH,13.7387,sz-bike-germany-dresden,51.0535
-Karlsruhe,#UNENCODABLE,DE,Nextbike GmbH,8.41827,facherrad-germany-karlsruhe,49.0102
-Hollabrunn,LEIHRADL,AT,Nextbike GmbH,16.0785,nextbike-hollabrunn,48.562
-WienerWald,LEIHRADL,AT,Nextbike GmbH,16.1197,nextbike-wienerwald,48.1917
-Dobrich,Nextbike,BG,Nextbike GmbH,27.8285,nextbike-dobrich,43.567
-Dubai,BYKYstations,AE,Nextbike GmbH,55.2722,bykystations-uae-dubai,25.2435
-Zagreb,Nextbike,HR,Nextbike GmbH,15.9643,nextbike-zagreb,45.7988
-Bietigheim-Bissingen,ebikestation,DE,Nextbike GmbH,9.12518,ebikestation-stuttgart-germany-bietigheim-bissingen,48.9495
-NeusiedlerSee,LEIHRADL,AT,Nextbike GmbH,16.761,nextbike-neusiedlersee,47.839
-Al Sharjah,BYKYstations,AE,Nextbike GmbH,55.2255,bykystations-uae-al-sharjah,25.2199
-Bath,Nextbike,GB,Nextbike GmbH,-2.36275,nextbike-bath,51.382
-Belfast,BelfastBikes,GB,Nextbike GmbH,-5.92918,belfastbikes-belfast,54.5969
-Friedrichshafen,Nextbike,DE,Nextbike GmbH,9.47837,nextbike-friedrichshafen,47.6519
-Glasgow,Nextbike,GB,Nextbike GmbH,-4.25549,nextbike-glasgow,55.8589
-Stirling,Nextbike,GB,Nextbike GmbH,-3.9369,nextbike-stirling,56.1165
-#UNENCODABLE,Bike Point,HR,Nextbike GmbH,15.8982,bike-point-sibenik-sibenik,43.733
-Seferihisar,KARBIS,TR,Nextbike GmbH,26.8386,karbis-turkey-seferihisar,38.1962
-Lublin,LRM,PL,Nextbike GmbH,22.5658,lrm-lublin-poland-lublin,51.2597
-Grodzisk Mazowiecki,GRM,PL,Nextbike GmbH,20.6265,grm-grodzisk-poland-grodzisk-mazowiecki,52.113
-Pittsburgh,Healthy Ride,US,Nextbike GmbH,-79.9945,healthy-ride-pittsburgh-pittsburgh,40.4459
-Cambridge,Nextbike,NZ,Nextbike GmbH,175.472,nextbike-cambridge,-37.8914
-Schwieberdingen,ebikestation,DE,Nextbike GmbH,9.07419,ebikestation-stuttgart-germany-schwieberdingen,48.8723
-Quickborn,Nextbike,DE,Nextbike GmbH,9.90272,nextbike-quickborn,53.7333
-Hoboken,Hudsonbikeshare,US,Nextbike GmbH,-74.0341,hudsonbikeshare-hoboken,40.7447
-King Abdullah Economic City,iBike,SA,Nextbike GmbH,39.1031,ibike-saudi-arabia-king-abdullah-economic-city,22.3113
-Speyer,VRNnextbike,DE,Nextbike GmbH,8.45295,nextbike-speyer,49.3126
-#UNENCODABLE,Nextbike,DE,Nextbike GmbH,9.93333,nextbike-wurzburg,49.8
-Ludwigshafen,VRNnextbike,DE,Nextbike GmbH,8.43287,nextbike-ludwigshafen,49.4741
-Waiblingen,ebikestation,DE,Nextbike GmbH,9.31667,ebikestation-stuttgart-germany-waiblingen,48.8333
-Vaihingen an der Enz,ebikestation,DE,Nextbike GmbH,8.96121,ebikestation-stuttgart-germany-vaihingen-an-der-enz,48.9334
-West Palm Beach Florida,Skybike,US,Nextbike GmbH,-80.0821,skybike-west-palm-beach-west-palm-beach-florida,26.7125
-Serfaus,Nextbike,AT,Nextbike GmbH,10.6048,nextbike-serfaus,47.0387
-Herrenberg,ebikestation,DE,Nextbike GmbH,8.86716,ebikestation-stuttgart-germany-herrenberg,48.595
-#UNENCODABLE,Nextbike,HR,Nextbike GmbH,15.375,nextbike-gospic,44.5469
-Kent State University,Flashfleet,US,Nextbike GmbH,-81.3415,flashfleet-kent-state-university,41.1491
-#UNENCODABLE,ROWER GMINNY,PL,Nextbike GmbH,23.1204,rower-gminny-poland-juchnowiec-koscielny,53.0928
-Offenbach am Main,Nextbike,DE,Nextbike GmbH,8.73825,nextbike-offenbach-am-main,50.1093
-Karlovac,Nextbike,HR,Nextbike GmbH,15.5503,nextbike-karlovac,45.4905
-#UNENCODABLE,Nextbike,DE,Nextbike GmbH,6.77204,nextbike-dusseldorf,51.2243
-Magdeburg,Nextbike,DE,Nextbike GmbH,11.6342,nextbike-magdeburg,52.1268
-Hamburg,Nextbike,DE,Nextbike GmbH,9.99052,nextbike-hamburg,53.5506
-Auckland,Nextbike,NZ,Nextbike GmbH,174.763,nextbike-auckland,-36.8603
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,15.6232,nextbike-st-polten,48.2058
-#UNENCODABLE,LEIHRADL,AT,Nextbike GmbH,16.3202,nextbike-modling,48.1047
-Frankfurt,Nextbike,DE,Nextbike GmbH,8.66375,nextbike-frankfurt,50.1072
-Hannover,Nextbike,DE,Nextbike GmbH,9.73569,nextbike-hannover,52.3721
-Budapest,MOL Bubi,HU,Nextbike GmbH,19.040235,bubi,47.497912
-#UNENCODABLE,NorisBike,DE,Nextbike GmbH,11.0814,norisbike-germany-nurnberg,49.4479
-#UNENCODABLE,KVB Rad,DE,Nextbike GmbH,6.96053,kvb-rad,50.9364
-Sursee,Nextbike,CH,Nextbike GmbH,8.10877,nextbike-sursee,47.1713
-Warszawa,Bemowo Bike,PL,Nextbike GmbH,20.929,bemowo-bike,52.2606
-#UNENCODABLE,Rower Miejski,PL,Nextbike GmbH,17.0485,wroclawski-rower-miejski,51.1097
-Opole,Opole Bike,PL,Nextbike GmbH,17.9276,opole-bike,50.6645
-#UNENCODABLE,#UNENCODABLE,PL,Nextbike GmbH,18.6026,rower-trojmiejski,54.4349
-#UNENCODABLE,Rower Miejski,PL,Nextbike GmbH,16.9258,poznanski-rower-miejski,52.4116
-Warszawa,VETURILO,PL,Nextbike GmbH,21.0024,veturilo,52.2345
-#UNENCODABLE,KMK Bike,PL,Nextbike GmbH,19.9374,kmk-bike,50.0395
-#UNENCODABLE,BiKeR,PL,Nextbike GmbH,23.1564,biker-bialystok,53.1299
-Konstancin,Rower Miejski,PL,Nextbike GmbH,21.1075,konstancinski-rower-miejski,52.0879
-Katowice,City By Bike,PL,Nextbike GmbH,19.0266,city-by-bike,50.2534
-"Montreal, QC",Bixi,CA,PBSC,-73.55399249999999,bixi-montreal,45.5086699
-London,Santander Cycles,GB,"[u'PBSC', u'Serco Group plc']",-0.1198244,barclays-cycle-hire,51.51121389999999
-"Washington, DC",Capital BikeShare,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-77.03701629999999,capital-bikeshare,38.8967584
-"Chattanooga, TN",Bike Chattanooga,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-85.3096801,bike-chattanooga,35.0456297
-"Minneapolis, MN",Nice Ride,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-93.26666999999999,nice-ride,44.983334
-"Toronto, ON",Bike Share Toronto,CA,"[u'PBSC', u'Alta Bicycle Share, Inc']",-79.3831843,bixi-toronto,43.653226
-Melbourne,Melbourne Bike Share,AU,"[u'PBSC', u'Alta Bicycle Share, Inc']",144.96328,melbourne-bike-share,-37.814107
-"New York, NY",Citi Bike,US,"[u'PBSC', u'Alta Bicycle Share, Inc', u'NYC Bike Share']",-74.00597309999999,citi-bike-nyc,40.7143528
-"San Francisco Bay Area, CA",Bay Area Bike Share,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-122.25,bay-area-bike-share,37.7141454
-"Chicago, IL",Divvy,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-87.6297982,divvy,41.8781136
-"Boston, MA",Hubway,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-71.0597732,hubway,42.3584308
-"Aspen, CO",WE-cycle,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-106.837002,we-cycle,39.194951
-Wien,Citybike Wien,AT,Gewista Werbegesellschaft m.b.H,16.3738189,citybike-wien,48.2081743
-"Columbus, OH",CoGo,US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-82.983333,cogo,39.983333
-Girona,Girocleta,ES,ICNITA S.L.,2.8214264,girocleta,41.9794005
-Kassel,Konrad,DE,DB Rent GmbH,9.4606148,konrad,51.3148861
-Darmstadt,Call-A-Bike Darmstadt,DE,DB Rent GmbH,8.6527299,callabike-darmstadt,49.8707135
-Berlin,Call-A-Bike Berlin,DE,DB Rent GmbH,13.4251364,callabike-berlin,52.5075419
-Frankfurt am Main,Call-A-Bike Frankfurt,DE,DB Rent GmbH,8.6365638,callabike-frankfurt,50.121212
-Hamburg,StadtRAD Hamburg,DE,DB Rent GmbH,9.9278215,stadtrad,53.558572
-#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,6.9673223,callabike-koln,50.9572449
-Frankfurt am Main Airport,Call-A-Bike Frankfurt Airport,DE,DB Rent GmbH,8.562152,callabike-frankfurt-airport,50.037933
-#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,10.4226391,callabike-luneburg,53.2390538
-Marburg,Call-A-Bike Marburg,DE,DB Rent GmbH,8.7428139,callabike-marburg,50.7983011
-#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,11.5418357,callabike-munchen,48.1549107
-#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,8.4528392,callabike-russelsheim,49.9820031
-Stuttgart,Call-A-Bike Stuttgart,DE,DB Rent GmbH,9.1772152,callabike-stuttgart,48.779209
-Wiesbaden,Call-A-Bike Wiesbaden,DE,DB Rent GmbH,8.2483534,callabike-wiesbaden,50.0724825
-Napoli,Bike Sharing Napoli,IT,CleaNap,14.2681244,bike-sharing-napoli,40.8517746
-Rio de Janeiro,BikeRio,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-43.184776,bikerio,-22.904315
-#UNENCODABLE,BikeSampa,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-46.6333,bikesampa,-23.55
-Belo Horizonte,BikeBH,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-43.922165,bikebh,-19.920793
-Santos,BikeSantos,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-46.333345,bikesantos,-23.954052
-Sorocaba,BikeSorocaba,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-47.45079,bikesorocaba,-23.501719
-Petrolina,BikePetrolina,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-40.502751,bikepetrolina,-9.389049
-Recife,BikeRecife,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-34.873437,bikerecife,-8.047129
-Salvador,BikeSalvador,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-38.508171,bikesalvador,-12.973959
-#UNENCODABLE,BikeBrasilia,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-47.887424,bikebrasilia,-15.795115
-Porto Alegre,BikePOA,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-51.23654,bikepoa,-30.033079
-Fortaleza,Bicicletar,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-38.510347,bicicletar,-3.7321944
-#UNENCODABLE,CajuBike,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-37.051898,cajubike,-10.987263
-"Boulder, CO",Boulder B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-105.2705456,boulder,40.0149856
-"Broward, FL",Broward B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-80.1433786,broward,26.1223084
-"Charlotte, NC",Charlotte B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-80.8431267,charlotte,35.2270869
-"Denver, CO",Denver B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-104.9847179,denver,39.737567
-"Des Moines, IA",Des Moines B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-93.6091064,desmoines,41.6005448
-"Fort Worth, TX",Fort Worth B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-97.3208496,fortworth,32.725409
-"Salt Lake City, UT",SLC Bike Share,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-111.8910474,greenbikeslc,40.7607793
-"Greenville, SC",Greenville B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-82.3940104,greenville,34.85261759999999
-"Houston, TX",Houston B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-95.36938959999999,houston,29.7601927
-"Kansas City, MO",Kansas City B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-94.5785667,kansascity,39.0997265
-"Madison, WI",Madison B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-89.4012302,madison,43.0730517
-"Nashville, TN",Nashville B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-86.7833333,nashville,36.1666667
-"Omaha, NE",Heartland B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-95.99798829999999,omaha,41.2523634
-"San Antonio, TX",San Antonio B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-98.49362819999999,sanantonio,29.4241219
-"Spartanburg, SC",Spartanburg B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-81.9320482,spartanburg,34.9495672
-"Austin, TX",B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-97.7430608,austin,30.267153
-"Indianapolis, IN",Indiana Pacers Bikeshare,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-86.148,indiana-pacers-bikeshare,39.791
-Santiago,Bike Santiago,CL,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-70.648,santiago,-33.457
-"Evans, GA",Columbia County B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-82.127778,columbia-county,33.5375
-"Milwaukee, WI",Bublr Bikes,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-87.95,bublr-bikes,43.05
-"Savannah, GA",CAT Bike,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-81.116667,catbike,32.016667
-"Rapid City, SD",Rapid City B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-103.228,rapid-city,44.076
-Didymoteicho,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",26.5,easybike-didymoteicho,41.35
-Ioannina,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",20.8522784,easybike-ioannina,39.6639818
-Karditsa,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",21.9211192,easybike-karditsa,39.3634604
-Kavala,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",24.4122164,easybike-kavala,40.9369068
-Drapetsona,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",23.6282598,easybike-drapetsona,37.9490926
-Komotini,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",25.4041307,easybike-komotini,41.117833
-Nafpaktos,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",21.8287638,easybike-nafpaktos,38.3925957
-Nicosia,EasyBike,CY,"['Brainbox Technology', 'Smoove SAS']",33.364726,easybike-nicosia,35.1739302
-Mani,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",26.4024952,easybike-mani,41.4097472
-Medellin,EnCicla,CO,Sistema de Bicicletas Públicas del Valle de Aburrá,-75.567982,encicla,6.254942
-Thessaloniki,ThessBike,GR,"['Brainbox Technology', 'Smoove SAS']",22.9352716,thessbike,40.6403167
-Irakleio,EasyBike,GR,"['Brainbox Technology', 'Smoove SAS']",25.144213,easybike-irakleio,35.338735
-Dublin,dublinbikes,IE,JCDecaux,-6.2603097,dublinbikes,53.3498053
-Brisbane,CityCycle,AU,JCDecaux,153.0234489,citycycle,-27.4710107
-Buenos Aires,Ecobici,AR,Buenos Aires Ciudad,-58.41156,ecobici-buenos-aires,-34.630665
-Nice,#UNENCODABLE,FR,Veolia,7.271413,velobleu,43.695949
-Dunkerque,#UNENCODABLE,FR,Veolia,2.3775,dkvelo,51.0383
-Calais,#UNENCODABLE,FR,Veolia,1.85,vel-in,50.95
-Vannes,#UNENCODABLE,FR,Veolia,-2.7603,velocea,47.6559
-#UNENCODABLE,Onroll,ES,Domoblue,-7.114634,onroll-a-rua,42.392049
-Albacete,Onroll,ES,Domoblue,-1.858485,onroll-albacete,38.98913
-#UNENCODABLE,CicloSampa,BR,['Bradesco Seguros'],-46.6333,ciclosampa,-23.55
-#UNENCODABLE,Onroll,ES,Domoblue,-3.688828,onroll-almunecar,36.735789
-Aranjuez,Onroll,ES,Domoblue,-3.605742,onroll-aranjuez,40.03097
-Antequera,Onroll,ES,Domoblue,-4.563775,onroll-antequera,37.018427
-Alhama de Murcia,Onroll,ES,Domoblue,-1.424891,onroll-alhama-de-murcia,37.849831
-Aranda de Duero,Onroll,ES,Domoblue,-3.689526,onroll-aranda-de-duero,41.667601
-Badajoz,Onroll,ES,Domoblue,-6.99451,onroll-badajoz,38.873627
-Benidorm,Onroll,ES,Domoblue,-0.126808,onroll-benidorm,38.541251
-Baeza,Onroll,ES,Domoblue,-3.468248,onroll-baeza,37.99537
-Blanca,Onroll,ES,Domoblue,-1.372402,onroll-blanca,38.178195
-Cieza,Onroll,ES,Domoblue,-1.417262,onroll-cieza,38.239139
-Ciudad Real,Onroll,ES,Domoblue,-3.927068,onroll-ciudad-real,38.982864
-Elche,Onroll,ES,Domoblue,-0.696217,onroll-elche,38.2668
-Don Benito - Villanueva,Onroll,ES,Domoblue,-5.829693,onroll-don-benito-villanueva,38.964699
-El Campello,Onroll,ES,Domoblue,-0.398388,onroll-el-campello,38.419616
-Guadalajara,Onroll,ES,Domoblue,-3.166097,onroll-guadalajara,40.633021
-#UNENCODABLE,Onroll,ES,Domoblue,-3.790758,onroll-jaen,37.777738
-#UNENCODABLE,Onroll,ES,Domoblue,-8.114976,onroll-lalin,42.658626
-Las Palmas de Gran Canaria,Onroll,ES,Domoblue,-15.425994,onroll-las-palmas,28.124302
-O Barco,Onroll,ES,Domoblue,-6.982913,onroll-o-barco,42.413993
-Montilla,Onroll,ES,Domoblue,-4.641359,onroll-montilla,37.584151
-Paiporta,Onroll,ES,Domoblue,-0.416876,onroll-paiporta,39.427609
-Mula,Onroll,ES,Domoblue,-1.497451,onroll-mula,38.040805
-Novelda,Onroll,ES,Domoblue,-0.767134,onroll-novelda,38.386447
-#UNENCODABLE,Onroll,ES,Domoblue,-4.201188,onroll-priego-de-cordoba,37.440517
-Palencia,Onroll,ES,Domoblue,-4.527022,onroll-palencia,42.005639
-Puertollano,Onroll,ES,Domoblue,-4.107794,onroll-puertollano,38.691396
-Pinto,Onroll,ES,Domoblue,-3.698611,onroll-pinto,40.245741
-Puerto Lumbreras,Onroll,ES,Domoblue,-1.811508,onroll-puerto-lumbreras,37.556652
-Redondela,Onroll,ES,Domoblue,-8.615428,onroll-redondela,42.299964
-Segovia,Onroll,ES,Domoblue,-4.112397,onroll-segovia,40.941941
-Soria,Onroll,ES,Domoblue,-2.467069,onroll-soria,41.763653
-San Javier,Onroll,ES,Domoblue,-0.808097,onroll-san-javier,37.783704
-Salamanca,Onroll,ES,Domoblue,-5.665432,onroll-salamanca,40.966771
-"Universidad de Granada, Granada",Onroll,ES,Domoblue,-3.604219,onroll-universidad-de-granada,37.182438
-#UNENCODABLE,Onroll,ES,Domoblue,-3.373276,onroll-ubeda,38.011463
-Talavera de la Reina,Onroll,ES,Domoblue,-4.830319,onroll-talavera,39.961829
-San Pedro del Pinatar,Onroll,ES,Domoblue,-0.783944,onroll-san-pedro,37.827578
-Sant Joan d'Alacant,Onroll,ES,Domoblue,-0.434522,onroll-sant-joan,38.399839
-#UNENCODABLE,Onroll,ES,Domoblue,0.466972,onroll-vinaros,40.468258
-Noia - Portosin - Porto do Son,Onroll Via Verde,ES,Domoblue,-8.908513,onroll-via-verde,42.768127
-Villaquilambre,Onroll,ES,Domoblue,-5.535311,onroll-villaquilambre,42.642358
-"El Paso, TX",El Paso B-cycle,US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-106.48507,elpaso,31.76148
+tag,name,city,country,company,longitude,latitude
+cyclopolis-arxaiaolympia,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,21.6247265179,37.6419700934
+cyclopolis-kiato,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,22.7493819902,38.0132674508
+idecycle,IDECycle,Pau,FR,"[u'Keolis', u'STAP']",-0.370797,43.2951
+bicipalma,Bicipalma,Palma,ES,,2.646634,39.57119
+vlille,V'lille,Lille,FR,Keolis,3.057256,50.62925
+cyclopolis-rhodes,Cyclopolis,Rhodes,GR,Cyclopolis Systems,28.2246966,36.4509118
+cyclopolis-moschatotavros,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,23.6824746661,37.9538991434
+cyclopolis-limnos,Cyclopolis,Limnos,GR,Cyclopolis Systems,25.0586722,39.8747861
+cyclopolis-nafplio,Cyclopolis,Maroussi,GR,Cyclopolis Systems,22.8093402872,37.5639397319
+decobike-miami-beach,Citi Bike Miami,"Miami Beach, FL",US,DecoBike LLC,-80.1300455,25.790654
+cyclopolis-aigialeia,Cyclopolis,Maroussi,GR,Cyclopolis Systems,22.0821570196,38.2511101325
+cyclopolis-marathon,Cyclopolis,Marathon,GR,Cyclopolis Systems,23.9776389963,38.0855680022
+bicileon,Bicileon,#UNENCODABLE,ES,ITCL,-5.5670959,42.5987263
+cyclopolis-maroussi,Cyclopolis,Maroussi,GR,Cyclopolis Systems,23.8083299536,38.0568722388
+cyclopolis-neasmyrni,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,23.7126,37.9381
+cyclopolis-florina,Cyclopolis,Florina,GR,Cyclopolis Systems,21.4245222,40.8016111
+decobike-san-diego,Decobike San Diego,"San Diego, CA",US,DecoBike LLC,-117.1610838,32.715738
+bicincitta-siena,#UNDECODABLE,Siena,IT,Comunicare S.r.l.,11.3306,43.3186
+bicincitta-parco-dei-colli-di-bergamo,#UNDECODABLE,Parco dei Colli di Bergamo,IT,Comunicare S.r.l.,9.649230073016383,45.72295637032245
+bicincitta-mantova,#UNDECODABLE,Mantova,IT,Comunicare S.r.l.,10.783718973016335,45.15866370764634
+bicincitta-assemini,#UNDECODABLE,Assemini,IT,Comunicare S.r.l.,9.006601555294765,39.28956306007679
+bicincitta-tortoli,#UNDECODABLE,#UNENCODABLE,IT,Comunicare S.r.l.,9.654953570777934,39.92664489852196
+bicincitta-gaeta,#UNDECODABLE,Gaeta,IT,Comunicare S.r.l.,13.584335125656139,41.209620965538036
+bicincitta-borgarello,#UNDECODABLE,Borgarello,IT,Comunicare S.r.l.,9.136150475640875,45.23963753440171
+bicincitta-pizzighettone-formigara,#UNDECODABLE,Pizzighettone e Formigara,IT,Comunicare S.r.l.,9.778087948479424,45.186748819167434
+bicincitta-montecatini-terme,#UNDECODABLE,Montecatini Terme,IT,Comunicare S.r.l.,10.764385656591799,43.88362791665083
+bicincitta-carrara,#UNDECODABLE,Carrara,IT,Comunicare S.r.l.,10.097172450401331,44.07731805550891
+bicincitta-cernobbio,#UNDECODABLE,Cernobbio,IT,Comunicare S.r.l.,9.073591857810925,45.83745947067494
+tigullionbike,Tigullionbike,Sestri Levante - Lavagna,IT,Comunicare S.r.l.,9.395714,44.272554
+ascoli-piceno,Ascoli Piceno,Ascoli Piceno,IT,Comunicare S.r.l.,13.583333,42.85
+portofino-park-and-bike,Portofino Park and Bike,Santa Margherita Ligure - Portofino - Camogli,IT,Comunicare S.r.l.,9.211264,44.335084
+arbike,ARbike,Arezzo,IT,Comunicare S.r.l.,11.87,43.473333
+bigi,BiGi,Bergamo,IT,Comunicare S.r.l.,9.67,45.695
+bici-in-busto,Bici in Busto,Busto Arsizio,IT,Comunicare S.r.l.,8.852062,45.610555
+biella,Biella,Biella,IT,Comunicare S.r.l.,8.051111,45.5775
+meglio-in-bici,Meglio in Bici,Cernusco sul Naviglio - Pioltello - Carugate,IT,Comunicare S.r.l.,9.341984,45.520541
+cuneo,Cuneo,Cuneo,IT,Comunicare S.r.l.,7.541428,44.384238
+lecco,Lecco,Lecco,IT,Comunicare S.r.l.,9.392366,45.853554
+free-bike-sharing,FRee Bike sharing,Frosinone,IT,Comunicare S.r.l.,13.342123,41.645081
+bike-in-bath,Bike in Bath,Bath,GB,Comunicare S.r.l.,-2.362404,51.381531
+manerba-in-bici,Manerba in Bici,Manerba del Garda,IT,Comunicare S.r.l.,10.559406,45.561179
+novara,Novara,Novara,IT,Comunicare S.r.l.,8.622165,45.44574
+goodbike,GoodBike,Padova,IT,Comunicare S.r.l.,11.8767611,45.4064349
+mar-e-bici,Mar e Bici,Marciana Marina,IT,Comunicare S.r.l.,10.196514,42.805855
+parkinbici,Parkinbici,#UNENCODABLE,IT,Comunicare S.r.l.,16.037292,41.833502
+parma,Parma,Parma,IT,Comunicare S.r.l.,10.3279036,44.801485
+pavia-in-bici,Pavia in bici,Pavia,IT,Comunicare S.r.l.,9.1582069,45.1847248
+bici-perugia,Bici Perugia,Perugia,IT,Comunicare S.r.l.,12.3908279,43.1107168
+piacenza,Piacenza,Piacenza,IT,Comunicare S.r.l.,9.6865813,45.0473754
+reggio-emilia,Reggio Emilia,Reggio Emilia,IT,Comunicare S.r.l.,10.6296859,44.6989932
+pinerolo,Pinerolo,Pinerolo,IT,Comunicare S.r.l.,7.3499953,44.8850256
+rimini,Rimini,Rimini,IT,Comunicare S.r.l.,12.5646003,44.0570817
+bicischio,BiciSchio,Schio,IT,Comunicare S.r.l.,11.3597702,45.7170517
+saluzzo,Saluzzo,Saluzzo,IT,Comunicare S.r.l.,7.492735499999999,44.6445404
+savigliano,Savigliano,Savigliano,IT,Comunicare S.r.l.,7.662463499999999,44.6470327
+terni,Terni,Terni,IT,Comunicare S.r.l.,12.6426604,42.5636168
+tirano-in-bici,Tirano in Bici,Tirano,IT,Comunicare S.r.l.,10.1696056,46.216168
+udine,Udine,Udine,IT,Comunicare S.r.l.,13.2345794,46.0710668
+ustica,Ustica,Ustica,IT,Comunicare S.r.l.,13.1682675,38.7031179
+bici-co,BICI&CO,Como,IT,Comunicare S.r.l.,9.0851765,45.8080597
+venezia,Venezia,Venezia,IT,Comunicare S.r.l.,12.3155151,45.4408474
+speziainbici,Speziainbici,La Spezia,IT,Comunicare S.r.l.,9.824082599999999,44.1024504
+to-bike,[TO]BIKE,Torino,IT,Comunicare S.r.l.,7.685676,45.07098200000001
+ciclopi,Ciclopi,Pisa,IT,Comunicare S.r.l.,10.4016888,43.7228386
+cagliari,Cagliari,Cagliari,IT,Comunicare S.r.l.,9.121399,39.220817
+gimme-bike,Gimme Bike,Varese,IT,Comunicare S.r.l.,8.823913,45.8183902
+sellero,Sellero,Sellero,IT,Comunicare S.r.l.,10.353434085845947,46.06304765446406
+ugento,Ugento,Ugento,IT,Comunicare S.r.l.,18.1582962,39.9273518
+civitavecchia,Civitavecchia,Civitavecchia,IT,Comunicare S.r.l.,11.7922462,42.0937524
+prata-camportaccio,Prata Camportaccio,Prata Camportaccio,IT,Comunicare S.r.l.,9.3964914,46.3042146
+longanoinbici,LonganoinBici,Barcellona Pozzo di Gotto,IT,Comunicare S.r.l.,15.212116241455078,38.149812517944284
+cassano-d-adda,Cassano d'Adda,Cassano d'Adda,IT,Comunicare S.r.l.,9.5155813,45.5309616
+rietinbici,Rietinbici,Rieti,IT,Comunicare S.r.l.,12.86099910736084,42.40262397383167
+bianzone-in-bici,Bianzone in Bici,Bianzone,IT,Comunicare S.r.l.,10.109354,46.188197
+lecce,lecce,Lecce,IT,Comunicare S.r.l.,18.177824020385742,40.35040350928062
+castellucchio,Castellucchio,Castellucchio,IT,Comunicare S.r.l.,10.651202201843262,45.15047821582959
+notoinbici,NotoinBici,Noto,IT,Comunicare S.r.l.,15.074658393859863,36.889437754839854
+enna,Enna,Enna,IT,Comunicare S.r.l.,14.27973747253418,37.56342572664775
+carbonia,Carbonia,Carbonia,IT,Comunicare S.r.l.,8.522222,39.167222
+mobike,MoBike,Genova,IT,Comunicare S.r.l.,8.92908986230462,44.40430089372731
+pordenone,Pordenone,Pordenone,IT,Comunicare S.r.l.,12.674491020251475,45.94790101663391
+e-motion-trento,e.motion,Trento,IT,Comunicare S.r.l.,11.122145390351879,46.06643205823519
+scegli-in-bici,Scegli in Bici,Cremona,IT,Comunicare S.r.l.,10.0222648619018,45.134914104864116
+e-motion-pergine-valsugana,e.motion,Pergine Valsugana,IT,Comunicare S.r.l.,11.239041694195503,46.06050419001399
+e-motion-rovereto,e.motion,Rovereto,IT,Comunicare S.r.l.,11.042242751867644,45.88710661061543
+we-love-bike,We LOve bike,Provincia di Lodi,IT,Comunicare S.r.l.,9.651688106933548,45.1249548189115
+monopoli-bike,Monopoli BIKE,Monopoli,IT,Comunicare S.r.l.,17.311687995336918,40.94519109440738
+bicinquartucciu,BicinQuartucciu,Quartucciu,IT,Comunicare S.r.l.,9.179296426489255,39.25043149806156
+andria,Andria in Bici,Andria,IT,Comunicare S.r.l.,16.296983922753956,41.224346932834
+olbia-bike,Olbia Bike,Olbia,IT,Comunicare S.r.l.,9.4994397,40.9240543
+bassanodelgrappa,Bassano del Grappa,Bassano del Grappa,IT,Comunicare S.r.l.,11.736667,45.768611
+savona,Savona,Savona,IT,Comunicare S.r.l.,8.463126708984431,44.29516444397244
+tradate,Tradate,Tradate,IT,Comunicare S.r.l.,8.915993391601548,45.70938576720161
+brindisi,BrindisiByBike,Brindisi,IT,Comunicare S.r.l.,17.940774547082572,40.637580319936106
+alba,Alba,Alba,IT,Comunicare S.r.l.,8.083333,44.716667
+bariinbici,Bari in Bici,Bari,IT,Comunicare S.r.l.,16.866667,41.125278
+bra,Bra,Bra,IT,Comunicare S.r.l.,7.854795,44.694224
+casalmaggiore,Casalmaggiore,Casalmaggiore,IT,Comunicare S.r.l.,10.419245,44.983499
+biciamo,BICIamo,#UNENCODABLE,IT,Comunicare S.r.l.,9.12569,45.73626
+chivasso,Chivasso,Chivasso,IT,Comunicare S.r.l.,7.888935,45.189765
+jesinbici,JesinBici,Jesi,IT,Comunicare S.r.l.,13.244448,43.522601
+ossola,#UNENCODABLE,Santa Maria Maggiore - Malesco - Villette,IT,Comunicare S.r.l.,8.499169,46.127196
+noviligure,Novi Ligure,Novi Ligure,IT,Comunicare S.r.l.,8.7858956,44.7620048
+nbici,nbici,Pamplona,ES,Comunicare S.r.l.,-1.6482653,42.8116631
+oderzo,Oderzo,Oderzo,IT,Comunicare S.r.l.,12.4973111,45.77976460000001
+pistoiainbici,PistoiainBici,Pistoia,IT,Comunicare S.r.l.,10.9078587,43.9303475
+treviso,Treviso,Treviso,IT,Comunicare S.r.l.,12.243039,45.6669011
+pontedera,Pontedera,Pontedera,IT,Comunicare S.r.l.,10.6363586,43.6625156
+prato,Prato,Prato,IT,Comunicare S.r.l.,11.102228,43.8777049
+sandonadipiave,#UNENCODABLE,#UNENCODABLE,IT,Comunicare S.r.l.,12.5654299,45.633185
+settimotorinese,Settimo Torinese,Settimo Torinese,IT,Comunicare S.r.l.,7.770978400000001,45.139586
+gobike,GoBike,Siracusa,IT,Comunicare S.r.l.,15.2865861,37.0754739
+sondrio,Sondrio,Sondrio,IT,Comunicare S.r.l.,9.8787674,46.1698583
+vercelli,Vercelli,Vercelli,IT,Comunicare S.r.l.,8.418573499999999,45.32022720000001
+villorba,Villorba,Villorba,IT,Comunicare S.r.l.,12.2343848,45.7411227
+roma-n-bike,Roma'n'Bike,Roma,IT,Comunicare S.r.l.,12.4825199,41.8929163
+bikeu-bra,Bydgoski rower aglomeracyjny,Bydgoszcz,PL,Bike U Sp. z o.o.,18.00038,53.12193
+bikes-srm,#UNENCODABLE,Szczecin,PL,Bike U Sp. z o.o.,14.542222,53.438056
+bbbike,BBBike,#UNENCODABLE,PL,Bike U Sp. z o.o.,19.044444,49.8225
+bikemi,BikeMi,Milano,IT,ClearChannel,9.186516,45.4654542
+bizi,Bizi,Zaragoza,ES,ClearChannel,-0.8895811,41.6487908
+velo-antwerpen,Velo Antwerpen,Antwerpen,BE,ClearChannel,4.4,51.216667
+bicing,Bicing,Barcelona,ES,ClearChannel,2.1734035,41.3850639
+ecobici,EcoBici,#UNENCODABLE,MX,ClearChannel,-99.133208,19.4326077
+nextbike-leipzig,Nextbike,Leipzig,DE,Nextbike GmbH,12.3625,51.3415
+nextbike-tubingen,Nextbike,#UNENCODABLE,DE,Nextbike GmbH,9.05591,48.5203
+nextbike-luzern,Nextbike,Luzern,CH,Nextbike GmbH,8.30446,47.0472
+sixt-latvia-riga,SiXT,#UNENCODABLE,LV,Nextbike GmbH,24.1033,56.9453
+metropolradruhr-germany-dortmund,metropolradruhr,Dortmund,DE,Nextbike GmbH,7.46255,51.5141
+metropolradruhr-germany-bochum,metropolradruhr,Bochum,DE,Nextbike GmbH,7.2133,51.4813
+metropolradruhr-germany-essen,metropolradruhr,Essen,DE,Nextbike GmbH,7.02301,51.4425
+metropolradruhr-germany-hamm,metropolradruhr,Hamm,DE,Nextbike GmbH,7.84836,51.6775
+metropolradruhr-germany-bottrop,metropolradruhr,Bottrop,DE,Nextbike GmbH,6.94611,51.5263
+metropolradruhr-germany-herne,metropolradruhr,Herne,DE,Nextbike GmbH,7.21493,51.5363
+metropolradruhr-germany-gelsenkirchen,metropolradruhr,Gelsenkirchen,DE,Nextbike GmbH,7.07039,51.5404
+metropolradruhr-germany-duisburg,metropolradruhr,Duisburg,DE,Nextbike GmbH,6.77513,51.4487
+metropolradruhr-germany-mulheim-a-d-r,metropolradruhr,#UNENCODABLE,DE,Nextbike GmbH,6.87401,51.4308
+metropolradruhr-germany-oberhausen,metropolradruhr,Oberhausen,DE,Nextbike GmbH,6.85169,51.4936
+nextbike-munchen,Nextbike,#UNENCODABLE,DE,Nextbike GmbH,11.5791,48.1392
+sixt-latvia-jurmala,SiXT,#UNENCODABLE,LV,Nextbike GmbH,23.8225,56.9732
+nextbike-wachau,LEIHRADL,Wachau,AT,Nextbike GmbH,15.4166,48.3188
+nextbike-tulln,LEIHRADL,Tulln,AT,Nextbike GmbH,16.0569,48.3269
+nextbike-triestingtal,LEIHRADL,Triestingtal,AT,Nextbike GmbH,16.0812,47.9835
+nextbike-thermenregion,LEIHRADL,Thermenregion,AT,Nextbike GmbH,16.2646,47.9892
+nextbike-flensburg,Nextbike,Flensburg,DE,Nextbike GmbH,9.43571,54.7804
+nextbike-romerland,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,16.853,48.0909
+nextbike-obb-bahnhofe,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,16.3092,48.0193
+nextbike-offenburg,Nextbike,Offenburg,DE,Nextbike GmbH,7.94243,48.4721
+nextbike-wr-neustadt,LEIHRADL,Wr.Neustadt,AT,Nextbike GmbH,16.2498,47.8221
+nextbike-potsdam,Nextbike,Potsdam,DE,Nextbike GmbH,13.0676,52.3997
+nextbike-bielefeld,Nextbike,Bielefeld,DE,Nextbike GmbH,8.53286,52.0257
+nextbike-gutersloh,Nextbike,#UNENCODABLE,DE,Nextbike GmbH,8.39275,51.9049
+pronto-cycle-share,Pronto Cycle Share,"Seattle, WA",US,"['Pronto!', 'Alta Bicycle Share, Inc']",-122.332071,47.606209
+nextbike-krems-ost,LEIHRADL,Krems Ost,AT,Nextbike GmbH,15.6909,48.4183
+nextbike-unteres-traisental,LEIHRADL,Unteres Traisental,AT,Nextbike GmbH,15.6878,48.3343
+nextbike-piestingtal,LEIHRADL,Piestingtal,AT,Nextbike GmbH,15.9467,47.8841
+nextbike-marchfeld,LEIHRADL,Marchfeld,AT,Nextbike GmbH,16.7116,48.2741
+nextbike-10vorwien,LEIHRADL,10vorWien,AT,Nextbike GmbH,16.2735,48.3462
+usedomrad-germany-usedom,UsedomRad,Usedom,DE,Nextbike GmbH,13.9925,53.9779
+nextbike-augsburg,Nextbike,Augsburg,DE,Nextbike GmbH,10.8916,48.3647
+nextbike-traisen-golsental,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,15.6129,47.9504
+nextbike-konya,Nextbike,Konya,TR,Nextbike GmbH,32.4957,37.8715
+nextbike-norderstedt,Nextbike,Norderstedt,DE,Nextbike GmbH,10.002,53.6969
+nextbike-laa-an-der-thaya,LEIHRADL,Laa an der Thaya,AT,Nextbike GmbH,16.3878,48.7196
+nextbike-sudheide,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,16.3937,48.1077
+nextbike-limassol,Nextbike,Limassol,CY,Nextbike GmbH,33.0464,34.6823
+nextbike-oberes-ybbstal,LEIHRADL,Oberes Ybbstal,AT,Nextbike GmbH,15.0073,47.8205
+nextbike-heidelberg,VRNnextbike,Heidelberg,DE,Nextbike GmbH,8.68933,49.4113
+nextbike-christchurch,Nextbike,Christchurch,NZ,Nextbike GmbH,172.621,-43.5341
+stadtrad-innsbruck-innsbruck,Stadtrad,Innsbruck,AT,Nextbike GmbH,11.3961,47.2632
+nextbike-mannheim,VRNnextbike,Mannheim,DE,Nextbike GmbH,8.49054,49.4621
+nextbike-tullnerfeld-west,LEIHRADL,Tullnerfeld West,AT,Nextbike GmbH,15.9065,48.2994
+nextbike-berlin,Nextbike,Berlin,DE,Nextbike GmbH,13.3563,52.5087
+sz-bike-germany-dresden,SZ-bike,Dresden,DE,Nextbike GmbH,13.7387,51.0535
+facherrad-germany-karlsruhe,#UNENCODABLE,Karlsruhe,DE,Nextbike GmbH,8.41827,49.0102
+nextbike-hollabrunn,LEIHRADL,Hollabrunn,AT,Nextbike GmbH,16.0785,48.562
+nextbike-wienerwald,LEIHRADL,WienerWald,AT,Nextbike GmbH,16.1197,48.1917
+nextbike-dobrich,Nextbike,Dobrich,BG,Nextbike GmbH,27.8285,43.567
+bykystations-uae-dubai,BYKYstations,Dubai,AE,Nextbike GmbH,55.2722,25.2435
+nextbike-zagreb,Nextbike,Zagreb,HR,Nextbike GmbH,15.9643,45.7988
+ebikestation-stuttgart-germany-bietigheim-bissingen,ebikestation,Bietigheim-Bissingen,DE,Nextbike GmbH,9.12518,48.9495
+nextbike-neusiedlersee,LEIHRADL,NeusiedlerSee,AT,Nextbike GmbH,16.761,47.839
+bykystations-uae-al-sharjah,BYKYstations,Al Sharjah,AE,Nextbike GmbH,55.2255,25.2199
+nextbike-bath,Nextbike,Bath,GB,Nextbike GmbH,-2.36275,51.382
+belfastbikes-belfast,BelfastBikes,Belfast,GB,Nextbike GmbH,-5.92918,54.5969
+nextbike-friedrichshafen,Nextbike,Friedrichshafen,DE,Nextbike GmbH,9.47837,47.6519
+nextbike-glasgow,Nextbike,Glasgow,GB,Nextbike GmbH,-4.25549,55.8589
+nextbike-stirling,Nextbike,Stirling,GB,Nextbike GmbH,-3.9369,56.1165
+bike-point-sibenik-sibenik,Bike Point,#UNENCODABLE,HR,Nextbike GmbH,15.8982,43.733
+karbis-turkey-seferihisar,KARBIS,Seferihisar,TR,Nextbike GmbH,26.8386,38.1962
+lrm-lublin-poland-lublin,LRM,Lublin,PL,Nextbike GmbH,22.5658,51.2597
+grm-grodzisk-poland-grodzisk-mazowiecki,GRM,Grodzisk Mazowiecki,PL,Nextbike GmbH,20.6265,52.113
+healthy-ride-pittsburgh-pittsburgh,Healthy Ride,Pittsburgh,US,Nextbike GmbH,-79.9945,40.4459
+nextbike-cambridge,Nextbike,Cambridge,NZ,Nextbike GmbH,175.472,-37.8914
+ebikestation-stuttgart-germany-schwieberdingen,ebikestation,Schwieberdingen,DE,Nextbike GmbH,9.07419,48.8723
+nextbike-quickborn,Nextbike,Quickborn,DE,Nextbike GmbH,9.90272,53.7333
+hudsonbikeshare-hoboken,Hudsonbikeshare,Hoboken,US,Nextbike GmbH,-74.0341,40.7447
+ibike-saudi-arabia-king-abdullah-economic-city,iBike,King Abdullah Economic City,SA,Nextbike GmbH,39.1031,22.3113
+nextbike-speyer,VRNnextbike,Speyer,DE,Nextbike GmbH,8.45295,49.3126
+nextbike-wurzburg,Nextbike,#UNENCODABLE,DE,Nextbike GmbH,9.93333,49.8
+nextbike-ludwigshafen,VRNnextbike,Ludwigshafen,DE,Nextbike GmbH,8.43287,49.4741
+ebikestation-stuttgart-germany-waiblingen,ebikestation,Waiblingen,DE,Nextbike GmbH,9.31667,48.8333
+ebikestation-stuttgart-germany-vaihingen-an-der-enz,ebikestation,Vaihingen an der Enz,DE,Nextbike GmbH,8.96121,48.9334
+skybike-west-palm-beach-west-palm-beach-florida,Skybike,West Palm Beach Florida,US,Nextbike GmbH,-80.0821,26.7125
+nextbike-serfaus,Nextbike,Serfaus,AT,Nextbike GmbH,10.6048,47.0387
+ebikestation-stuttgart-germany-herrenberg,ebikestation,Herrenberg,DE,Nextbike GmbH,8.86716,48.595
+nextbike-gospic,Nextbike,#UNENCODABLE,HR,Nextbike GmbH,15.375,44.5469
+flashfleet-kent-state-university,Flashfleet,Kent State University,US,Nextbike GmbH,-81.3415,41.1491
+rower-gminny-poland-juchnowiec-koscielny,ROWER GMINNY,#UNENCODABLE,PL,Nextbike GmbH,23.1204,53.0928
+nextbike-offenbach-am-main,Nextbike,Offenbach am Main,DE,Nextbike GmbH,8.73825,50.1093
+nextbike-karlovac,Nextbike,Karlovac,HR,Nextbike GmbH,15.5503,45.4905
+nextbike-dusseldorf,Nextbike,#UNENCODABLE,DE,Nextbike GmbH,6.77204,51.2243
+nextbike-magdeburg,Nextbike,Magdeburg,DE,Nextbike GmbH,11.6342,52.1268
+nextbike-hamburg,Nextbike,Hamburg,DE,Nextbike GmbH,9.99052,53.5506
+nextbike-auckland,Nextbike,Auckland,NZ,Nextbike GmbH,174.763,-36.8603
+nextbike-st-polten,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,15.6232,48.2058
+nextbike-modling,LEIHRADL,#UNENCODABLE,AT,Nextbike GmbH,16.3202,48.1047
+nextbike-frankfurt,Nextbike,Frankfurt,DE,Nextbike GmbH,8.66375,50.1072
+nextbike-hannover,Nextbike,Hannover,DE,Nextbike GmbH,9.73569,52.3721
+bubi,MOL Bubi,Budapest,HU,Nextbike GmbH,19.040235,47.497912
+norisbike-germany-nurnberg,NorisBike,#UNENCODABLE,DE,Nextbike GmbH,11.0814,49.4479
+kvb-rad,KVB Rad,#UNENCODABLE,DE,Nextbike GmbH,6.96053,50.9364
+nextbike-sursee,Nextbike,Sursee,CH,Nextbike GmbH,8.10877,47.1713
+bemowo-bike,Bemowo Bike,Warszawa,PL,Nextbike GmbH,20.929,52.2606
+wroclawski-rower-miejski,Rower Miejski,#UNENCODABLE,PL,Nextbike GmbH,17.0485,51.1097
+opole-bike,Opole Bike,Opole,PL,Nextbike GmbH,17.9276,50.6645
+rower-trojmiejski,#UNENCODABLE,#UNENCODABLE,PL,Nextbike GmbH,18.6026,54.4349
+poznanski-rower-miejski,Rower Miejski,#UNENCODABLE,PL,Nextbike GmbH,16.9258,52.4116
+veturilo,VETURILO,Warszawa,PL,Nextbike GmbH,21.0024,52.2345
+kmk-bike,KMK Bike,#UNENCODABLE,PL,Nextbike GmbH,19.9374,50.0395
+biker-bialystok,BiKeR,#UNENCODABLE,PL,Nextbike GmbH,23.1564,53.1299
+konstancinski-rower-miejski,Rower Miejski,Konstancin,PL,Nextbike GmbH,21.1075,52.0879
+city-by-bike,City By Bike,Katowice,PL,Nextbike GmbH,19.0266,50.2534
+bixi-montreal,Bixi,"Montreal, QC",CA,PBSC,-73.55399249999999,45.5086699
+barclays-cycle-hire,Santander Cycles,London,GB,"[u'PBSC', u'Serco Group plc']",-0.1198244,51.51121389999999
+capital-bikeshare,Capital BikeShare,"Washington, DC",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-77.03701629999999,38.8967584
+bike-chattanooga,Bike Chattanooga,"Chattanooga, TN",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-85.3096801,35.0456297
+nice-ride,Nice Ride,"Minneapolis, MN",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-93.26666999999999,44.983334
+bixi-toronto,Bike Share Toronto,"Toronto, ON",CA,"[u'PBSC', u'Alta Bicycle Share, Inc']",-79.3831843,43.653226
+melbourne-bike-share,Melbourne Bike Share,Melbourne,AU,"[u'PBSC', u'Alta Bicycle Share, Inc']",144.96328,-37.814107
+citi-bike-nyc,Citi Bike,"New York, NY",US,"[u'PBSC', u'Alta Bicycle Share, Inc', u'NYC Bike Share']",-74.00597309999999,40.7143528
+bay-area-bike-share,Bay Area Bike Share,"San Francisco Bay Area, CA",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-122.25,37.7141454
+divvy,Divvy,"Chicago, IL",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-87.6297982,41.8781136
+hubway,Hubway,"Boston, MA",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-71.0597732,42.3584308
+we-cycle,WE-cycle,"Aspen, CO",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-106.837002,39.194951
+citybike-wien,Citybike Wien,Wien,AT,Gewista Werbegesellschaft m.b.H,16.3738189,48.2081743
+cogo,CoGo,"Columbus, OH",US,"[u'PBSC', u'Alta Bicycle Share, Inc']",-82.983333,39.983333
+girocleta,Girocleta,Girona,ES,ICNITA S.L.,2.8214264,41.9794005
+konrad,Konrad,Kassel,DE,DB Rent GmbH,9.4606148,51.3148861
+callabike-darmstadt,Call-A-Bike Darmstadt,Darmstadt,DE,DB Rent GmbH,8.6527299,49.8707135
+callabike-berlin,Call-A-Bike Berlin,Berlin,DE,DB Rent GmbH,13.4251364,52.5075419
+callabike-frankfurt,Call-A-Bike Frankfurt,Frankfurt am Main,DE,DB Rent GmbH,8.6365638,50.121212
+stadtrad,StadtRAD Hamburg,Hamburg,DE,DB Rent GmbH,9.9278215,53.558572
+callabike-koln,#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,6.9673223,50.9572449
+callabike-frankfurt-airport,Call-A-Bike Frankfurt Airport,Frankfurt am Main Airport,DE,DB Rent GmbH,8.562152,50.037933
+callabike-luneburg,#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,10.4226391,53.2390538
+callabike-marburg,Call-A-Bike Marburg,Marburg,DE,DB Rent GmbH,8.7428139,50.7983011
+callabike-munchen,#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,11.5418357,48.1549107
+callabike-russelsheim,#UNENCODABLE,#UNENCODABLE,DE,DB Rent GmbH,8.4528392,49.9820031
+callabike-stuttgart,Call-A-Bike Stuttgart,Stuttgart,DE,DB Rent GmbH,9.1772152,48.779209
+callabike-wiesbaden,Call-A-Bike Wiesbaden,Wiesbaden,DE,DB Rent GmbH,8.2483534,50.0724825
+bike-sharing-napoli,Bike Sharing Napoli,Napoli,IT,CleaNap,14.2681244,40.8517746
+bikerio,BikeRio,Rio de Janeiro,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-43.184776,-22.904315
+bikesampa,BikeSampa,#UNENCODABLE,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-46.6333,-23.55
+bikebh,BikeBH,Belo Horizonte,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-43.922165,-19.920793
+bikesantos,BikeSantos,Santos,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-46.333345,-23.954052
+bikesorocaba,BikeSorocaba,Sorocaba,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-47.45079,-23.501719
+bikepetrolina,BikePetrolina,Petrolina,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-40.502751,-9.389049
+bikerecife,BikeRecife,Recife,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-34.873437,-8.047129
+bikesalvador,BikeSalvador,Salvador,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-38.508171,-12.973959
+bikebrasilia,BikeBrasilia,#UNENCODABLE,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-47.887424,-15.795115
+bikepoa,BikePOA,Porto Alegre,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-51.23654,-30.033079
+bicicletar,Bicicletar,Fortaleza,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-38.510347,-3.7321944
+cajubike,CajuBike,#UNENCODABLE,BR,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",-37.051898,-10.987263
+boulder,Boulder B-cycle,"Boulder, CO",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-105.2705456,40.0149856
+broward,Broward B-cycle,"Broward, FL",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-80.1433786,26.1223084
+charlotte,Charlotte B-cycle,"Charlotte, NC",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-80.8431267,35.2270869
+denver,Denver B-cycle,"Denver, CO",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-104.9847179,39.737567
+desmoines,Des Moines B-cycle,"Des Moines, IA",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-93.6091064,41.6005448
+fortworth,Fort Worth B-cycle,"Fort Worth, TX",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-97.3208496,32.725409
+greenbikeslc,SLC Bike Share,"Salt Lake City, UT",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-111.8910474,40.7607793
+greenville,Greenville B-cycle,"Greenville, SC",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-82.3940104,34.85261759999999
+houston,Houston B-cycle,"Houston, TX",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-95.36938959999999,29.7601927
+kansascity,Kansas City B-cycle,"Kansas City, MO",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-94.5785667,39.0997265
+madison,Madison B-cycle,"Madison, WI",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-89.4012302,43.0730517
+nashville,Nashville B-cycle,"Nashville, TN",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-86.7833333,36.1666667
+omaha,Heartland B-cycle,"Omaha, NE",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-95.99798829999999,41.2523634
+sanantonio,San Antonio B-cycle,"San Antonio, TX",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-98.49362819999999,29.4241219
+spartanburg,Spartanburg B-cycle,"Spartanburg, SC",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-81.9320482,34.9495672
+austin,B-cycle,"Austin, TX",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-97.7430608,30.267153
+indiana-pacers-bikeshare,Indiana Pacers Bikeshare,"Indianapolis, IN",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-86.148,39.791
+santiago,Bike Santiago,Santiago,CL,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-70.648,-33.457
+columbia-county,Columbia County B-cycle,"Evans, GA",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-82.127778,33.5375
+bublr-bikes,Bublr Bikes,"Milwaukee, WI",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-87.95,43.05
+catbike,CAT Bike,"Savannah, GA",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-81.116667,32.016667
+rapid-city,Rapid City B-cycle,"Rapid City, SD",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-103.228,44.076
+easybike-didymoteicho,EasyBike,Didymoteicho,GR,"['Brainbox Technology', 'Smoove SAS']",26.5,41.35
+easybike-ioannina,EasyBike,Ioannina,GR,"['Brainbox Technology', 'Smoove SAS']",20.8522784,39.6639818
+easybike-karditsa,EasyBike,Karditsa,GR,"['Brainbox Technology', 'Smoove SAS']",21.9211192,39.3634604
+easybike-kavala,EasyBike,Kavala,GR,"['Brainbox Technology', 'Smoove SAS']",24.4122164,40.9369068
+easybike-drapetsona,EasyBike,Drapetsona,GR,"['Brainbox Technology', 'Smoove SAS']",23.6282598,37.9490926
+easybike-komotini,EasyBike,Komotini,GR,"['Brainbox Technology', 'Smoove SAS']",25.4041307,41.117833
+easybike-nafpaktos,EasyBike,Nafpaktos,GR,"['Brainbox Technology', 'Smoove SAS']",21.8287638,38.3925957
+easybike-nicosia,EasyBike,Nicosia,CY,"['Brainbox Technology', 'Smoove SAS']",33.364726,35.1739302
+easybike-mani,EasyBike,Mani,GR,"['Brainbox Technology', 'Smoove SAS']",26.4024952,41.4097472
+encicla,EnCicla,Medellin,CO,Sistema de Bicicletas Públicas del Valle de Aburrá,-75.567982,6.254942
+thessbike,ThessBike,Thessaloniki,GR,"['Brainbox Technology', 'Smoove SAS']",22.9352716,40.6403167
+easybike-irakleio,EasyBike,Irakleio,GR,"['Brainbox Technology', 'Smoove SAS']",25.144213,35.338735
+dublinbikes,dublinbikes,Dublin,IE,JCDecaux,-6.2603097,53.3498053
+citycycle,CityCycle,Brisbane,AU,JCDecaux,153.0234489,-27.4710107
+ecobici-buenos-aires,Ecobici,Buenos Aires,AR,Buenos Aires Ciudad,-58.41156,-34.630665
+velobleu,#UNENCODABLE,Nice,FR,Veolia,7.271413,43.695949
+dkvelo,#UNENCODABLE,Dunkerque,FR,Veolia,2.3775,51.0383
+vel-in,#UNENCODABLE,Calais,FR,Veolia,1.85,50.95
+velocea,#UNENCODABLE,Vannes,FR,Veolia,-2.7603,47.6559
+onroll-a-rua,Onroll,#UNENCODABLE,ES,Domoblue,-7.114634,42.392049
+onroll-albacete,Onroll,Albacete,ES,Domoblue,-1.858485,38.98913
+ciclosampa,CicloSampa,#UNENCODABLE,BR,['Bradesco Seguros'],-46.6333,-23.55
+onroll-almunecar,Onroll,#UNENCODABLE,ES,Domoblue,-3.688828,36.735789
+onroll-aranjuez,Onroll,Aranjuez,ES,Domoblue,-3.605742,40.03097
+onroll-antequera,Onroll,Antequera,ES,Domoblue,-4.563775,37.018427
+onroll-alhama-de-murcia,Onroll,Alhama de Murcia,ES,Domoblue,-1.424891,37.849831
+onroll-aranda-de-duero,Onroll,Aranda de Duero,ES,Domoblue,-3.689526,41.667601
+onroll-badajoz,Onroll,Badajoz,ES,Domoblue,-6.99451,38.873627
+onroll-benidorm,Onroll,Benidorm,ES,Domoblue,-0.126808,38.541251
+onroll-baeza,Onroll,Baeza,ES,Domoblue,-3.468248,37.99537
+onroll-blanca,Onroll,Blanca,ES,Domoblue,-1.372402,38.178195
+onroll-cieza,Onroll,Cieza,ES,Domoblue,-1.417262,38.239139
+onroll-ciudad-real,Onroll,Ciudad Real,ES,Domoblue,-3.927068,38.982864
+onroll-elche,Onroll,Elche,ES,Domoblue,-0.696217,38.2668
+onroll-don-benito-villanueva,Onroll,Don Benito - Villanueva,ES,Domoblue,-5.829693,38.964699
+onroll-el-campello,Onroll,El Campello,ES,Domoblue,-0.398388,38.419616
+onroll-guadalajara,Onroll,Guadalajara,ES,Domoblue,-3.166097,40.633021
+onroll-jaen,Onroll,#UNENCODABLE,ES,Domoblue,-3.790758,37.777738
+onroll-lalin,Onroll,#UNENCODABLE,ES,Domoblue,-8.114976,42.658626
+onroll-las-palmas,Onroll,Las Palmas de Gran Canaria,ES,Domoblue,-15.425994,28.124302
+onroll-o-barco,Onroll,O Barco,ES,Domoblue,-6.982913,42.413993
+onroll-montilla,Onroll,Montilla,ES,Domoblue,-4.641359,37.584151
+onroll-paiporta,Onroll,Paiporta,ES,Domoblue,-0.416876,39.427609
+onroll-mula,Onroll,Mula,ES,Domoblue,-1.497451,38.040805
+onroll-novelda,Onroll,Novelda,ES,Domoblue,-0.767134,38.386447
+onroll-priego-de-cordoba,Onroll,#UNENCODABLE,ES,Domoblue,-4.201188,37.440517
+onroll-palencia,Onroll,Palencia,ES,Domoblue,-4.527022,42.005639
+onroll-puertollano,Onroll,Puertollano,ES,Domoblue,-4.107794,38.691396
+onroll-pinto,Onroll,Pinto,ES,Domoblue,-3.698611,40.245741
+onroll-puerto-lumbreras,Onroll,Puerto Lumbreras,ES,Domoblue,-1.811508,37.556652
+onroll-redondela,Onroll,Redondela,ES,Domoblue,-8.615428,42.299964
+onroll-segovia,Onroll,Segovia,ES,Domoblue,-4.112397,40.941941
+onroll-soria,Onroll,Soria,ES,Domoblue,-2.467069,41.763653
+onroll-san-javier,Onroll,San Javier,ES,Domoblue,-0.808097,37.783704
+onroll-salamanca,Onroll,Salamanca,ES,Domoblue,-5.665432,40.966771
+onroll-universidad-de-granada,Onroll,"Universidad de Granada, Granada",ES,Domoblue,-3.604219,37.182438
+onroll-ubeda,Onroll,#UNENCODABLE,ES,Domoblue,-3.373276,38.011463
+onroll-talavera,Onroll,Talavera de la Reina,ES,Domoblue,-4.830319,39.961829
+onroll-san-pedro,Onroll,San Pedro del Pinatar,ES,Domoblue,-0.783944,37.827578
+onroll-sant-joan,Onroll,Sant Joan d'Alacant,ES,Domoblue,-0.434522,38.399839
+onroll-vinaros,Onroll,#UNENCODABLE,ES,Domoblue,0.466972,40.468258
+onroll-via-verde,Onroll Via Verde,Noia - Portosin - Porto do Son,ES,Domoblue,-8.908513,42.768127
+onroll-villaquilambre,Onroll,Villaquilambre,ES,Domoblue,-5.535311,42.642358
+elpaso,El Paso B-cycle,"El Paso, TX",US,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",-106.48507,31.76148

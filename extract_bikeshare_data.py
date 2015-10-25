@@ -17,7 +17,7 @@ bikeshares_dot_csv = os.path.join(os.path.dirname(__file__), "data/bikeshares.cs
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": bikeshares_dot_csv}
 os.remove(bikeshares_dot_csv) if os.path.isfile(bikeshares_dot_csv) else "NO CSV FILE DETECTED"
 bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator="\n")
-bikeshares_csv.writerow(["city","company","country","latitude","longitude","name","tag"])
+bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude"])
 
 networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 with open(networks_dot_json) as json_file:
@@ -25,28 +25,6 @@ with open(networks_dot_json) as json_file:
     for network in networks:
         network_tag = network["tag"].encode()
         network_id = network["id"]
-
-        '''
-        try:
-          city_name = network["city"].encode()
-        except UnicodeEncodeError:
-          city_name = "#UNENCODABLE"
-        n = {
-          'id': network["id"],
-          #'tag': network_tag, tag is the same as name
-          'name': network["name"].encode(),
-          #'url': network["url"].encode(),
-          #'city': city_name,
-          #'lat': network["lat"],
-          #'lng': network["lng"],
-          #'radius': network["radius"]
-        }
-        pprint(n)
-        #networks_csv.writerow([ # n.values()
-        #   n["id"], n["tag"], n["name"], n["url"], n["city"], n["lat"], n["lng"], n["radius"]
-        #])
-        '''
-
         networks_csv.writerow([network_id, network_tag])
 
         #
@@ -71,18 +49,20 @@ with open(networks_dot_json) as json_file:
           name = "#UNDECODABLE"
 
         bikeshare = {
+           'tag': response.tag.encode(),
+           'name': name,
            'city': city,
-           'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
            'country': response.meta["country"].encode(),
+           'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
            'longitude': response.meta["longitude"],
            'latitude':response.meta["latitude"],
-           'name': name,
-           'tag': response.tag.encode() #,
            #'feed_url': response.feed_url,
            #'feed_method': response.method.encode(),
            #'system': response.meta["system"],
         }
-        bikeshares_csv.writerow(bikeshare.values())
+        bikeshares_csv.writerow([ # bikeshare.values()
+            bikeshare["tag"],bikeshare["name"],bikeshare["city"],bikeshare["country"],bikeshare["company"],bikeshare["longitude"],bikeshare["latitude"]
+        ])
 
         '''
         if network_tag in ["bicipalma","bizi"]:
