@@ -13,19 +13,24 @@ os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FIL
 networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator=os.linesep)
 networks_csv.writerow(["id","tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
 
+network_companies_dot_csv = os.path.join(os.path.dirname(__file__), "data/network_companies.csv")
+print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": network_companies_dot_csv}
+os.remove(network_companies_dot_csv) if os.path.isfile(network_companies_dot_csv) else "NO CSV FILE DETECTED"
+network_companies_csv = csv.writer(open(network_companies_dot_csv, "w"), lineterminator=os.linesep)
+network_companies_csv.writerow(["network_tag","name"])
+
 stations_dot_csv = os.path.join(os.path.dirname(__file__), "data/stations.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": stations_dot_csv}
 os.remove(stations_dot_csv) if os.path.isfile(stations_dot_csv) else "NO CSV FILE DETECTED"
 stations_csv = csv.writer(open(stations_dot_csv, "w"), lineterminator=os.linesep)
 stations_csv.writerow(["id","network_tag","name","latitude","longitude","bikes","free","timestamp","extra"])
 
-'''
+
 def list_of_encoded_strings(array_of_unicode_strings):
     new_list = []
     for str in array_of_unicode_strings:
         new_list.append(str.encode())
     return new_list
-'''
 
 #
 # PARSE KNOWN NETWORKS FROM FILE
@@ -92,18 +97,24 @@ with open(networks_dot_json) as json_file:
         # WRITE NETWORK .CSV
         #
 
-        networks_csv.writerow([
-            network["tag"],
-            network["name"],
-            network["city"],
-            network["country"],
-            network["company"],
-            network["longitude"],
-            network["latitude"],
-            network["feed_url"],
-            network["feed_format"],
-            network["system_type"]
-        ])
+        networks_csv.writerow([network["tag"], network["name"], network["city"], network["country"], network["company"], network["longitude"], network["latitude"], network["feed_url"], network["feed_format"], network["system_type"] ])
+
+        #
+        # WRITE NETWORK COMPANIES .CSV
+        #
+
+        company = response.meta["company"]
+        if type(company) == str:
+            network_companies = [company] # convert to array of one element
+        elif company == None:
+            print "no companies" # network_companies = [] # convert to empty array
+        elif type(company) == list:
+            network_companies = list_of_encoded_strings(company) # convert each array element
+        else:
+            code.interact(local=locals())
+
+        for company_name in network_companies:
+            network_companies_csv.writerow([network["tag"], company_name])
 
         #
         # GET NETWORK STATIONS .JSON
@@ -134,14 +145,4 @@ with open(networks_dot_json) as json_file:
             # WRITE NETWORK STATIONS .CSV
             #
 
-            stations_csv.writerow([
-                station_id,
-                network_tag,
-                station_name,
-                station.latitude,
-                station.longitude,
-                station.bikes,
-                station.free,
-                timestamp,
-                station.extra
-            ])
+            stations_csv.writerow([station_id, network_tag, station_name, station.latitude, station.longitude, station.bikes, station.free, timestamp, station.extra ])

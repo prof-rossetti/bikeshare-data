@@ -1,0 +1,446 @@
+network_tag,name
+cyclopolis-arxaiaolympia,Cyclopolis Systems
+cyclopolis-kiato,Cyclopolis Systems
+idecycle,Keolis
+idecycle,STAP
+bicipalma,Keolis
+bicipalma,STAP
+vlille,Keolis
+cyclopolis-rhodes,Cyclopolis Systems
+cyclopolis-moschatotavros,Cyclopolis Systems
+cyclopolis-limnos,Cyclopolis Systems
+cyclopolis-nafplio,Cyclopolis Systems
+decobike-miami-beach,DecoBike LLC
+cyclopolis-aigialeia,Cyclopolis Systems
+cyclopolis-marathon,Cyclopolis Systems
+bicileon,ITCL
+cyclopolis-maroussi,Cyclopolis Systems
+cyclopolis-neasmyrni,Cyclopolis Systems
+cyclopolis-florina,Cyclopolis Systems
+decobike-san-diego,DecoBike LLC
+bicincitta-siena,Comunicare S.r.l.
+bicincitta-parco-dei-colli-di-bergamo,Comunicare S.r.l.
+bicincitta-mantova,Comunicare S.r.l.
+bicincitta-assemini,Comunicare S.r.l.
+bicincitta-tortoli,Comunicare S.r.l.
+bicincitta-gaeta,Comunicare S.r.l.
+bicincitta-borgarello,Comunicare S.r.l.
+bicincitta-pizzighettone-formigara,Comunicare S.r.l.
+bicincitta-montecatini-terme,Comunicare S.r.l.
+bicincitta-carrara,Comunicare S.r.l.
+bicincitta-cernobbio,Comunicare S.r.l.
+tigullionbike,Comunicare S.r.l.
+ascoli-piceno,Comunicare S.r.l.
+portofino-park-and-bike,Comunicare S.r.l.
+arbike,Comunicare S.r.l.
+bigi,Comunicare S.r.l.
+bici-in-busto,Comunicare S.r.l.
+biella,Comunicare S.r.l.
+meglio-in-bici,Comunicare S.r.l.
+cuneo,Comunicare S.r.l.
+lecco,Comunicare S.r.l.
+free-bike-sharing,Comunicare S.r.l.
+bike-in-bath,Comunicare S.r.l.
+manerba-in-bici,Comunicare S.r.l.
+novara,Comunicare S.r.l.
+goodbike,Comunicare S.r.l.
+mar-e-bici,Comunicare S.r.l.
+parkinbici,Comunicare S.r.l.
+parma,Comunicare S.r.l.
+pavia-in-bici,Comunicare S.r.l.
+bici-perugia,Comunicare S.r.l.
+piacenza,Comunicare S.r.l.
+reggio-emilia,Comunicare S.r.l.
+pinerolo,Comunicare S.r.l.
+rimini,Comunicare S.r.l.
+bicischio,Comunicare S.r.l.
+saluzzo,Comunicare S.r.l.
+savigliano,Comunicare S.r.l.
+terni,Comunicare S.r.l.
+tirano-in-bici,Comunicare S.r.l.
+udine,Comunicare S.r.l.
+ustica,Comunicare S.r.l.
+bici-co,Comunicare S.r.l.
+venezia,Comunicare S.r.l.
+speziainbici,Comunicare S.r.l.
+to-bike,Comunicare S.r.l.
+ciclopi,Comunicare S.r.l.
+cagliari,Comunicare S.r.l.
+gimme-bike,Comunicare S.r.l.
+sellero,Comunicare S.r.l.
+ugento,Comunicare S.r.l.
+civitavecchia,Comunicare S.r.l.
+prata-camportaccio,Comunicare S.r.l.
+longanoinbici,Comunicare S.r.l.
+cassano-d-adda,Comunicare S.r.l.
+rietinbici,Comunicare S.r.l.
+bianzone-in-bici,Comunicare S.r.l.
+lecce,Comunicare S.r.l.
+castellucchio,Comunicare S.r.l.
+notoinbici,Comunicare S.r.l.
+enna,Comunicare S.r.l.
+carbonia,Comunicare S.r.l.
+mobike,Comunicare S.r.l.
+pordenone,Comunicare S.r.l.
+e-motion-trento,Comunicare S.r.l.
+scegli-in-bici,Comunicare S.r.l.
+e-motion-pergine-valsugana,Comunicare S.r.l.
+e-motion-rovereto,Comunicare S.r.l.
+we-love-bike,Comunicare S.r.l.
+monopoli-bike,Comunicare S.r.l.
+bicinquartucciu,Comunicare S.r.l.
+andria,Comunicare S.r.l.
+olbia-bike,Comunicare S.r.l.
+bassanodelgrappa,Comunicare S.r.l.
+savona,Comunicare S.r.l.
+tradate,Comunicare S.r.l.
+brindisi,Comunicare S.r.l.
+alba,Comunicare S.r.l.
+bariinbici,Comunicare S.r.l.
+bra,Comunicare S.r.l.
+casalmaggiore,Comunicare S.r.l.
+biciamo,Comunicare S.r.l.
+chivasso,Comunicare S.r.l.
+jesinbici,Comunicare S.r.l.
+ossola,Comunicare S.r.l.
+noviligure,Comunicare S.r.l.
+nbici,Comunicare S.r.l.
+oderzo,Comunicare S.r.l.
+pistoiainbici,Comunicare S.r.l.
+treviso,Comunicare S.r.l.
+pontedera,Comunicare S.r.l.
+prato,Comunicare S.r.l.
+sandonadipiave,Comunicare S.r.l.
+settimotorinese,Comunicare S.r.l.
+gobike,Comunicare S.r.l.
+sondrio,Comunicare S.r.l.
+vercelli,Comunicare S.r.l.
+villorba,Comunicare S.r.l.
+roma-n-bike,Comunicare S.r.l.
+bikeu-bra,Bike U Sp. z o.o.
+bikes-srm,Bike U Sp. z o.o.
+bbbike,Bike U Sp. z o.o.
+bikemi,ClearChannel
+bizi,ClearChannel
+velo-antwerpen,ClearChannel
+bicing,ClearChannel
+ecobici,ClearChannel
+nextbike-leipzig,Nextbike GmbH
+nextbike-tubingen,Nextbike GmbH
+nextbike-luzern,Nextbike GmbH
+sixt-latvia-riga,Nextbike GmbH
+metropolradruhr-germany-dortmund,Nextbike GmbH
+metropolradruhr-germany-bochum,Nextbike GmbH
+metropolradruhr-germany-essen,Nextbike GmbH
+metropolradruhr-germany-hamm,Nextbike GmbH
+metropolradruhr-germany-bottrop,Nextbike GmbH
+metropolradruhr-germany-herne,Nextbike GmbH
+metropolradruhr-germany-gelsenkirchen,Nextbike GmbH
+metropolradruhr-germany-duisburg,Nextbike GmbH
+metropolradruhr-germany-mulheim-a-d-r,Nextbike GmbH
+metropolradruhr-germany-oberhausen,Nextbike GmbH
+nextbike-munchen,Nextbike GmbH
+sixt-latvia-jurmala,Nextbike GmbH
+nextbike-wachau,Nextbike GmbH
+nextbike-tulln,Nextbike GmbH
+nextbike-triestingtal,Nextbike GmbH
+nextbike-thermenregion,Nextbike GmbH
+nextbike-flensburg,Nextbike GmbH
+nextbike-romerland,Nextbike GmbH
+nextbike-obb-bahnhofe,Nextbike GmbH
+nextbike-offenburg,Nextbike GmbH
+nextbike-wr-neustadt,Nextbike GmbH
+nextbike-potsdam,Nextbike GmbH
+nextbike-bielefeld,Nextbike GmbH
+nextbike-gutersloh,Nextbike GmbH
+pronto-cycle-share,Pronto!
+pronto-cycle-share,"Alta Bicycle Share, Inc"
+nextbike-krems-ost,Nextbike GmbH
+nextbike-unteres-traisental,Nextbike GmbH
+nextbike-piestingtal,Nextbike GmbH
+nextbike-marchfeld,Nextbike GmbH
+nextbike-10vorwien,Nextbike GmbH
+usedomrad-germany-usedom,Nextbike GmbH
+nextbike-augsburg,Nextbike GmbH
+nextbike-traisen-golsental,Nextbike GmbH
+nextbike-konya,Nextbike GmbH
+nextbike-norderstedt,Nextbike GmbH
+nextbike-laa-an-der-thaya,Nextbike GmbH
+nextbike-sudheide,Nextbike GmbH
+nextbike-limassol,Nextbike GmbH
+nextbike-oberes-ybbstal,Nextbike GmbH
+nextbike-heidelberg,Nextbike GmbH
+nextbike-christchurch,Nextbike GmbH
+stadtrad-innsbruck-innsbruck,Nextbike GmbH
+nextbike-mannheim,Nextbike GmbH
+nextbike-tullnerfeld-west,Nextbike GmbH
+nextbike-berlin,Nextbike GmbH
+sz-bike-germany-dresden,Nextbike GmbH
+facherrad-germany-karlsruhe,Nextbike GmbH
+nextbike-hollabrunn,Nextbike GmbH
+nextbike-wienerwald,Nextbike GmbH
+nextbike-dobrich,Nextbike GmbH
+bykystations-uae-dubai,Nextbike GmbH
+nextbike-zagreb,Nextbike GmbH
+ebikestation-stuttgart-germany-bietigheim-bissingen,Nextbike GmbH
+nextbike-neusiedlersee,Nextbike GmbH
+bykystations-uae-al-sharjah,Nextbike GmbH
+nextbike-bath,Nextbike GmbH
+belfastbikes-belfast,Nextbike GmbH
+nextbike-friedrichshafen,Nextbike GmbH
+nextbike-glasgow,Nextbike GmbH
+nextbike-stirling,Nextbike GmbH
+bike-point-sibenik-sibenik,Nextbike GmbH
+karbis-turkey-seferihisar,Nextbike GmbH
+lrm-lublin-poland-lublin,Nextbike GmbH
+grm-grodzisk-poland-grodzisk-mazowiecki,Nextbike GmbH
+healthy-ride-pittsburgh-pittsburgh,Nextbike GmbH
+nextbike-cambridge,Nextbike GmbH
+ebikestation-stuttgart-germany-schwieberdingen,Nextbike GmbH
+nextbike-quickborn,Nextbike GmbH
+hudsonbikeshare-hoboken,Nextbike GmbH
+ibike-saudi-arabia-king-abdullah-economic-city,Nextbike GmbH
+nextbike-speyer,Nextbike GmbH
+nextbike-wurzburg,Nextbike GmbH
+nextbike-ludwigshafen,Nextbike GmbH
+ebikestation-stuttgart-germany-waiblingen,Nextbike GmbH
+ebikestation-stuttgart-germany-vaihingen-an-der-enz,Nextbike GmbH
+skybike-west-palm-beach-west-palm-beach-florida,Nextbike GmbH
+nextbike-serfaus,Nextbike GmbH
+ebikestation-stuttgart-germany-herrenberg,Nextbike GmbH
+nextbike-gospic,Nextbike GmbH
+flashfleet-kent-state-university,Nextbike GmbH
+rower-gminny-poland-juchnowiec-koscielny,Nextbike GmbH
+nextbike-offenbach-am-main,Nextbike GmbH
+nextbike-karlovac,Nextbike GmbH
+nextbike-dusseldorf,Nextbike GmbH
+nextbike-magdeburg,Nextbike GmbH
+nextbike-hamburg,Nextbike GmbH
+nextbike-auckland,Nextbike GmbH
+nextbike-st-polten,Nextbike GmbH
+nextbike-modling,Nextbike GmbH
+nextbike-frankfurt,Nextbike GmbH
+nextbike-hannover,Nextbike GmbH
+bubi,Nextbike GmbH
+norisbike-germany-nurnberg,Nextbike GmbH
+kvb-rad,Nextbike GmbH
+nextbike-sursee,Nextbike GmbH
+bemowo-bike,Nextbike GmbH
+wroclawski-rower-miejski,Nextbike GmbH
+opole-bike,Nextbike GmbH
+rower-trojmiejski,Nextbike GmbH
+poznanski-rower-miejski,Nextbike GmbH
+veturilo,Nextbike GmbH
+kmk-bike,Nextbike GmbH
+biker-bialystok,Nextbike GmbH
+konstancinski-rower-miejski,Nextbike GmbH
+city-by-bike,Nextbike GmbH
+bixi-montreal,PBSC
+barclays-cycle-hire,PBSC
+barclays-cycle-hire,Serco Group plc
+capital-bikeshare,PBSC
+capital-bikeshare,"Alta Bicycle Share, Inc"
+bike-chattanooga,PBSC
+bike-chattanooga,"Alta Bicycle Share, Inc"
+nice-ride,PBSC
+nice-ride,"Alta Bicycle Share, Inc"
+bixi-toronto,PBSC
+bixi-toronto,"Alta Bicycle Share, Inc"
+melbourne-bike-share,PBSC
+melbourne-bike-share,"Alta Bicycle Share, Inc"
+citi-bike-nyc,PBSC
+citi-bike-nyc,"Alta Bicycle Share, Inc"
+citi-bike-nyc,NYC Bike Share
+bay-area-bike-share,PBSC
+bay-area-bike-share,"Alta Bicycle Share, Inc"
+divvy,PBSC
+divvy,"Alta Bicycle Share, Inc"
+hubway,PBSC
+hubway,"Alta Bicycle Share, Inc"
+we-cycle,PBSC
+we-cycle,"Alta Bicycle Share, Inc"
+citybike-wien,Gewista Werbegesellschaft m.b.H
+cogo,PBSC
+cogo,"Alta Bicycle Share, Inc"
+girocleta,ICNITA S.L.
+konrad,DB Rent GmbH
+callabike-darmstadt,DB Rent GmbH
+callabike-berlin,DB Rent GmbH
+callabike-frankfurt,DB Rent GmbH
+stadtrad,DB Rent GmbH
+callabike-koln,DB Rent GmbH
+callabike-frankfurt-airport,DB Rent GmbH
+callabike-luneburg,DB Rent GmbH
+callabike-marburg,DB Rent GmbH
+callabike-munchen,DB Rent GmbH
+callabike-russelsheim,DB Rent GmbH
+callabike-stuttgart,DB Rent GmbH
+callabike-wiesbaden,DB Rent GmbH
+bike-sharing-napoli,CleaNap
+bikerio,Mobilicidade Tecnologia LTD
+bikerio,Grupo Serttel LTDA
+bikesampa,Mobilicidade Tecnologia LTD
+bikesampa,Grupo Serttel LTDA
+bikebh,Mobilicidade Tecnologia LTD
+bikebh,Grupo Serttel LTDA
+bikesantos,Mobilicidade Tecnologia LTD
+bikesantos,Grupo Serttel LTDA
+bikesorocaba,Mobilicidade Tecnologia LTD
+bikesorocaba,Grupo Serttel LTDA
+bikepetrolina,Mobilicidade Tecnologia LTD
+bikepetrolina,Grupo Serttel LTDA
+bikerecife,Mobilicidade Tecnologia LTD
+bikerecife,Grupo Serttel LTDA
+bikesalvador,Mobilicidade Tecnologia LTD
+bikesalvador,Grupo Serttel LTDA
+bikebrasilia,Mobilicidade Tecnologia LTD
+bikebrasilia,Grupo Serttel LTDA
+bikepoa,Mobilicidade Tecnologia LTD
+bikepoa,Grupo Serttel LTDA
+bicicletar,Mobilicidade Tecnologia LTD
+bicicletar,Grupo Serttel LTDA
+cajubike,Mobilicidade Tecnologia LTD
+cajubike,Grupo Serttel LTDA
+boulder,Trek Bicycle Corporation
+boulder,Humana
+boulder,Crispin Porter + Bogusky
+broward,Trek Bicycle Corporation
+broward,Humana
+broward,Crispin Porter + Bogusky
+charlotte,Trek Bicycle Corporation
+charlotte,Humana
+charlotte,Crispin Porter + Bogusky
+denver,Trek Bicycle Corporation
+denver,Humana
+denver,Crispin Porter + Bogusky
+desmoines,Trek Bicycle Corporation
+desmoines,Humana
+desmoines,Crispin Porter + Bogusky
+fortworth,Trek Bicycle Corporation
+fortworth,Humana
+fortworth,Crispin Porter + Bogusky
+greenbikeslc,Trek Bicycle Corporation
+greenbikeslc,Humana
+greenbikeslc,Crispin Porter + Bogusky
+greenville,Trek Bicycle Corporation
+greenville,Humana
+greenville,Crispin Porter + Bogusky
+houston,Trek Bicycle Corporation
+houston,Humana
+houston,Crispin Porter + Bogusky
+kansascity,Trek Bicycle Corporation
+kansascity,Humana
+kansascity,Crispin Porter + Bogusky
+madison,Trek Bicycle Corporation
+madison,Humana
+madison,Crispin Porter + Bogusky
+nashville,Trek Bicycle Corporation
+nashville,Humana
+nashville,Crispin Porter + Bogusky
+omaha,Trek Bicycle Corporation
+omaha,Humana
+omaha,Crispin Porter + Bogusky
+sanantonio,Trek Bicycle Corporation
+sanantonio,Humana
+sanantonio,Crispin Porter + Bogusky
+spartanburg,Trek Bicycle Corporation
+spartanburg,Humana
+spartanburg,Crispin Porter + Bogusky
+austin,Trek Bicycle Corporation
+austin,Humana
+austin,Crispin Porter + Bogusky
+indiana-pacers-bikeshare,Trek Bicycle Corporation
+indiana-pacers-bikeshare,Humana
+indiana-pacers-bikeshare,Crispin Porter + Bogusky
+santiago,Trek Bicycle Corporation
+santiago,Humana
+santiago,Crispin Porter + Bogusky
+columbia-county,Trek Bicycle Corporation
+columbia-county,Humana
+columbia-county,Crispin Porter + Bogusky
+bublr-bikes,Trek Bicycle Corporation
+bublr-bikes,Humana
+bublr-bikes,Crispin Porter + Bogusky
+catbike,Trek Bicycle Corporation
+catbike,Humana
+catbike,Crispin Porter + Bogusky
+rapid-city,Trek Bicycle Corporation
+rapid-city,Humana
+rapid-city,Crispin Porter + Bogusky
+easybike-didymoteicho,Brainbox Technology
+easybike-didymoteicho,Smoove SAS
+easybike-ioannina,Brainbox Technology
+easybike-ioannina,Smoove SAS
+easybike-karditsa,Brainbox Technology
+easybike-karditsa,Smoove SAS
+easybike-kavala,Brainbox Technology
+easybike-kavala,Smoove SAS
+easybike-drapetsona,Brainbox Technology
+easybike-drapetsona,Smoove SAS
+easybike-komotini,Brainbox Technology
+easybike-komotini,Smoove SAS
+easybike-nafpaktos,Brainbox Technology
+easybike-nafpaktos,Smoove SAS
+easybike-nicosia,Brainbox Technology
+easybike-nicosia,Smoove SAS
+easybike-mani,Brainbox Technology
+easybike-mani,Smoove SAS
+encicla,Sistema de Bicicletas Públicas del Valle de Aburrá
+thessbike,Brainbox Technology
+thessbike,Smoove SAS
+easybike-irakleio,Brainbox Technology
+easybike-irakleio,Smoove SAS
+dublinbikes,JCDecaux
+citycycle,JCDecaux
+ecobici-buenos-aires,Buenos Aires Ciudad
+velobleu,Veolia
+dkvelo,Veolia
+vel-in,Veolia
+velocea,Veolia
+onroll-a-rua,Domoblue
+onroll-albacete,Domoblue
+ciclosampa,Bradesco Seguros
+onroll-almunecar,Domoblue
+onroll-aranjuez,Domoblue
+onroll-antequera,Domoblue
+onroll-alhama-de-murcia,Domoblue
+onroll-aranda-de-duero,Domoblue
+onroll-badajoz,Domoblue
+onroll-benidorm,Domoblue
+onroll-baeza,Domoblue
+onroll-blanca,Domoblue
+onroll-cieza,Domoblue
+onroll-ciudad-real,Domoblue
+onroll-elche,Domoblue
+onroll-don-benito-villanueva,Domoblue
+onroll-el-campello,Domoblue
+onroll-guadalajara,Domoblue
+onroll-jaen,Domoblue
+onroll-lalin,Domoblue
+onroll-las-palmas,Domoblue
+onroll-o-barco,Domoblue
+onroll-montilla,Domoblue
+onroll-paiporta,Domoblue
+onroll-mula,Domoblue
+onroll-novelda,Domoblue
+onroll-priego-de-cordoba,Domoblue
+onroll-palencia,Domoblue
+onroll-puertollano,Domoblue
+onroll-pinto,Domoblue
+onroll-puerto-lumbreras,Domoblue
+onroll-redondela,Domoblue
+onroll-segovia,Domoblue
+onroll-soria,Domoblue
+onroll-san-javier,Domoblue
+onroll-salamanca,Domoblue
+onroll-universidad-de-granada,Domoblue
+onroll-ubeda,Domoblue
+onroll-talavera,Domoblue
+onroll-san-pedro,Domoblue
+onroll-sant-joan,Domoblue
+onroll-vinaros,Domoblue
+onroll-via-verde,Domoblue
+onroll-villaquilambre,Domoblue
+elpaso,Trek Bicycle Corporation
+elpaso,Humana
+elpaso,Crispin Porter + Bogusky
