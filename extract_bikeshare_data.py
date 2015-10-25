@@ -9,29 +9,28 @@ import csv
 
 networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
-#os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
-#networks_csv = csv.writer(open(networks_dot_csv, "w"))
-#networks_csv.writerow(["id","tag","name","url","city","lat","lng","radius"])
+os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
+networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator="\n")
+networks_csv.writerow(["id","tag"])
 
 bikeshares_dot_csv = os.path.join(os.path.dirname(__file__), "data/bikeshares.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": bikeshares_dot_csv}
 os.remove(bikeshares_dot_csv) if os.path.isfile(bikeshares_dot_csv) else "NO CSV FILE DETECTED"
-bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"))
+bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator="\n")
 bikeshares_csv.writerow(["city","company","country","latitude","longitude","name","tag"])
-
 
 networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 with open(networks_dot_json) as json_file:
     networks = json.load(json_file)
     for network in networks:
-
         network_tag = network["tag"].encode()
+        network_id = network["id"]
 
+        '''
         try:
           city_name = network["city"].encode()
         except UnicodeEncodeError:
           city_name = "#UNENCODABLE"
-
         n = {
           'id': network["id"],
           #'tag': network_tag, tag is the same as name
@@ -40,18 +39,24 @@ with open(networks_dot_json) as json_file:
           #'city': city_name,
           #'lat': network["lat"],
           #'lng': network["lng"],
-          'radius': network["radius"]
+          #'radius': network["radius"]
         }
         pprint(n)
         #networks_csv.writerow([ # n.values()
         #   n["id"], n["tag"], n["name"], n["url"], n["city"], n["lat"], n["lng"], n["radius"]
         #])
+        '''
+
+        networks_csv.writerow([network_id, network_tag])
 
         #
         # CALL API FOR GIVEN NETWORK TAG
         #
 
-        response = pybikes.get(network_tag)
+        try:
+          response = pybikes.get(network_tag)
+        except:
+            continue # workaround for `Exception: System Cyclocity needs a key to work`
 
         try:
           city = response.meta["city"].encode()
@@ -79,6 +84,7 @@ with open(networks_dot_json) as json_file:
         }
         bikeshares_csv.writerow(bikeshare.values())
 
+        '''
         if network_tag in ["bicipalma","bizi"]:
             continue # temporary workaround for known network errors
 
@@ -91,7 +97,7 @@ with open(networks_dot_json) as json_file:
         for station in response.stations:
             print station.to_json()
             print "----------------------"
-
+        '''
 
 
 
