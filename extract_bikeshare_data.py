@@ -11,6 +11,7 @@ networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
 os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
 networks_csv = csv.writer(open(networks_dot_csv, "w"))
+networks_csv.writerow(["id","tag","name","url","city","lat","lng","radius"])
 
 networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 with open(networks_dot_json) as json_file:
@@ -19,7 +20,7 @@ with open(networks_dot_json) as json_file:
         try:
           city_name = network["city"].encode()
         except UnicodeEncodeError:
-          city_name = "idk"
+          city_name = "#UNENCODABLE"
 
         n = {
           'id': network["id"],
@@ -32,7 +33,9 @@ with open(networks_dot_json) as json_file:
           'radius': network["radius"]
         }
         pprint(n)
-        networks_csv.writerow(n.values())
+        networks_csv.writerow([ # n.values()
+           n["id"], n["tag"], n["name"], n["url"], n["city"], n["lat"], n["lng"], n["radius"]
+        ])
 
 
 
