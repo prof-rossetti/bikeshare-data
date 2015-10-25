@@ -11,19 +11,13 @@ networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
 os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
 networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator=os.linesep)
-networks_csv.writerow(["id","tag"])
-
-open_networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/open_networks.csv")
-print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": open_networks_dot_csv}
-os.remove(open_networks_dot_csv) if os.path.isfile(open_networks_dot_csv) else "NO CSV FILE DETECTED"
-open_networks_csv = csv.writer(open(open_networks_dot_csv, "w"), lineterminator=os.linesep)
-open_networks_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
+networks_csv.writerow(["id","tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
 
 stations_dot_csv = os.path.join(os.path.dirname(__file__), "data/stations.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": stations_dot_csv}
 os.remove(stations_dot_csv) if os.path.isfile(stations_dot_csv) else "NO CSV FILE DETECTED"
 stations_csv = csv.writer(open(stations_dot_csv, "w"), lineterminator=os.linesep)
-stations_csv.writerow(["network_tag","name","latitude","longitude","bikes","free","timestamp","extra"])
+stations_csv.writerow(["id","network_tag","name","latitude","longitude","bikes","free","timestamp","extra"])
 
 '''
 def list_of_encoded_strings(array_of_unicode_strings):
@@ -34,107 +28,110 @@ def list_of_encoded_strings(array_of_unicode_strings):
 '''
 
 #
-# PARSE KNOWN NETWORKS
+# PARSE KNOWN NETWORKS FROM FILE
 #
 
 networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 with open(networks_dot_json) as json_file:
-    networks = json.load(json_file)
-    for network in networks:
-        network_tag = network["tag"].encode()
-        network_id = network["id"]
-        networks_csv.writerow([network_id, network_tag])
+    station_id = 0
+    known_networks = json.load(json_file)
+    for known_network in known_networks:
+        network_tag = known_network["tag"].encode()
 
         #
-        # CALL API FOR NETWORK
+        # GET NETWORK
         #
 
         try:
-          response = pybikes.get(network_tag)
+            response = pybikes.get(network_tag)
         except:
             continue # workaround for `Exception: System Cyclocity needs a key to work`
 
         try:
-          city = response.meta["city"].encode()
+            network_city_name = response.meta["city"].encode()
         except UnicodeEncodeError:
-          city = "#UNENCODABLE"
+            network_city_name = "#UNENCODABLE"
 
         try:
-          name = response.meta["name"].encode()
+            network_name = response.meta["name"].encode()
         except UnicodeEncodeError:
-          name = "#UNENCODABLE"
+            network_name = "#UNENCODABLE"
         except UnicodeDecodeError:
-          name = "#UNDECODABLE"
+            network_name = "#UNDECODABLE"
 
         try:
-          feed_url = response.feed_url
+            feed_url = response.feed_url
         except:
-          feed_url = None # "#UNKNOWN"
+            feed_url = None
 
         try:
-          feed_format = response.method.encode()
+            feed_format = response.method.encode()
         except:
-          feed_format = None #"#UNKNOWN"
+            feed_format = None
 
         try:
-          system_type = response.meta["system"].encode()
+            system_type = response.meta["system"].encode()
         except:
-          system_type = None #"#UNKNOWN"
+            system_type = None
 
-        open_network = {
-           'tag': response.tag.encode(),
-           'name': name,
-           'city': city,
-           'country': response.meta["country"].encode(),
-           'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
-           'longitude': response.meta["longitude"],
-           'latitude':response.meta["latitude"],
-           'feed_url': feed_url,
-           'feed_format': feed_format,
-           'system_type': system_type,
+        network = {
+            'tag': response.tag.encode(),
+            'name': network_name,
+            'city': network_city_name,
+            'country': response.meta["country"].encode(),
+            'company': response.meta["company"],
+            'longitude': response.meta["longitude"],
+            'latitude':response.meta["latitude"],
+            'feed_url': feed_url,
+            'feed_format': feed_format,
+            'system_type': system_type,
         }
-        pprint(open_network)
-        open_networks_csv.writerow([
-            open_network["tag"],
-            open_network["name"],
-            open_network["city"],
-            open_network["country"],
-            open_network["company"],
-            open_network["longitude"],
-            open_network["latitude"],
-            open_network["feed_url"],
-            open_network["feed_format"],
-            open_network["system_type"]
-        ]) # open_network.values()
+        pprint(network)
+        networks_csv.writerow([
+            network["tag"],
+            network["name"],
+            network["city"],
+            network["country"],
+            network["company"],
+            network["longitude"],
+            network["latitude"],
+            network["feed_url"],
+            network["feed_format"],
+            network["system_type"]
+        ])
 
         #
-        # CALL API FOR STATIONS
+        # GET NETWORK STATIONS
         #
 
         try:
-          response.update()
+            response.update()
         except:
             continue # skip problematic calls for: ["bicipalma", et al]
 
         for station in response.stations:
+            station_id +=1
             pprint(station.to_json())
-            timestamp = station.timestamp.strftime('%Y-%m-%d %H:%M:%S')
 
             try:
-              station_name = station.name.encode()
+                timestamp = station.timestamp.strftime('%Y-%m-%d %H:%M:%S')
+            except:
+                code.interact(local=locals())
+                #timestamp = None
+
+            try:
+                station_name = station.name.encode()
             except:
                 station_name = None
 
-            try:
-              stations_csv.writerow([
-                  network_tag,
-                  station_name,
-                  station.latitude,
-                  station.longitude,
-                  station.bikes,
-                  station.free,
-                  timestamp,
-                  station.extra
-              ]) # station.values()
-            except:
-                code.interact(local=locals())
+            stations_csv.writerow([
+                station_id,
+                network_tag,
+                station_name,
+                station.latitude,
+                station.longitude,
+                station.bikes,
+                station.free,
+                timestamp,
+                station.extra
+            ])
