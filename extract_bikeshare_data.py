@@ -11,20 +11,19 @@ networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
 os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
 networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator=os.linesep)
-networks_csv.writerow(["id","tag","name","city","country","company","longitude","latitude","feed_url","feed_format","system_type"])
+networks_csv.writerow(["tag", "name", "city", "country", "company", "longitude", "latitude", "feed_url", "feed_format", "system_type"])
 
 network_companies_dot_csv = os.path.join(os.path.dirname(__file__), "data/network_companies.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": network_companies_dot_csv}
 os.remove(network_companies_dot_csv) if os.path.isfile(network_companies_dot_csv) else "NO CSV FILE DETECTED"
 network_companies_csv = csv.writer(open(network_companies_dot_csv, "w"), lineterminator=os.linesep)
-network_companies_csv.writerow(["network_tag","name"])
+network_companies_csv.writerow(["network_tag","company_name"])
 
 stations_dot_csv = os.path.join(os.path.dirname(__file__), "data/stations.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": stations_dot_csv}
 os.remove(stations_dot_csv) if os.path.isfile(stations_dot_csv) else "NO CSV FILE DETECTED"
 stations_csv = csv.writer(open(stations_dot_csv, "w"), lineterminator=os.linesep)
 stations_csv.writerow(["id","network_tag","name","latitude","longitude","bikes","free","timestamp","extra"])
-
 
 def list_of_encoded_strings(array_of_unicode_strings):
     new_list = []
@@ -145,4 +144,4 @@ with open(networks_dot_json) as json_file:
             # WRITE NETWORK STATIONS .CSV
             #
 
-            stations_csv.writerow([station_id, network_tag, station_name, station.latitude, station.longitude, station.bikes, station.free, timestamp, station.extra ])
+            stations_csv.writerow([station_id, network["tag"], station_name, station.latitude, station.longitude, station.bikes, station.free, timestamp, station.extra ])

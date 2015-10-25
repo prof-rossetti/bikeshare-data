@@ -1,4 +1,4 @@
-id,tag,name,city,country,company,longitude,latitude,feed_url,feed_format,system_type
+tag,name,city,country,company,longitude,latitude,feed_url,feed_format,system_type
 cyclopolis-arxaiaolympia,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,21.6247265179,37.6419700934,http://arxaiaolympia.cyclopolis.gr/index.php/en/stations,,Cyclopolis
 cyclopolis-kiato,Cyclopolis,#UNENCODABLE,GR,Cyclopolis Systems,22.7493819902,38.0132674508,http://kiato.cyclopolis.gr/index.php/en/stations,,Cyclopolis
 idecycle,IDECycle,Pau,FR,"[u'Keolis', u'STAP']",-0.370797,43.2951,http://www.idecycle.com/stations/plan,,Keolis
