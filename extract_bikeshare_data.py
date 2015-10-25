@@ -10,14 +10,26 @@ import csv
 networks_dot_csv = os.path.join(os.path.dirname(__file__), "data/networks.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": networks_dot_csv}
 os.remove(networks_dot_csv) if os.path.isfile(networks_dot_csv) else "NO CSV FILE DETECTED"
-networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator="\n")
+networks_csv = csv.writer(open(networks_dot_csv, "w"), lineterminator=os.linesep)
 networks_csv.writerow(["id","tag"])
 
 bikeshares_dot_csv = os.path.join(os.path.dirname(__file__), "data/bikeshares.csv")
 print "WRITING TO CSV FILE -- %(file_name)s" % {"file_name": bikeshares_dot_csv}
 os.remove(bikeshares_dot_csv) if os.path.isfile(bikeshares_dot_csv) else "NO CSV FILE DETECTED"
-bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator="\n")
-bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude"])
+bikeshares_csv = csv.writer(open(bikeshares_dot_csv, "w"), lineterminator=os.linesep)
+bikeshares_csv.writerow(["tag","name","city","country","company","longitude","latitude","feed_url","feed_method","system_type"])
+
+'''
+def list_of_encoded_strings(array_of_unicode_strings):
+    new_list = []
+    for str in array_of_unicode_strings:
+        new_list.append(str.encode())
+    return new_list
+'''
+
+#
+# PARSE KNOWN NETWORKS
+#
 
 networks_dot_json = os.path.join(os.path.dirname(__file__), "fixtures/citybikes_api/get_networks.json")
 with open(networks_dot_json) as json_file:
@@ -28,7 +40,7 @@ with open(networks_dot_json) as json_file:
         networks_csv.writerow([network_id, network_tag])
 
         #
-        # CALL API FOR GIVEN NETWORK TAG
+        # CALL API FOR NETWORK
         #
 
         try:
@@ -48,6 +60,21 @@ with open(networks_dot_json) as json_file:
         except UnicodeDecodeError:
           name = "#UNDECODABLE"
 
+        try:
+          feed_url = response.feed_url
+        except:
+          feed_url = None # "#UNKNOWN"
+
+        try:
+          feed_method = response.method.encode()
+        except:
+          feed_method = None #"#UNKNOWN"
+
+        try:
+          system_type = response.meta["system"]
+        except:
+          system_type = None #"#UNKNOWN"
+
         bikeshare = {
            'tag': response.tag.encode(),
            'name': name,
@@ -56,66 +83,31 @@ with open(networks_dot_json) as json_file:
            'company': response.meta["company"], # list_of_encoded_strings(response.meta["company"]),
            'longitude': response.meta["longitude"],
            'latitude':response.meta["latitude"],
-           #'feed_url': response.feed_url,
-           #'feed_method': response.method.encode(),
-           #'system': response.meta["system"],
+           'feed_url': feed_url,
+           'feed_method': feed_method,
+           'system_type': system_type,
         }
+        pprint(bikeshare)
         bikeshares_csv.writerow([ # bikeshare.values()
-            bikeshare["tag"],bikeshare["name"],bikeshare["city"],bikeshare["country"],bikeshare["company"],bikeshare["longitude"],bikeshare["latitude"]
+            bikeshare["tag"], bikeshare["name"], bikeshare["city"], bikeshare["country"],
+            bikeshare["company"], bikeshare["longitude"], bikeshare["latitude"],
+            bikeshare["feed_url"], bikeshare["feed_method"], bikeshare["system_type"]
         ])
 
-        '''
+        #
+        # CALL API FOR STATIONS
+        #
+'''
         if network_tag in ["bicipalma","bizi"]:
-            continue # temporary workaround for known network errors
+            continue # temporary workaround for expected network errors
 
-        response.update() # makes an api call for the stations...
-
+        response.update()
         bikeshare["station_count"] = len(response.stations)
 
-        pprint(bikeshare)
+
 
         for station in response.stations:
             print station.to_json()
             print "----------------------"
-        '''
 
-
-
-
-'''
-response = pybikes.get('capital-bikeshare')
-
-def list_of_encoded_strings(array_of_unicode_strings):
-    new_list = []
-    for str in array_of_unicode_strings:
-        new_list.append(str.encode())
-    return new_list
-
-bikeshare = {
-   'tag': response.tag.encode(),
-   'feed_url': response.feed_url.encode(),
-   'feed_method': response.method.encode(),
-   'city': response.meta["city"].encode(),
-   'name': response.meta["name"].encode(),
-   'country': response.meta["country"].encode(),
-   'companies': list_of_encoded_strings(response.meta["company"]),
-   'system': response.meta["system"].encode(),
-   'longitude': response.meta["longitude"],
-   'latitude':response.meta["latitude"]
-}
-print bikeshare
-
-#
-# REQUEST AND PRINT INFO ABOUT EACH STATION
-#
-
-print "----------------------"
-print "GETTING BIKE STATIONS..."
-print "----------------------"
-
-response.update()
-
-for station in response.stations:
-    print station.to_json()
-    print "----------------------"
 '''
