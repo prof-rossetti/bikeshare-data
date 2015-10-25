@@ -39,7 +39,7 @@ with open(networks_dot_json) as json_file:
         network_tag = known_network["tag"].encode()
 
         #
-        # GET NETWORK
+        # GET NETWORK .JSON
         #
 
         try:
@@ -87,6 +87,11 @@ with open(networks_dot_json) as json_file:
             'system_type': system_type,
         }
         pprint(network)
+
+        #
+        # WRITE NETWORK .CSV
+        #
+
         networks_csv.writerow([
             network["tag"],
             network["name"],
@@ -101,7 +106,7 @@ with open(networks_dot_json) as json_file:
         ])
 
         #
-        # GET NETWORK STATIONS
+        # GET NETWORK STATIONS .JSON
         #
 
         try:
@@ -109,20 +114,25 @@ with open(networks_dot_json) as json_file:
         except:
             continue # skip problematic calls for: ["bicipalma", et al]
 
+        print len(response.stations)
+
         for station in response.stations:
             station_id +=1
-            pprint(station.to_json())
+            # print station_id # pprint(station.to_json())
 
             try:
                 timestamp = station.timestamp.strftime('%Y-%m-%d %H:%M:%S')
             except:
-                code.interact(local=locals())
-                #timestamp = None
+                timestamp = None # handle stations like the 'bike-sharing-napoli' network's "CleaNap demo LumiLab" station, which has no timestamp
 
             try:
                 station_name = station.name.encode()
             except:
                 station_name = None
+
+            #
+            # WRITE NETWORK STATIONS .CSV
+            #
 
             stations_csv.writerow([
                 station_id,
